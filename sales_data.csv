@@ -1,0 +1,2031 @@
+Order ID,Order Date,Customer Name,Category,Product Name,Region,Sales,Quantity,Profit
+ORD-11846,2024-01-09,Customer_52,Furniture,Filing Cabinet,East,1625.82,14,-155.29
+ORD-11471,2023-06-08,Customer_146,Office Supplies,Printer Paper,West,988.61,5,74.28
+ORD-11778,2024-11-06,Customer_196,Office Supplies,Folder,East,519.35,12,6.43
+ORD-11411,2024-08-28,Customer_220,Clothing,Hat,North,1021.37,8,264.08
+ORD-10386,2024-01-04,Customer_201,Clothing,Jacket,South,194.64,14,29.87
+ORD-10350,2024-05-22,Customer_121,Furniture,Bookshelf,South,1277.48,8,95.71
+ORD-10311,2024-08-24,Customer_137,Clothing,Jeans,North,1183.78,13,-68.38
+ORD-11931,2023-07-09,Customer_21,Clothing,Jeans,East,325.44,2,5.56
+ORD-10840,2024-08-02,Customer_117,Clothing,T-Shirt,South,764.19,7,198.9
+ORD-10492,2024-07-13,Customer_150,Technology,Webcam,North,33.23,4,7.85
+ORD-11829,2024-05-22,Customer_13,Furniture, Sofa  ,East,248.02,14,14.61
+ORD-10488,2023-08-07,Customer_295,Technology,Keyboard,NORTH,169.66,11,55.26
+ORD-11930,2024-08-06,Customer_120,Furniture,Standing Desk,West,1608.08,11,393.14
+ORD-10705,2023-05-28,Customer_25,Electronics,Smartwatch,West,374.48,2,93.15
+ORD-11388,2024-08-20,Customer_266,Furniture,Sofa,West,659.5,6,-20.69
+ORD-10971,2024-12-11,Customer_182,Electronics,Speaker,West,718.01,8,151.75
+ORD-11963,2024-12-01,Customer_23,Electronics,Smartwatch,North,931.65,2,282.74
+ORD-10976,2024-11-07,Customer_101,Office Supplies,Printer Paper,North,1517.49,10,181.84
+ORD-11342,2023-01-08,Customer_252,Office Supplies,Printer Paper,East,1149.95,3,264.89
+ORD-10396,2024-02-21,Customer_75,Technology,Mouse,East,1134.17,11,80.09
+ORD-11940,2024-05-13,Customer_77,Furniture,Standing Desk,North,796.07,1,84.94
+ORD-11090,2024-04-21,Customer_179,Furniture,Bookshelf,West,,8,-15.67
+ORD-11979,2024-08-31,Customer_240,Office Supplies,Pen Set,East,1566.33,9,52.21
+ORD-11780,2024-05-17,Customer_183,Technology,Laptop,South,690.71,10,90.37
+ORD-11242,2023-06-24,Customer_234,Furniture,Filing Cabinet,West,248.3,12,-23.96
+ORD-10921,2024-07-23,Customer_20,Technology,Monitor,North,33.94,13,8.58
+ORD-11750,2024-07-26,Customer_137,Clothing,Sneakers,East,812.46,8,158.38
+ORD-10110,2024-12-15,Customer_194,Furniture,Bookshelf,East,1151.79,12,-11.53
+ORD-10744,2023-09-04,Customer_50,Technology,Keyboard,North,555.71,13,-14.23
+ORD-10620,2024-04-02,Customer_286,Electronics,Headphones,South,643.36,5,-82.65
+ORD-11371,2023-07-12,Customer_165,Electronics,Tablet,North,708.58,3,78.13
+ORD-10595,2024-08-01,,Clothing,Hat,West,508.38,10,43.46
+ORD-11438,2024-06-14,Customer_246,Technology,Mouse,East,1669.88,13,128.81
+ORD-11280,2023-03-03,Customer_33,Technology,Keyboard,South,1615.47,1,-23.11
+ORD-11934,2024-10-06,Customer_67,Clothing,Jacket,West,1182.97,10,90.01
+ORD-10367,2023-01-19,Customer_108,Electronics,Headphones,SOUTH,833.82,5,253.32
+ORD-11047,2024-09-18,Customer_152,Technology,Webcam,North,1711.71,14,384.28
+ORD-10002,2023-06-10,Customer_277,Clothing,Jacket,SOUTH,622.4,12,69.94
+ORD-10423,2023-06-22,Customer_109,Office Supplies,Notebook,South,91.16,8,4.32
+ORD-10377,2023-12-30,Customer_188,Electronics,Speaker,,1600.79,12,418.14
+ORD-11872,2023-09-14,Customer_211,Furniture,Filing Cabinet,East,,2,-6.6
+ORD-11385,2024-04-11,Customer_28,Office Supplies,Pen Set,South,644.99,5,-68.71
+ORD-11038,2023-11-22,Customer_103,Electronics,Speaker,North,1009.37,2,-120.45
+ORD-10308,2023-04-23,Customer_183,Electronics,Charger,East,879.36,4,-92.95
+ORD-11982,2024-12-29,Customer_266,Electronics,Charger,West,519.16,12,170.0
+ORD-10392,2023-06-13,Customer_101,Clothing,Hat,West,1815.75,11,-152.18
+ORD-11126,2023-08-03,Customer_103,Furniture,Standing Desk,West,530.47,13,28.33
+ORD-11396,2024-04-02,Customer_54,Furniture,Sofa,North,442.46,9,18.82
+ORD-11850,2023-10-10,Customer_162,Furniture,Bookshelf,North,767.54,5,187.54
+ORD-11227,2024-07-19,Customer_175,Clothing,Sneakers,North,1528.82,9,181.46
+ORD-11554,2024-04-24,Customer_183,Office Supplies,Pen Set,South,1526.57,3,523.63
+ORD-11361,2023-11-13,Customer_92,Electronics,Headphones,East,585.02,2,191.85
+ORD-11678,2024-03-19,Customer_230,Clothing,Hat,South,684.86,2,-101.64
+ORD-10718,2024-05-17,Customer_168,Electronics,Tablet,East,1156.22,3,-138.22
+ORD-10340,2023-08-06,Customer_248,Technology,Webcam,South,219.26,4,-6.59
+ORD-11228,2023-06-14,Customer_112,Electronics,Smartwatch,East,306.27,2,60.53
+ORD-10657,2023-05-28,Customer_164,Furniture,Office Chair,West,1892.93,13,-3.95
+ORD-10544,2024-04-02,Customer_61,Electronics,Tablet,South,31.32,13,2.6
+ORD-11109,2024-12-02,Customer_157,Furniture,Sofa,North,1659.29,9,390.96
+ORD-11764,2024-05-17,Customer_149,Technology,Laptop,West,1028.39,5,119.47
+ORD-10694,2023-05-24,Customer_251,Furniture,Filing Cabinet,North,1735.26,12,-117.45
+ORD-10681,2024-05-27,Customer_161,Technology,Keyboard,South,341.83,4,64.2
+ORD-11759,2024-05-26,Customer_286,Electronics,Charger,East,1069.22,6,-123.5
+ORD-10455,2023-09-23,Customer_116,Furniture,Standing Desk,East,1682.84,5,380.13
+ORD-11159,2024-02-21,Customer_59,Furniture,Standing Desk,West,1064.44,9,279.33
+ORD-10593,2024-11-26,Customer_238,Technology,Mouse,,896.74,2,-17.46
+ORD-11149,2023-12-08,Customer_90,Furniture,Filing Cabinet,North,525.26,10,146.67
+ORD-10558,2023-08-27,Customer_45,Clothing,Jeans,North,1373.24,7,51.8
+ORD-11015,2024-10-29,Customer_141,Electronics,Smartwatch,South,1386.54,7,239.59
+ORD-10540,2023-06-10,Customer_204,Clothing,Jacket,West,876.05,6,-117.76
+ORD-10127,2023-05-07,Customer_133,Clothing,Jeans,South,322.03,10,44.49
+ORD-10556,2024-03-13,Customer_13,Clothing,Jacket,East,1174.72,8,172.0
+ORD-10196,2023-11-05,Customer_93,Clothing, T-Shirt  ,West,324.24,2,24.92
+ORD-11771,2023-05-20,Customer_289,Furniture,Bookshelf,East,1147.63,12,330.86
+ORD-11894,2024-04-07,Customer_88,Technology,Keyboard,West,899.25,9,-105.97
+ORD-11483,2023-04-01,Customer_146,Office Supplies,Folder,North,1771.66,2,280.12
+ORD-11893,2023-10-16,Customer_161,Office Supplies,Notebook,North,1918.33,10,136.17
+ORD-10229,2023-05-25,Customer_114,Office Supplies,Stapler,East,1665.14,1,470.08
+ORD-10869,2024-12-17,Customer_219,Electronics,Speaker,West,746.02,4,33.91
+ORD-11799,2024-10-24,Customer_299,Electronics,Speaker,South,522.99,9,1.73
+ORD-11862,2024-08-23,Customer_40,Furniture,Bookshelf,East,179.03,9,52.54
+ORD-10415,2024-10-29,Customer_157,Technology,Laptop,East,221.75,3,6.68
+ORD-11838,2024-08-04,Customer_20,Furniture,Sofa,,1804.42,3,-156.89
+ORD-11683,2023-03-20,Customer_191,Electronics,Headphones,West,795.85,2,4.0
+ORD-11271,2023-04-05,Customer_264,Office Supplies,Folder,East,1316.46,12,-47.11
+ORD-11637,2024-07-23,Customer_240,Technology,Webcam,West,761.97,4,238.32
+ORD-10619,2024-08-05,Customer_45,Office Supplies,Notebook,North,1869.92,10,576.33
+ORD-11876,2023-10-25,Customer_143,Technology,Mouse,North,494.19,8,-19.47
+ORD-10951,2023-08-19,Customer_76,Technology,Mouse,North,1586.8,6,-78.62
+ORD-10795,2024-05-23,Customer_44,Clothing,Jeans,East,1041.04,4,102.67
+ORD-10452,2024-11-02,,Office Supplies,Stapler,North,1035.19,3,93.97
+ORD-10895,2023-08-05,Customer_174,Technology, Monitor  ,East,1756.7,5,-49.91
+ORD-11338,2024-01-06,Customer_228,Electronics,Tablet,North,1580.56,6,319.36
+ORD-11114,2023-03-24,Customer_71,Office Supplies,Notebook,West,714.27,3,27.43
+ORD-11853,2023-04-05,Customer_152,Furniture,Office Chair,South,1211.67,10,165.39
+ORD-11870,2023-09-19,Customer_129,Office Supplies,Pen Set,East,277.34,5,27.27
+ORD-11867,2023-06-11,Customer_156,Clothing,Jeans,West,829.51,1,-38.93
+ORD-11037,2023-03-18,,Clothing,Jeans,North,1719.57,11,-57.95
+ORD-11306,2023-01-18,Customer_289,Office Supplies,Pen Set,North,239.62,10,12.73
+ORD-10241,2023-11-20,Customer_271,Clothing,Jeans,North,1870.18,2,48.27
+ORD-11018,2024-09-26,Customer_64,Clothing,Jacket,West,1596.65,1,225.98
+ORD-11215,2023-01-23,Customer_142,Technology,Keyboard,West,1845.66,13,-180.39
+ORD-11913,2024-08-03,Customer_244,Furniture,Standing Desk,East,1587.32,1,-146.6
+ORD-10108,2024-10-25,Customer_95,Clothing,Jeans,East,1795.6,3,-197.31
+ORD-10684,2023-12-21,Customer_16,Furniture,Standing Desk,South,319.86,4,21.23
+ORD-10037,2023-10-10,Customer_264,Electronics,Tablet,,880.1,1,22.04
+ORD-10855,2024-10-02,Customer_209,Office Supplies,Pen Set,North,706.98,12,46.59
+ORD-11911,2023-08-28,Customer_118,Electronics,Speaker,West,81.65,7,27.25
+ORD-11260,2024-04-25,Customer_244,Technology,Webcam,North,883.76,6,296.92
+ORD-10140,2024-08-01,Customer_229,Electronics,Headphones,North,1777.17,8,228.12
+ORD-11164,2023-09-04,Customer_139,Electronics,Speaker,NORTH,30.69,6,5.65
+ORD-10058,2024-01-15,Customer_163,Clothing,Sneakers,East,274.43,11,70.14
+ORD-11518,2023-07-07,Customer_210,Clothing,Sneakers,East,232.58,6,-17.95
+ORD-10204,2023-04-16,Customer_143,Technology,Monitor,East,351.62,11,-34.36
+ORD-11441,2024-04-06,Customer_54,Technology,Keyboard,East,1994.4,5,-7.37
+ORD-10830,2024-05-24,Customer_146,Office Supplies,Notebook,WEST,453.17,9,5.94
+ORD-10426,2024-08-08,Customer_53,Technology,Webcam,South,49.09,8,1.94
+ORD-11758,2023-10-22,Customer_65,Office Supplies,Printer Paper,North,51.03,12,3.01
+ORD-11329,2023-08-06,Customer_57,Office Supplies,Notebook,East,1646.72,11,209.54
+ORD-10779,2023-08-17,Customer_216,Electronics, Headphones  ,West,1700.87,12,82.72
+ORD-10572,2024-05-02,Customer_224,Clothing,Jeans,West,408.91,5,133.19
+ORD-11793,2023-09-02,Customer_233,Furniture,Bookshelf,North,1167.72,14,-174.52
+ORD-10034,2023-06-02,Customer_99,Clothing,Jeans,South,30.02,2,-2.09
+ORD-10410,2023-11-09,Customer_275,Electronics,Tablet,West,1524.03,7,-85.47
+ORD-10217,2024-07-06,Customer_293,Clothing,Jacket,North,509.52,14,145.4
+ORD-10367,2023-01-19,Customer_108,Electronics,Headphones,South,833.82,5,253.32
+ORD-11120,2023-01-11,Customer_281,Clothing,T-Shirt,South,1299.17,14,-97.04
+ORD-11650,2024-05-02,Customer_291,Clothing,Jeans,North,778.5,10,11.83
+ORD-10259,2024-05-29,Customer_136,Furniture,Sofa,West,1855.81,12,-60.65
+ORD-11195,2023-07-19,Customer_289,Clothing,Jacket,West,1677.12,7,583.2
+ORD-11246,2023-05-01,Customer_300,Clothing,Jeans,North,796.92,4,41.92
+ORD-11206,2024-03-02,Customer_125,Clothing,Jeans,South,1834.95,3,372.03
+ORD-11106,2024-08-18,Customer_268,Clothing,Jeans,West,732.45,5,88.17
+ORD-10007,2024-01-23,Customer_50,Office Supplies,Notebook,South,637.19,10,70.11
+ORD-10328,2023-02-27,Customer_168,Clothing,Sneakers,East,1506.44,2,194.32
+ORD-10899,2023-09-06,Customer_73,Clothing,Hat,West,1200.77,10,-15.48
+ORD-11084,2023-12-22,Customer_132,Furniture,Standing Desk,West,1866.36,9,522.12
+ORD-11417,2023-07-19,Customer_191,Clothing,Sneakers,West,1165.6,7,-131.08
+ORD-10020,2023-08-13,Customer_190,Clothing,T-Shirt,North,558.82,9,97.15
+ORD-10740,2023-08-25,Customer_246,Electronics,Charger,North,126.2,11,26.34
+ORD-11804,2023-02-03,Customer_98,Electronics,Headphones,West,1278.53,1,-96.95
+ORD-11831,2023-05-31,Customer_157,Clothing,Hat,East,1936.95,11,483.15
+ORD-11880,2024-06-06,Customer_300,Office Supplies,Pen Set,North,964.05,4,-80.7
+ORD-11789,2024-10-24,Customer_102,Technology,Webcam,South,891.49,1,221.08
+ORD-11210,2024-06-28,Customer_95,Office Supplies,Stapler,East,1830.59,7,494.84
+ORD-10501,2024-05-18,Customer_77,Office Supplies,Printer Paper,North,416.56,1,65.98
+ORD-11808,2024-12-05,Customer_165,Furniture,Filing Cabinet,West,386.83,3,128.49
+ORD-10953,2023-01-31,Customer_220,Furniture,Filing Cabinet,North,1015.21,8,-21.43
+ORD-11323,2023-12-08,Customer_128,Technology,Laptop,East,445.41,12,-57.83
+ORD-11705,2024-12-11,Customer_17,Technology,Keyboard,West,148.71,3,5.12
+ORD-11297,2024-03-15,Customer_191,Electronics,Speaker,East,1566.89,11,51.64
+ORD-11855,2024-04-20,Customer_294,Office Supplies,Notebook,East,973.77,8,49.01
+ORD-10441,2024-03-28,Customer_46,Electronics,Speaker,West,1249.4,14,392.72
+ORD-11921,2024-02-15,Customer_282,Office Supplies,Printer Paper,West,1137.59,5,371.03
+ORD-10172,2024-05-07,Customer_243,Clothing,Hat,North,258.27,9,-32.68
+ORD-11425,2023-09-20,Customer_280,Clothing,T-Shirt,South,1551.48,2,446.14
+ORD-10470,2024-07-16,Customer_217,Furniture,Office Chair,North,751.18,8,237.72
+ORD-11508,2023-06-01,Customer_175,Furniture,Standing Desk,West,337.19,3,-49.27
+ORD-10185,2023-01-17,Customer_233,Electronics,Tablet,West,249.37,8,9.56
+ORD-10237,2023-01-03,Customer_265,Technology,Monitor,East,1093.88,2,356.32
+ORD-11918,2023-03-08,Customer_12,Office Supplies,Pen Set,South,1509.84,7,-68.82
+ORD-11384,2023-05-27,Customer_156,Technology,Keyboard,SOUTH,304.79,13,-44.31
+ORD-10375,2023-05-07,Customer_49,Electronics,Smartwatch,East,699.47,9,150.1
+ORD-10596,2023-07-30,Customer_10,Furniture,Standing Desk,South,1810.63,10,468.42
+ORD-10351,2023-09-22,Customer_286,Electronics,Smartwatch,South,,9,3.76
+ORD-11784,2024-11-20,,Clothing,Hat,North,617.64,12,65.6
+ORD-11767,2024-06-14,Customer_259,Clothing,Hat,South,911.77,13,158.04
+ORD-10051,2024-09-25,Customer_58,Clothing,Hat,West,329.75,14,-8.2
+ORD-10036,2024-11-18,Customer_33,Office Supplies,Notebook,South,,7,6.96
+ORD-11638,2023-11-24,Customer_217,Furniture,Filing Cabinet,West,867.18,14,-87.3
+ORD-11644,2023-12-02,Customer_78,Electronics,Headphones,East,76.69,7,-3.84
+ORD-10298,2023-05-09,Customer_72,Technology, Monitor  ,South,1488.59,4,432.77
+ORD-11960,2023-08-07,Customer_273,Office Supplies,Stapler,North,1206.37,8,-123.25
+ORD-10278,2023-06-13,Customer_160,Technology,Webcam,West,755.39,11,-12.9
+ORD-11660,2023-12-16,Customer_202,Office Supplies,Pen Set,South,426.44,13,-1.51
+ORD-11991,2024-07-20,Customer_56,Technology,Monitor,East,1834.92,9,-0.8
+ORD-10967,2024-03-20,Customer_218,Technology,Webcam,North,932.13,7,3.3
+ORD-10882,2023-01-16,Customer_225,Clothing,Jacket,North,226.54,12,-17.5
+ORD-11374,2024-04-30,Customer_72,Technology,Monitor,North,1917.49,14,-193.95
+ORD-10804,2023-04-22,Customer_212,Clothing,Jacket,West,387.84,12,-41.7
+ORD-10977,2023-09-01,Customer_271,Clothing,Jacket,South,832.79,7,263.66
+ORD-11520,2024-03-01,Customer_93,Technology,Monitor,West,564.75,2,58.49
+ORD-11552,2024-04-02,Customer_204,Office Supplies,Printer Paper,East,177.72,9,-20.45
+ORD-11973,2024-12-28,Customer_262,Technology,Monitor,West,,1,-129.95
+ORD-10450,2023-11-18,Customer_170,Office Supplies,Folder,South,1039.07,6,264.07
+ORD-10146,2024-06-09,Customer_209,Furniture,Standing Desk,,1488.54,9,296.85
+ORD-10325,2023-05-24,Customer_98,Furniture,Standing Desk,East,835.3,6,146.58
+ORD-11796,2024-03-30,Customer_172,Electronics,Speaker,South,245.25,13,-19.77
+ORD-11028,2024-11-17,Customer_190,Clothing,Jacket,North,1850.82,8,200.94
+ORD-11033,2023-08-08,Customer_228,Furniture,Sofa,North,1831.97,10,507.93
+ORD-11301,2024-06-23,Customer_68,Office Supplies,Pen Set,West,1609.07,7,149.96
+ORD-10284,2023-04-11,Customer_87,Electronics,Tablet,West,114.71,7,-15.03
+ORD-11340,2024-10-30,Customer_231,Electronics,Speaker,East,434.39,5,-64.35
+ORD-11908,2024-01-30,Customer_179,Technology,Laptop,South,873.54,9,44.26
+ORD-10206,2023-11-14,Customer_84,Clothing,Jacket,South,1232.27,11,113.61
+ORD-11729,2023-10-14,Customer_270,Technology,Monitor,East,1011.92,5,37.93
+ORD-11843,2023-05-29,Customer_111,Electronics,Charger,South,839.86,10,-19.44
+ORD-11823,2023-02-08,Customer_34,Electronics,Tablet,East,898.96,8,82.8
+ORD-11334,2024-12-26,Customer_71,Furniture,Sofa,West,144.46,14,12.72
+ORD-11457,2024-11-12,Customer_125,Electronics,Charger,North,436.71,12,3.99
+ORD-10561,2023-04-08,Customer_11,Electronics,Tablet,East,160.65,2,-7.17
+ORD-10447,2024-03-25,Customer_245,Furniture,Bookshelf,North,1934.76,10,89.77
+ORD-10587,2024-12-25,Customer_221,Office Supplies,Notebook,West,1140.25,6,358.69
+ORD-10672,2024-07-30,Customer_220,Clothing,T-Shirt,East,1954.52,4,239.21
+ORD-11939,2024-03-09,Customer_294,Electronics,Charger,West,742.8,14,215.2
+ORD-10734,2024-04-11,Customer_30,Office Supplies,Printer Paper,North,1580.18,6,476.62
+ORD-10876,2023-04-27,Customer_11,Office Supplies,Folder,East,1147.22,2,190.28
+ORD-11618,2023-01-08,Customer_64,Furniture,Sofa,North,926.11,3,101.36
+ORD-10141,2023-03-19,Customer_88,Technology,Keyboard,South,1214.33,4,307.74
+ORD-10838,2023-05-25,Customer_165,Clothing,Sneakers,South,949.43,14,264.82
+ORD-10374,2024-02-23,Customer_268,Technology,Laptop,West,908.73,10,-97.96
+ORD-11975,2023-07-08,Customer_192,Clothing,T-Shirt,North,1179.26,5,257.72
+ORD-11978,2024-07-01,Customer_204,Clothing,Jeans,NORTH,796.95,1,40.15
+ORD-11138,2023-04-28,Customer_223,Clothing,Jeans,West,1644.53,3,233.79
+ORD-10565,2024-01-18,Customer_166,Clothing,Jacket,South,1973.72,6,-28.26
+ORD-10562,2024-07-17,Customer_216,Office Supplies,Printer Paper,EAST,888.14,5,102.08
+ORD-11874,2023-06-24,Customer_127,Furniture,Standing Desk,East,1821.24,13,190.54
+ORD-10901,2024-06-20,Customer_58,Clothing,T-Shirt,North,1523.29,7,243.53
+ORD-10824,2023-12-23,Customer_90,Technology,Laptop,South,617.58,9,-81.09
+ORD-11170,2024-06-30,Customer_113,Office Supplies,Folder,East,1002.66,10,122.56
+ORD-11345,2024-06-23,Customer_32,Office Supplies,Folder,South,508.56,11,38.17
+ORD-11298,2024-09-26,Customer_132,Office Supplies,Stapler,West,1887.18,4,467.15
+ORD-10688,2023-12-23,Customer_95,Office Supplies,Folder,East,40.78,10,12.13
+ORD-11150,2024-07-08,Customer_274,Clothing,T-Shirt,East,38.43,12,2.74
+ORD-11847,2024-05-09,Customer_242,Technology,Webcam,North,503.58,13,8.84
+ORD-10514,2024-08-21,Customer_165,Furniture,Filing Cabinet,North,374.92,7,73.85
+ORD-11088,2023-06-27,Customer_276,Office Supplies,Folder,North,259.89,9,-27.89
+ORD-10479,2023-06-28,Customer_83,Office Supplies,Stapler,South,44.07,12,8.24
+ORD-10179,2024-08-15,Customer_176,Technology,Webcam,South,141.8,14,41.33
+ORD-10905,2024-05-25,Customer_24,Office Supplies, Printer Paper  ,West,1843.86,4,623.3
+ORD-11828,2023-11-12,Customer_169,Office Supplies,Printer Paper,West,1411.87,13,-82.83
+ORD-11344,2024-08-11,Customer_5,Clothing,Jeans,North,631.09,6,-53.54
+ORD-11304,2023-01-10,Customer_122,Furniture,Filing Cabinet,West,59.06,2,-4.87
+ORD-10737,2023-06-01,Customer_174,Electronics,Headphones,North,477.93,14,-13.48
+ORD-11259,2024-10-08,Customer_15,Office Supplies,Pen Set,North,24.65,13,-0.68
+ORD-11586,2024-05-07,Customer_117,Technology,Mouse,South,1207.44,14,-73.91
+ORD-10372,2023-07-29,Customer_266,Furniture,Standing Desk,East,294.97,7,-27.18
+ORD-10701,2024-10-27,Customer_188,Furniture,Standing Desk,South,1518.38,4,288.92
+ORD-10603,2024-12-12,Customer_180,Technology,Monitor,West,1656.57,5,414.95
+ORD-10691,2024-11-13,Customer_135,Clothing,Jacket,North,929.48,10,210.12
+ORD-10738,2023-06-15,Customer_75,Technology,Mouse,North,30.18,5,2.19
+ORD-11128,2023-02-21,Customer_73,Furniture,Bookshelf,South,1516.89,12,115.52
+ORD-10071,2023-07-13,Customer_122,Furniture,Standing Desk,North,181.07,3,-19.48
+ORD-11196,2024-05-14,Customer_287,Technology,Monitor,East,1107.55,9,248.29
+ORD-11238,2024-04-11,Customer_202,Technology,Keyboard,North,1268.51,13,285.16
+ORD-11281,2024-08-17,Customer_249,Clothing,Jeans,East,367.83,12,121.43
+ORD-11986,2024-10-06,Customer_91,Technology,Keyboard,West,1598.89,3,274.59
+ORD-10828,2024-11-08,Customer_143,Technology,Keyboard,,634.41,6,31.44
+ORD-11926,2023-08-22,Customer_262,Electronics,Headphones,East,1701.16,3,269.19
+ORD-11278,2023-08-09,Customer_249,Clothing,Jacket,North,1751.34,3,482.5
+ORD-10200,2023-06-15,Customer_95,Technology,Monitor,East,597.49,1,118.0
+ORD-11817,2023-02-06,Customer_143,Technology,Laptop,East,1266.43,9,119.49
+ORD-10299,2024-02-09,Customer_10,Office Supplies,Stapler,East,1471.48,11,232.48
+ORD-11133,2024-03-22,Customer_279,Technology,Webcam,South,1550.3,6,148.73
+ORD-10454,2024-11-23,Customer_116,Furniture,Standing Desk,West,729.99,2,130.17
+ORD-10262,2024-07-31,,Clothing,T-Shirt,North,774.2,9,17.93
+ORD-11702,2023-03-03,Customer_98,Furniture,Office Chair,South,467.68,8,127.85
+ORD-10789,2023-08-21,Customer_71,Clothing,Sneakers,South,453.87,14,-42.47
+ORD-10412,2023-01-30,Customer_22,Clothing,Sneakers,West,1049.94,7,-82.49
+ORD-10857,2023-02-16,Customer_10,Furniture,Filing Cabinet,West,304.22,7,-17.43
+ORD-10116,2023-08-17,Customer_267,Clothing,Hat,South,419.22,5,-28.58
+ORD-11844,2024-05-06,Customer_42,Clothing,Jeans,West,392.53,14,115.41
+ORD-11631,2023-04-17,Customer_300,Clothing,Jacket,West,649.99,9,-10.82
+ORD-10004,2024-05-19,Customer_244,Office Supplies,Printer Paper,North,111.97,5,17.22
+ORD-10341,2023-10-06,Customer_75,Technology,Laptop,North,1249.44,5,32.72
+ORD-10046,2023-07-09,Customer_63,Office Supplies,Notebook,East,587.35,6,85.41
+ORD-11315,2024-02-28,Customer_154,Technology,Monitor,South,377.71,8,-32.1
+ORD-11948,2023-07-03,Customer_190,Furniture,Standing Desk,West,1573.85,8,145.97
+ORD-11787,2023-06-25,Customer_113,Electronics,Smartwatch,North,1342.51,3,86.87
+ORD-10788,2023-04-28,Customer_266,Furniture,Office Chair,West,1354.04,13,101.79
+ORD-11562,2023-03-12,Customer_215,Office Supplies,Stapler,West,1200.14,4,96.24
+ORD-11363,2024-03-03,Customer_221,Clothing,Sneakers,North,1939.34,11,639.62
+ORD-11623,2024-05-15,Customer_181,Electronics,Tablet,South,1530.05,3,-75.38
+ORD-10517,2024-12-13,Customer_162,Clothing,Jeans,South,439.55,7,2.42
+ORD-11964,2023-08-12,Customer_278,Furniture,Filing Cabinet,East,155.11,3,-2.13
+ORD-11251,2024-05-17,Customer_107,Technology,Webcam,South,129.56,13,-6.6
+ORD-11494,2023-08-01,Customer_242,Office Supplies,Folder,East,1899.24,7,663.42
+ORD-10194,2024-03-28,Customer_147,Office Supplies,Printer Paper,East,1968.28,12,107.6
+ORD-11600,2023-11-03,Customer_220,Electronics,Tablet,North,1970.71,4,502.45
+ORD-10928,2023-03-12,Customer_286,Office Supplies,Notebook,East,273.07,3,38.54
+ORD-11513,2024-06-05,Customer_84,Furniture,Filing Cabinet,North,1291.77,6,-15.45
+ORD-11205,2024-09-19,Customer_19,Furniture,Sofa,East,1093.75,10,-83.07
+ORD-10360,2023-03-28,Customer_72,Office Supplies,Notebook,West,825.8,2,244.22
+ORD-10983,2023-08-14,Customer_95,Furniture,Office Chair,North,,12,-257.14
+ORD-11807,2024-11-21,Customer_212,Clothing,Sneakers,North,1904.18,14,615.34
+ORD-11819,2023-12-07,Customer_268,Office Supplies,Notebook,North,547.66,1,126.66
+ORD-10879,2024-08-23,Customer_214,Office Supplies,Stapler,South,888.53,8,-116.06
+ORD-11737,2023-03-12,Customer_275,Furniture,Office Chair,West,638.56,9,68.45
+ORD-10330,2024-03-02,Customer_178,Clothing,T-Shirt,,1555.71,8,516.87
+ORD-10419,2024-08-28,Customer_281,Clothing,Jeans,West,,3,48.46
+ORD-11075,2023-10-14,Customer_70,Furniture,Bookshelf,South,1945.59,10,237.39
+ORD-10109,2023-01-06,Customer_223,Electronics,Charger,South,807.75,4,270.38
+ORD-10810,2023-02-26,Customer_279,Technology,Laptop,North,124.43,13,33.23
+ORD-11139,2023-07-29,Customer_26,Office Supplies,Printer Paper,West,1265.85,9,252.74
+ORD-11151,2024-10-29,Customer_31,Technology,Laptop,North,957.4,7,149.91
+ORD-11954,2024-05-15,Customer_209,Clothing,Sneakers,West,499.34,4,34.15
+ORD-11305,2024-04-08,Customer_218,Electronics,Speaker,East,1520.32,8,214.67
+ORD-10397,2024-04-09,Customer_242,Office Supplies,Notebook,North,1733.84,2,590.15
+ORD-11261,2023-03-08,Customer_36,Clothing,Jeans,West,1709.63,8,481.68
+ORD-10095,2024-10-24,Customer_249,Office Supplies,Pen Set,North,273.53,6,-20.25
+ORD-11401,2023-07-05,Customer_227,Technology,Keyboard,North,1793.71,6,-217.23
+ORD-11283,2023-06-24,Customer_126,Clothing,Sneakers,South,356.12,9,118.53
+ORD-10019,2023-12-06,Customer_44,Clothing,Sneakers,South,,10,213.88
+ORD-11167,2023-06-30,Customer_237,Clothing,T-Shirt,North,179.8,7,62.28
+ORD-11048,2023-06-26,Customer_296,Clothing,Sneakers,South,1110.37,11,357.8
+ORD-10528,2023-08-09,Customer_20,Electronics,Smartwatch,East,1126.94,3,11.92
+ORD-11547,2024-06-21,Customer_88,Electronics,Speaker,South,388.61,12,-33.87
+ORD-11277,2023-03-02,Customer_162,Technology,Webcam,West,1557.58,11,406.26
+ORD-10358,2024-05-19,Customer_276,Electronics,Tablet,East,1411.21,7,-44.15
+ORD-10430,2023-06-24,Customer_187,Office Supplies,Folder,East,1618.17,6,-145.47
+ORD-10829,2023-10-08,Customer_4,Office Supplies,Stapler,South,822.19,5,-25.07
+ORD-10881,2024-04-23,Customer_243,Electronics,Smartwatch,East,607.14,11,-10.59
+ORD-10222,2024-07-09,Customer_120,Clothing,Hat,West,903.81,6,254.97
+ORD-10802,2023-01-19,Customer_197,Furniture,Sofa,East,1846.76,2,426.8
+ORD-10731,2024-12-07,Customer_70,Clothing,Jacket,North,638.14,6,40.67
+ORD-11937,2023-07-13,Customer_207,Office Supplies,Notebook,South,173.74,2,7.97
+ORD-10707,2023-01-14,Customer_26,Office Supplies,Pen Set,North,1664.63,9,-62.71
+ORD-10111,2024-12-24,Customer_275,Electronics,Speaker,East,1025.07,1,-29.52
+ORD-10361,2024-12-30,Customer_262,Furniture,Filing Cabinet,South,1816.61,10,-55.54
+ORD-11276,2023-08-22,Customer_21,Technology,Monitor,South,1005.78,4,272.47
+ORD-10339,2024-12-28,Customer_213,Clothing,Sneakers,West,998.54,12,263.74
+ORD-11592,2024-05-08,Customer_159,Office Supplies,Pen Set,North,83.58,12,14.37
+ORD-10313,2024-03-01,Customer_51,Furniture,Bookshelf,West,1708.4,5,-63.6
+ORD-10287,2023-11-16,Customer_8,Electronics,Smartwatch,East,860.11,12,-93.49
+ORD-11183,2023-01-23,Customer_184,Office Supplies,Stapler,North,586.72,5,46.97
+ORD-11229,2023-01-19,Customer_124,Electronics,Smartwatch,West,371.27,13,-35.34
+ORD-11972,2024-02-23,Customer_190,Electronics,Tablet,West,1392.68,7,226.25
+ORD-10948,2023-08-20,Customer_31,Technology,Monitor,East,310.28,14,-21.77
+ORD-11116,2023-01-13,Customer_9,Technology,Keyboard,West,175.5,4,4.95
+ORD-11665,2024-08-08,Customer_266,Clothing,Jeans,West,929.14,13,-22.4
+ORD-10630,2024-04-03,Customer_99,Clothing,Jacket,East,66.94,13,17.9
+ORD-11568,2023-03-12,Customer_140,Furniture,Standing Desk,West,1680.23,5,545.73
+ORD-10674,2024-01-16,Customer_89,Electronics,Headphones,West,1410.17,6,22.11
+ORD-10353,2024-08-20,Customer_110,Technology,Laptop,West,1786.76,7,-102.44
+ORD-11736,2024-09-01,Customer_158,Technology,Webcam,West,1672.22,12,50.83
+ORD-11731,2024-12-14,Customer_17,Technology,Laptop,South,189.91,3,63.57
+ORD-10017,2024-10-16,Customer_231,Clothing,Hat,North,1515.99,7,-53.97
+ORD-10611,2024-03-04,Customer_78,Electronics,Headphones,East,1685.0,8,-66.36
+ORD-11506,2024-06-18,Customer_237,Office Supplies,Folder,South,,14,137.59
+ORD-10669,2024-09-18,Customer_200,Electronics,Tablet,North,967.41,12,138.13
+ORD-10504,2023-07-07,Customer_123,Technology,Webcam,EAST,1670.61,2,166.59
+ORD-11203,2023-01-04,Customer_173,Electronics,Headphones,West,1066.6,8,272.31
+ORD-11748,2024-11-25,Customer_166,Technology,Monitor,East,1448.94,1,-115.55
+ORD-10635,2024-12-20,Customer_90,Clothing,Hat,South,402.63,12,-50.22
+ORD-11286,2023-02-11,Customer_266,Technology,Monitor,South,982.39,1,6.77
+ORD-11674,2024-07-28,Customer_177,Electronics,Headphones,East,1402.99,1,336.9
+ORD-10054,2024-03-28,Customer_94,Clothing,Hat,North,958.86,5,-96.92
+ORD-10263,2024-12-02,Customer_180,Furniture,Office Chair,North,905.46,7,136.09
+ORD-10101,2023-08-04,Customer_78,Technology,Mouse,North,1446.62,11,-171.9
+ORD-10275,2023-04-02,Customer_155,Electronics,Tablet,North,973.64,13,-59.93
+ORD-10507,2023-01-03,Customer_129,Clothing,Sneakers,North,831.15,1,147.6
+ORD-11104,2024-01-03,Customer_142,Technology,Laptop,West,112.99,1,15.05
+ORD-10249,2024-03-14,Customer_164,Technology,Laptop,East,1181.48,3,-77.97
+ORD-11397,2024-10-23,Customer_235,Electronics,Charger,North,158.83,5,-21.74
+ORD-11431,2024-11-21,Customer_273,Office Supplies,Printer Paper,South,1366.03,12,176.72
+ORD-11244,2023-02-28,Customer_31,Furniture,Office Chair,South,521.92,13,167.15
+ORD-11820,2024-09-22,Customer_285,Office Supplies,Printer Paper,East,1197.21,11,173.22
+ORD-10344,2023-05-23,Customer_294,Office Supplies,Printer Paper,East,441.04,5,-58.84
+ORD-10649,2024-03-19,Customer_266,Clothing,T-Shirt,South,1887.26,8,22.48
+ORD-11467,2024-06-28,Customer_196,Electronics,Charger,East,596.94,11,156.02
+ORD-10699,2024-09-05,Customer_15,Office Supplies,Notebook,SOUTH,1648.23,1,496.75
+ORD-10571,2023-08-15,Customer_249,Office Supplies,Printer Paper,North,1603.44,7,-141.72
+ORD-10060,2024-05-13,Customer_253,Electronics,Charger,North,1244.14,10,22.74
+ORD-10832,2024-05-27,Customer_234,Clothing,Hat,East,352.68,11,9.66
+ORD-10586,2023-08-20,Customer_107,Office Supplies,Printer Paper,West,415.69,7,-50.81
+ORD-10525,2024-03-04,Customer_147,Furniture,Filing Cabinet,North,979.0,14,-140.31
+ORD-10363,2023-10-29,Customer_49,Furniture,Filing Cabinet,West,118.0,4,31.47
+ORD-10997,2023-04-15,Customer_22,Technology,Keyboard,East,934.84,12,281.87
+ORD-10210,2024-10-23,Customer_211,Office Supplies,Printer Paper,East,677.98,11,82.2
+ORD-10281,2023-01-17,Customer_192,Electronics,Headphones,West,1324.21,2,425.62
+ORD-11435,2024-03-29,Customer_269,Furniture,Bookshelf,WEST,225.47,14,57.82
+ORD-10658,2023-04-14,Customer_149,Office Supplies,Pen Set,West,272.99,14,19.43
+ORD-10729,2023-07-25,Customer_157,Clothing,Hat,North,760.42,9,222.91
+ORD-10945,2024-12-22,Customer_29,Office Supplies,Printer Paper,North,218.91,5,22.89
+ORD-11247,2024-12-03,Customer_166,Technology,Mouse,East,1330.52,6,-61.56
+ORD-11252,2023-12-30,Customer_220,Clothing,T-Shirt,East,403.56,9,9.25
+ORD-11656,2023-06-18,Customer_74,Clothing,Sneakers,East,811.93,8,50.07
+ORD-11098,2024-04-09,Customer_236,Clothing,Jeans,North,562.68,9,141.0
+ORD-10324,2024-09-01,Customer_198,Furniture,Office Chair,East,979.7,2,-65.75
+ORD-10933,2023-01-27,,Office Supplies,Pen Set,South,921.68,10,100.47
+ORD-11827,2023-03-21,Customer_10,Technology,Laptop,WEST,1700.17,4,86.39
+ORD-10028,2024-02-07,Customer_252,Electronics,Tablet,South,1428.08,4,363.8
+ORD-11956,2023-04-17,Customer_95,Technology,Monitor,West,174.5,7,51.02
+ORD-10606,2024-12-17,Customer_90,Clothing,Sneakers,South,1144.59,13,-2.08
+ORD-10359,2024-08-01,Customer_76,Clothing,Sneakers,South,1311.4,2,426.55
+ORD-10527,2023-04-26,Customer_220,Furniture,Sofa,North,1303.67,2,-147.25
+ORD-11803,2023-03-22,Customer_53,Furniture,Sofa,North,1548.86,13,434.15
+ORD-10224,2023-06-10,Customer_59,Office Supplies,Folder,West,1024.32,10,-132.36
+ORD-10438,2024-02-16,Customer_68,Electronics,Smartwatch,South,1292.78,4,329.57
+ORD-10463,2024-11-30,Customer_249,Furniture,Office Chair,West,1054.57,10,-129.38
+ORD-11275,2024-11-05,Customer_228,Clothing,T-Shirt,West,1053.81,8,53.5
+ORD-10848,2023-08-25,Customer_193,Furniture,Filing Cabinet,North,128.83,9,17.94
+ORD-11420,2024-04-24,Customer_61,Technology,Laptop,West,1215.67,12,264.4
+ORD-10975,2024-03-08,Customer_235,Office Supplies,Folder,South,,7,165.44
+ORD-11194,2023-07-16,Customer_121,Clothing,Jacket,West,1588.93,1,-59.39
+ORD-11851,2024-01-25,Customer_149,Office Supplies,Pen Set,East,1713.91,14,455.08
+ORD-10903,2024-08-21,Customer_82,Electronics,Speaker,East,1622.21,4,302.41
+ORD-10471,2024-02-11,Customer_1,Technology,Keyboard,East,267.75,9,73.69
+ORD-10660,2024-09-01,Customer_44,Furniture,Office Chair,East,650.16,7,193.18
+ORD-11427,2023-05-05,Customer_89,Office Supplies,Stapler,West,1611.2,6,186.58
+ORD-11531,2024-11-18,Customer_115,Clothing,Hat,East,1837.34,3,79.99
+ORD-10151,2024-02-05,Customer_173,Furniture,Filing Cabinet,North,849.17,10,35.3
+ORD-10215,2023-09-03,Customer_186,Technology,Keyboard,North,731.12,2,30.65
+ORD-10098,2024-06-07,Customer_233,Electronics,Headphones,West,428.54,14,13.77
+ORD-11395,2023-06-24,Customer_67,Technology,Webcam,North,1421.6,6,318.38
+ORD-10610,2024-12-02,Customer_8,Office Supplies,Folder,South,1615.31,10,22.76
+ORD-11477,2023-02-17,Customer_121,Clothing,Hat,South,1695.71,14,366.53
+ORD-10820,2024-10-16,Customer_178,Furniture,Filing Cabinet,East,419.55,8,127.72
+ORD-11491,2024-07-04,Customer_176,Electronics, Speaker  ,South,399.71,13,-49.95
+ORD-10012,2024-02-23,Customer_163,Office Supplies,Notebook,South,1547.12,7,-174.79
+ORD-10431,2024-06-02,Customer_55,Electronics,Headphones,West,709.23,11,25.44
+ORD-11408,2023-06-18,Customer_245,Electronics,Smartwatch,South,1155.53,14,319.87
+ORD-10167,2024-04-21,Customer_29,Office Supplies,Pen Set,North,94.44,8,8.49
+ORD-10637,2023-01-21,Customer_106,Clothing,Jeans,West,1614.76,4,371.52
+ORD-10643,2024-01-19,Customer_159,Clothing,Jeans,East,1528.12,3,158.22
+ORD-10188,2023-01-22,Customer_193,Clothing,T-Shirt,East,1249.41,2,-158.84
+ORD-10746,2023-03-23,Customer_98,Technology, Mouse  ,East,892.52,13,258.79
+ORD-11433,2024-12-19,Customer_121,Technology,Mouse,West,1267.47,1,25.71
+ORD-10043,2023-06-25,Customer_246,Furniture,Office Chair,North,1114.58,10,-1.94
+ORD-11561,2023-02-26,Customer_43,Technology,Webcam,South,243.95,8,64.44
+ORD-10009,2024-12-25,Customer_296,Clothing,T-Shirt,East,789.58,5,-11.31
+ORD-11565,2023-10-05,Customer_106,Clothing,T-Shirt,West,255.33,1,-36.39
+ORD-10147,2024-10-27,Customer_4,Furniture,Bookshelf,East,1060.87,7,-68.07
+ORD-10739,2024-12-26,Customer_112,Office Supplies,Pen Set,South,1719.84,1,-144.74
+ORD-10013,2023-07-20,Customer_135,Technology,Laptop,South,1254.13,7,19.38
+ORD-10389,2023-05-19,Customer_300,Electronics,Charger,West,1124.26,12,26.58
+ORD-11296,2024-07-26,Customer_125,Office Supplies,Stapler,South,1296.81,1,47.94
+ORD-10978,2023-05-03,Customer_194,Office Supplies,Stapler,North,1485.95,2,-135.22
+ORD-10651,2023-06-09,Customer_162,Office Supplies,Pen Set,West,967.49,8,304.21
+ORD-11813,2023-02-13,Customer_82,Electronics,Charger,South,779.26,10,5.23
+ORD-11620,2024-11-10,Customer_294,Technology,Keyboard,South,903.65,10,50.12
+ORD-10735,2024-05-14,Customer_80,Office Supplies,Stapler,South,981.58,13,120.7
+ORD-11849,2023-08-29,Customer_298,Clothing,Sneakers,North,1407.4,5,-29.8
+ORD-11240,2024-01-16,Customer_21,Office Supplies,Folder,West,454.25,3,29.27
+ORD-10602,2024-12-26,Customer_149,Clothing,Jeans,East,1055.82,8,211.0
+ORD-10887,2024-02-15,Customer_203,Clothing, Jeans  ,West,461.56,6,24.9
+ORD-10835,2024-11-19,Customer_216,Office Supplies,Pen Set,East,1440.18,13,203.12
+ORD-11783,2023-10-31,Customer_108,Technology,Laptop,East,144.49,12,23.3
+ORD-10817,2024-08-10,Customer_255,Office Supplies,Stapler,East,1814.34,2,402.27
+ORD-11564,2024-03-17,Customer_18,Electronics,Charger,North,1082.51,2,255.0
+ORD-11647,2023-06-13,Customer_57,Technology,Laptop,East,1812.05,8,121.96
+ORD-11773,2024-03-24,Customer_73,Office Supplies,Folder,East,1806.31,1,188.17
+ORD-10474,2023-04-10,Customer_271,Furniture,Office Chair,North,1576.69,2,342.49
+ORD-10720,2023-08-09,Customer_226,Furniture,Sofa,East,1624.12,6,105.3
+ORD-11177,2023-05-03,Customer_275,Clothing,Hat,North,56.39,9,10.99
+ORD-11034,2024-03-30,Customer_290,Electronics,Headphones,South,199.94,14,55.45
+ORD-10025,2023-05-10,Customer_126,Electronics,Headphones,West,1071.25,6,79.16
+ORD-11755,2024-05-01,Customer_178,Technology,Webcam,East,1752.45,4,546.83
+ORD-11671,2024-10-17,Customer_212,Office Supplies,Printer Paper,West,292.7,10,45.69
+ORD-11221,2024-09-13,Customer_47,Electronics,Smartwatch,South,1949.12,4,668.87
+ORD-10858,2024-06-13,Customer_27,Clothing,Jacket,South,1315.61,2,376.61
+ORD-10115,2024-08-10,Customer_137,Electronics,Charger,South,,6,241.46
+ORD-10024,2024-11-29,Customer_81,Electronics,Headphones,South,1226.94,6,124.34
+ORD-10370,2024-09-30,Customer_161,Technology,Monitor,SOUTH,1332.08,12,-138.35
+ORD-10816,2023-01-13,Customer_182,Electronics,Speaker,East,648.43,8,-25.83
+ORD-10594,2024-01-05,Customer_208,Furniture,Sofa,South,1858.69,9,-221.36
+ORD-10506,2023-08-02,Customer_260,Technology,Laptop,West,1015.21,6,-123.77
+ORD-10096,2023-07-14,Customer_281,Clothing,Sneakers,South,1751.15,2,188.46
+ORD-10623,2023-07-21,Customer_229,Technology,Monitor,South,1154.62,11,14.55
+ORD-10985,2023-10-10,Customer_262,Clothing,Sneakers,East,308.34,8,61.27
+ORD-11464,2024-08-08,Customer_174,Clothing,Sneakers,South,1892.35,14,135.24
+ORD-10099,2023-09-06,Customer_73,Technology,Webcam,North,972.67,8,188.59
+ORD-11550,2023-09-02,Customer_217,Clothing,Sneakers,North,545.43,6,105.8
+ORD-11935,2023-03-10,Customer_131,Electronics,Smartwatch,West,329.36,8,108.28
+ORD-10797,2024-09-10,Customer_53,Office Supplies,Printer Paper,North,186.84,5,5.24
+ORD-10357,2024-06-10,Customer_47,Clothing,Sneakers,East,1211.81,13,359.01
+ORD-11324,2024-12-07,Customer_115,Office Supplies,Pen Set,South,1240.59,10,425.47
+ORD-10590,2023-05-27,Customer_6,Clothing,Jeans,WEST,400.77,6,-0.87
+ORD-11636,2024-10-28,Customer_133,Clothing,Jeans,East,101.61,1,14.44
+ORD-11157,2024-03-06,Customer_128,Office Supplies,Stapler,South,1793.38,2,-155.89
+ORD-10806,2023-09-03,Customer_294,Furniture,Office Chair,East,1727.73,10,13.82
+ORD-11463,2024-06-05,Customer_180,Furniture,Sofa,South,1623.38,11,436.06
+ORD-11686,2023-02-14,Customer_52,Furniture,Standing Desk,West,964.78,5,-67.03
+ORD-11730,2023-04-23,Customer_203,Office Supplies,Folder,South,1531.73,3,161.44
+ORD-10683,2023-10-19,Customer_253,Electronics,Tablet,South,1089.75,11,-120.26
+ORD-10270,2023-02-12,Customer_160,Electronics,Charger,East,1246.78,3,218.31
+ORD-10118,2024-09-07,Customer_295,Furniture,Standing Desk,South,766.35,6,62.33
+ORD-10117,2024-02-14,Customer_78,Electronics,Smartwatch,North,1817.57,10,14.72
+ORD-10936,2024-09-10,Customer_161,Electronics,Smartwatch,South,907.21,2,85.23
+ORD-11928,2023-05-16,Customer_142,Clothing,Jacket,West,873.87,2,169.07
+ORD-11336,2023-02-14,Customer_77,Office Supplies,Pen Set,East,1182.52,1,-137.95
+ORD-11781,2024-09-21,Customer_267,Clothing,Hat,North,561.93,14,-35.21
+ORD-11465,2024-01-05,Customer_110,Office Supplies,Notebook,WEST,1407.62,3,441.15
+ORD-11515,2023-06-05,Customer_44,Clothing,Hat,South,361.33,2,10.39
+ORD-11522,2024-02-14,Customer_289,Office Supplies,Printer Paper,East,1784.17,11,175.01
+ORD-10164,2023-06-20,Customer_131,Clothing,Hat,East,692.95,12,147.17
+ORD-11716,2024-09-02,Customer_204,Electronics,Smartwatch,North,443.59,13,-65.25
+ORD-11504,2024-02-13,Customer_266,Clothing,Hat,South,1653.88,1,4.03
+ORD-11816,2024-01-16,Customer_148,Technology,Keyboard,North,1100.07,8,-84.0
+ORD-10465,2023-06-18,Customer_239,Clothing,Jeans,North,1699.88,2,104.23
+ORD-11168,2024-04-17,Customer_247,Clothing,Jeans,South,1076.56,4,346.67
+ORD-10863,2023-12-24,Customer_178,Technology, Webcam  ,South,1532.44,2,164.03
+ORD-10142,2023-01-07,Customer_223,Clothing,Hat,East,1273.82,5,277.63
+ORD-10113,2023-06-21,Customer_138,Technology,Monitor,West,419.43,4,80.65
+ORD-11083,2024-12-10,Customer_197,Electronics,Smartwatch,North,123.1,4,-17.68
+ORD-10984,2024-02-03,Customer_258,Clothing,Sneakers,West,1195.12,7,-53.71
+ORD-10378,2023-12-26,Customer_23,Clothing,T-Shirt,North,1781.51,11,-256.26
+ORD-10063,2024-11-19,Customer_192,Furniture,Sofa,East,1468.66,1,-126.53
+ORD-10500,2023-12-04,Customer_16,Technology,Laptop,North,756.96,2,12.5
+ORD-11715,2024-10-03,Customer_154,Furniture,Office Chair,West,1202.75,6,103.71
+ORD-10186,2023-08-21,Customer_74,Electronics,Tablet,South,1926.72,12,40.34
+ORD-10698,2024-08-19,Customer_179,Technology,Mouse,North,71.1,13,9.0
+ORD-10992,2024-01-02,Customer_223,Clothing,Hat,North,769.83,12,209.06
+ORD-10885,2023-08-12,Customer_53,Electronics,Charger,East,1426.5,9,-133.73
+ORD-10294,2024-10-23,Customer_86,Clothing,Jeans,South,1969.65,13,627.72
+ORD-10715,2023-09-02,Customer_137,Clothing,Jeans,East,1143.43,10,283.71
+ORD-10453,2024-11-05,Customer_94,Clothing,Sneakers,West,134.25,10,9.69
+ORD-10286,2024-01-26,Customer_211,Clothing,Jeans,,1572.01,10,43.11
+ORD-11887,2023-05-14,Customer_15,Furniture,Bookshelf,South,642.2,13,216.27
+ORD-11573,2023-03-04,Customer_31,Office Supplies,Folder,East,1113.96,12,-47.08
+ORD-10300,2024-01-28,Customer_13,Technology,Laptop,South,1117.37,10,-164.68
+ORD-11358,2024-06-10,Customer_99,Furniture,Filing Cabinet,East,1695.46,14,129.13
+ORD-10315,2023-11-09,Customer_129,Clothing,Jacket,North,33.92,14,-4.12
+ORD-10130,2023-07-21,Customer_137,Office Supplies,Folder,North,1609.65,9,-237.72
+ORD-10837,2023-02-13,Customer_196,Clothing,T-Shirt,South,423.91,5,111.59
+ORD-10189,2023-08-15,Customer_251,Electronics,Charger,South,1196.9,13,50.04
+ORD-10027,2023-05-24,Customer_240,Technology,Keyboard,NORTH,1673.9,6,17.39
+ORD-11914,2023-01-01,Customer_137,Technology,Monitor,South,1256.09,11,-142.77
+ORD-11447,2023-12-26,Customer_152,Clothing,Jacket,West,1036.18,12,296.4
+ORD-10755,2024-09-16,Customer_56,Technology,Monitor,South,795.79,13,199.9
+ORD-11899,2023-06-30,Customer_87,Clothing,Jacket,East,214.91,14,73.01
+ORD-10640,2024-07-03,Customer_231,Clothing,Sneakers,North,496.25,9,92.4
+ORD-11273,2024-10-31,Customer_153,Furniture,Standing Desk,South,620.92,1,14.08
+ORD-10747,2023-12-23,Customer_209,Furniture,Bookshelf,East,1333.03,13,196.87
+ORD-11584,2024-01-11,Customer_92,Technology,Mouse,East,711.96,13,157.27
+ORD-11182,2023-02-20,Customer_116,Clothing,Jacket,SOUTH,1117.52,12,126.92
+ORD-10266,2024-07-31,Customer_163,Clothing,T-Shirt,,,14,-12.39
+ORD-10892,2024-12-01,Customer_218,Technology,Webcam,East,1504.1,12,300.47
+ORD-11516,2023-02-04,Customer_157,Technology,Mouse,West,466.88,11,-65.15
+ORD-10075,2024-01-22,Customer_1,Electronics,Headphones,North,1175.07,12,389.05
+ORD-11454,2024-11-25,Customer_154,Clothing,T-Shirt,North,659.34,2,59.76
+ORD-11458,2023-07-25,Customer_275,Electronics,Speaker,West,749.75,13,247.42
+ORD-11354,2024-04-21,Customer_245,Clothing,Hat,South,1737.6,2,-10.82
+ORD-10717,2024-05-12,Customer_58,Furniture,Standing Desk,West,842.72,13,256.19
+ORD-10742,2023-08-12,Customer_48,Furniture,Bookshelf,South,1866.33,3,591.5
+ORD-10762,2023-06-07,Customer_31,Furniture,Standing Desk,East,139.25,1,-0.16
+ORD-11288,2023-07-27,Customer_77,Technology,Mouse,,,10,62.13
+ORD-11327,2024-05-06,Customer_152,Office Supplies,Folder,South,1126.07,14,339.86
+ORD-11172,2023-06-15,Customer_168,Clothing,T-Shirt,South,325.21,11,90.35
+ORD-10861,2024-12-18,Customer_235,Clothing,Sneakers,East,1381.78,4,-18.33
+ORD-10180,2023-02-09,Customer_56,Electronics,Tablet,East,1362.47,13,181.03
+ORD-10768,2024-05-15,Customer_239,Clothing,T-Shirt,East,814.97,6,200.94
+ORD-10666,2023-07-07,Customer_131,Electronics,Tablet,West,274.09,12,38.17
+ORD-11403,2023-08-20,Customer_211,Technology,Webcam,West,691.21,6,-52.91
+ORD-10376,2024-10-19,Customer_107,Clothing,Hat,East,819.72,9,-91.15
+ORD-10663,2024-08-23,Customer_219,Technology,Webcam,West,792.0,12,71.3
+ORD-10023,2023-09-25,Customer_52,Furniture, Sofa  ,West,518.53,1,51.14
+ORD-10346,2023-08-07,Customer_251,Office Supplies,Notebook,East,1129.67,8,-106.76
+ORD-11707,2023-03-23,Customer_239,Furniture,Sofa,South,1363.98,13,-47.0
+ORD-10578,2024-09-17,Customer_127,Clothing,Hat,West,125.96,1,4.82
+ORD-11738,2024-04-30,Customer_260,Technology,Mouse,South,613.95,7,-42.86
+ORD-10008,2024-07-09,Customer_218,Clothing,Hat,North,1880.21,14,559.2
+ORD-10228,2023-06-24,Customer_86,Electronics,Smartwatch,North,1391.4,10,374.37
+ORD-10489,2024-04-27,Customer_84,Furniture,Sofa,South,1304.04,2,-21.25
+ORD-10213,2023-06-01,Customer_20,Clothing,Sneakers,South,1095.74,9,117.24
+ORD-10845,2024-01-13,Customer_292,Furniture,Filing Cabinet,North,516.73,9,54.17
+ORD-11002,2023-10-08,Customer_84,Office Supplies,Stapler,North,601.71,14,111.93
+ORD-10449,2024-07-01,Customer_74,Electronics, Charger  ,West,726.92,10,227.6
+ORD-11601,2023-10-03,Customer_229,Office Supplies,Folder,North,1059.37,13,93.82
+ORD-10015,2024-05-17,Customer_218,Office Supplies,Notebook,West,1546.52,9,149.85
+ORD-11493,2024-12-11,Customer_167,Office Supplies,Pen Set,West,1079.05,8,311.09
+ORD-11797,2023-08-30,Customer_7,Electronics,Tablet,North,539.72,4,-14.76
+ORD-10765,2024-09-03,Customer_65,Electronics,Speaker,South,1870.9,9,569.88
+ORD-11321,2023-04-02,Customer_164,Technology,Mouse,East,204.73,12,22.61
+ORD-11293,2024-10-12,Customer_85,Furniture, Standing Desk  ,North,1970.2,14,-267.12
+ORD-10546,2024-02-19,Customer_166,Electronics,Tablet,East,1533.42,4,248.22
+ORD-11173,2023-12-30,Customer_106,Electronics,Tablet,East,610.15,13,37.38
+ORD-11533,2024-12-17,Customer_259,Electronics,Speaker,North,,3,305.34
+ORD-10354,2023-09-25,Customer_158,Electronics,Headphones,South,1173.96,2,408.21
+ORD-10757,2023-03-12,Customer_196,Office Supplies,Stapler,East,976.8,8,335.48
+ORD-10207,2024-02-14,Customer_22,Clothing,Sneakers,East,972.19,12,-126.02
+ORD-10702,2024-06-13,Customer_25,Furniture,Bookshelf,EAST,1857.54,12,-193.98
+ORD-10748,2023-01-22,Customer_245,Clothing,Hat,West,407.51,10,106.0
+ORD-11094,2024-12-05,Customer_105,Technology,Mouse,West,427.66,3,4.64
+ORD-10416,2023-05-21,Customer_100,Furniture,Bookshelf,East,856.32,8,33.1
+ORD-11443,2024-03-22,Customer_265,Technology,Webcam,South,1775.45,5,400.97
+ORD-11077,2024-03-01,Customer_230,Clothing,Jeans,South,49.74,10,0.32
+ORD-11187,2024-03-26,Customer_29,Office Supplies,Pen Set,West,821.32,3,-30.71
+ORD-11886,2024-02-01,Customer_18,Electronics,Headphones,East,361.86,1,-52.06
+ORD-10442,2023-01-03,Customer_223,Technology,Monitor,East,348.18,12,25.34
+ORD-11668,2024-01-09,Customer_81,Furniture,Bookshelf,East,119.04,4,11.15
+ORD-11947,2023-05-02,Customer_50,Furniture,Standing Desk,West,1371.31,9,-136.05
+ORD-10536,2024-12-16,Customer_94,Furniture,Filing Cabinet,North,1454.2,1,324.11
+ORD-10348,2023-06-03,Customer_270,Clothing,T-Shirt,West,1933.16,9,-166.78
+ORD-11025,2023-08-30,Customer_34,Furniture,Bookshelf,East,1993.76,14,129.94
+ORD-10403,2024-07-02,Customer_25,Office Supplies,Notebook,South,1486.14,8,-116.77
+ORD-10362,2024-02-28,Customer_109,Furniture,Office Chair,West,950.09,4,70.05
+ORD-10026,2024-02-05,Customer_123,Clothing,Jeans,South,1461.87,4,49.55
+ORD-11127,2024-08-22,Customer_152,Clothing,Jacket,South,1057.83,10,-8.99
+ORD-11188,2023-02-13,Customer_142,Furniture,Office Chair,West,759.42,1,31.72
+ORD-10177,2024-06-04,Customer_170,Furniture,Standing Desk,South,671.52,11,212.06
+ORD-11969,2024-06-26,Customer_199,Furniture,Standing Desk,East,438.91,10,112.18
+ORD-11583,2024-01-21,Customer_34,Electronics,Charger,East,1146.92,3,360.19
+ORD-10955,2023-11-13,Customer_255,Electronics,Smartwatch,South,162.98,2,31.33
+ORD-10716,2023-04-11,Customer_148,Electronics,Smartwatch,West,1825.68,12,-218.23
+ORD-10252,2024-01-09,Customer_42,Office Supplies,Folder,East,902.67,11,191.6
+ORD-10414,2023-04-06,Customer_154,Furniture,Office Chair,East,1195.1,8,355.98
+ORD-10558,2023-08-27,Customer_45,Clothing,Jeans,North,1373.24,7,51.8
+ORD-10553,2023-09-17,Customer_64,Technology,Keyboard,West,839.38,6,-40.22
+ORD-10193,2024-03-15,Customer_236,Office Supplies,Pen Set,West,876.02,5,281.91
+ORD-11153,2023-04-01,Customer_222,Technology,Keyboard,West,970.61,1,114.23
+ORD-10918,2023-01-29,Customer_185,Technology,Laptop,East,1273.69,6,268.15
+ORD-11113,2024-05-01,Customer_49,Technology,Keyboard,East,1250.58,11,-163.33
+ORD-10445,2023-12-23,Customer_139,Office Supplies,Stapler,East,885.25,7,129.94
+ORD-11679,2024-10-13,Customer_166,Furniture,Filing Cabinet,South,1232.73,4,269.94
+ORD-11484,2024-08-04,,Office Supplies,Pen Set,East,1690.3,6,-102.9
+ORD-11082,2023-11-16,Customer_123,Technology,Keyboard,West,1603.39,10,352.32
+ORD-11475,2023-02-19,Customer_14,Office Supplies,Folder,West,,7,70.26
+ORD-10451,2023-06-22,Customer_141,Electronics,Tablet,West,254.64,8,-1.42
+ORD-11651,2023-10-21,Customer_100,Furniture,Sofa,East,1619.99,1,-142.15
+ORD-10464,2024-01-19,Customer_3,Electronics,Smartwatch,South,22.92,12,4.92
+ORD-11201,2023-11-22,Customer_221,Technology,Laptop,East,928.76,4,-28.59
+ORD-10458,2024-02-09,Customer_133,Clothing,Jacket,South,1530.95,4,400.47
+ORD-11881,2023-08-04,Customer_174,Furniture,Office Chair,South,1793.79,13,249.29
+ORD-10957,2023-11-28,Customer_291,Office Supplies,Printer Paper,South,1529.82,7,217.95
+ORD-11046,2024-07-11,Customer_150,Technology,Mouse,East,692.59,5,145.1
+ORD-11313,2023-11-18,Customer_280,Technology,Monitor,South,835.26,5,13.76
+ORD-10369,2024-03-06,Customer_158,Furniture,Bookshelf,East,,2,20.94
+ORD-10484,2023-12-04,Customer_280,Electronics,Charger,West,1883.72,8,578.99
+ORD-10687,2023-03-31,Customer_87,Furniture,Standing Desk,East,370.76,8,78.24
+ORD-11198,2024-02-12,Customer_242,Electronics,Tablet,East,,5,108.06
+ORD-10307,2023-11-10,Customer_30,Office Supplies,Folder,South,1421.21,3,347.21
+ORD-10285,2023-01-17,Customer_152,Office Supplies,Notebook,West,1913.87,10,418.67
+ORD-11594,2024-07-21,Customer_246,Office Supplies,Pen Set,South,495.45,14,-49.35
+ORD-11526,2024-11-10,Customer_66,Clothing,Hat,East,464.83,6,99.21
+ORD-11074,2023-06-11,Customer_105,Clothing,T-Shirt,North,1998.43,1,-13.14
+ORD-11648,2023-07-12,Customer_68,Technology,Monitor,South,1384.67,8,-133.7
+ORD-10751,2023-09-22,Customer_185,Furniture,Filing Cabinet,East,1116.57,6,118.9
+ORD-11765,2024-06-10,Customer_218,Clothing,Sneakers,North,1071.6,9,57.99
+ORD-10638,2023-08-12,Customer_164,Electronics,Charger,West,1365.8,4,-166.16
+ORD-11208,2023-07-23,Customer_1,Electronics,Tablet,West,400.19,11,108.05
+ORD-11684,2023-05-16,Customer_98,Technology,Keyboard,East,465.25,11,-6.62
+ORD-11049,2023-11-26,Customer_202,Furniture,Office Chair,East,275.55,8,32.63
+ORD-11020,2024-01-31,Customer_176,Furniture,Office Chair,North,1554.36,6,338.27
+ORD-10653,2024-11-06,Customer_124,Clothing,Jacket,West,365.8,9,-0.74
+ORD-11268,2023-04-25,Customer_222,Office Supplies,Stapler,West,533.25,10,-74.94
+ORD-10097,2023-01-05,Customer_277,Electronics,Speaker,North,703.26,6,16.74
+ORD-10800,2023-12-30,Customer_294,Office Supplies,Stapler,South,,10,23.64
+ORD-11016,2023-04-29,Customer_37,Office Supplies,Folder,North,1138.61,1,-120.61
+ORD-11315,2024-02-28,Customer_154,Technology,Monitor,South,377.71,8,-32.1
+ORD-10139,2023-11-09,Customer_8,Clothing,Jacket,North,459.5,11,-15.84
+ORD-11449,2023-11-22,Customer_65,Technology,Monitor,South,460.85,7,96.18
+ORD-10947,2024-12-20,Customer_299,Clothing,Jacket,West,1761.2,3,586.14
+ORD-10993,2024-12-01,Customer_263,Office Supplies,Pen Set,North,446.72,3,-17.63
+ORD-11368,2024-10-29,Customer_212,Technology,Mouse,West,554.55,9,129.88
+ORD-10935,2023-04-16,Customer_133,Technology,Mouse,South,1263.5,10,334.79
+ORD-10961,2023-06-18,Customer_208,Furniture,Filing Cabinet,East,1531.04,2,384.48
+ORD-11192,2024-04-14,Customer_191,Electronics,Tablet,West,1392.9,12,-90.36
+ORD-11697,2023-12-23,Customer_249,Office Supplies,Stapler,North,1208.03,10,-71.99
+ORD-10128,2023-10-24,Customer_296,Furniture,Bookshelf,West,1852.63,14,139.72
+ORD-10700,2024-05-05,Customer_266,Electronics,Charger,West,1186.64,1,91.54
+ORD-11511,2023-01-12,Customer_54,Electronics,Tablet,East,1100.0,7,357.54
+ORD-11724,2024-09-09,Customer_192,Office Supplies,Folder,West,998.2,4,-122.17
+ORD-11860,2024-10-04,Customer_209,Office Supplies,Printer Paper,SOUTH,61.9,9,1.14
+ORD-10522,2024-07-27,Customer_193,Technology,Laptop,,1589.66,13,-183.57
+ORD-10264,2023-09-01,Customer_101,Office Supplies,Pen Set,North,432.85,10,136.48
+ORD-11577,2023-09-30,Customer_56,Clothing,Sneakers,South,272.69,14,61.93
+ORD-11642,2023-01-09,Customer_82,Technology,Mouse,South,1827.15,5,-97.93
+ORD-11604,2023-01-14,Customer_6,Electronics,Speaker,East,687.27,7,-58.76
+ORD-10631,2023-02-23,Customer_121,Furniture,Standing Desk,South,443.12,3,26.59
+ORD-10498,2024-04-24,Customer_111,Furniture,Filing Cabinet,North,,1,-246.8
+ORD-11659,2023-06-03,Customer_28,Clothing,Sneakers,West,331.4,6,56.79
+ORD-11822,2024-03-23,Customer_246,Furniture,Office Chair,West,1001.76,4,315.77
+ORD-11673,2023-11-25,Customer_60,Furniture,Office Chair,North,874.83,7,66.92
+ORD-11775,2023-03-28,Customer_10,Technology, Monitor  ,South,1538.68,1,493.9
+ORD-10432,2023-08-16,Customer_135,Electronics,Charger,West,1697.18,11,-234.55
+ORD-11169,2024-04-30,Customer_227,Furniture,Filing Cabinet,North,952.15,3,193.59
+ORD-11692,2023-03-31,Customer_167,Office Supplies,Printer Paper,East,1237.25,7,372.89
+ORD-10068,2023-05-24,Customer_151,Electronics,Charger,West,1583.44,10,-165.31
+ORD-10946,2024-05-17,Customer_139,Electronics,Tablet,East,1605.06,6,437.89
+ORD-11495,2023-12-25,Customer_214,Furniture,Bookshelf,South,36.05,1,-5.24
+ORD-11210,2024-06-28,Customer_95,Office Supplies,Stapler,East,1830.59,7,494.84
+ORD-10841,2024-03-28,Customer_231,Technology,Monitor,West,911.47,11,-20.62
+ORD-10573,2023-09-27,Customer_188,Office Supplies,Folder,West,1296.6,7,-45.49
+ORD-10334,2024-09-04,Customer_107,Electronics,Charger,South,891.84,6,140.6
+ORD-10338,2023-07-30,Customer_134,Clothing,Hat,West,1523.97,2,524.3
+ORD-11677,2023-02-07,Customer_213,Office Supplies,Folder,East,1501.82,2,344.51
+ORD-10664,2024-12-30,Customer_54,Office Supplies,Pen Set,West,150.31,3,44.44
+ORD-10383,2023-03-16,Customer_67,Technology,Webcam,East,288.86,14,-28.99
+ORD-10943,2024-03-07,Customer_247,Technology,Keyboard,East,,2,263.38
+ORD-10055,2023-12-23,Customer_222,Clothing,T-Shirt,East,809.04,5,127.77
+ORD-10704,2023-09-06,Customer_68,Clothing,Sneakers,West,214.88,8,70.56
+ORD-11223,2023-08-20,Customer_15,Office Supplies,Printer Paper,North,1484.45,2,147.88
+ORD-11067,2023-06-16,Customer_299,Technology,Mouse,East,841.91,14,-88.68
+ORD-11548,2024-03-23,Customer_236,Office Supplies,Pen Set,North,1570.21,2,350.36
+ORD-11605,2024-10-04,Customer_263,Clothing,Jacket,North,533.3,9,162.34
+ORD-11696,2024-11-20,Customer_147,Technology,Laptop,South,1967.61,7,90.95
+ORD-10170,2023-07-06,Customer_140,Furniture,Office Chair,South,1900.92,11,462.25
+ORD-10173,2024-05-31,Customer_259,Technology,Laptop,West,134.53,1,45.01
+ORD-11599,2023-12-12,Customer_174,Clothing,T-Shirt,North,1253.86,14,106.13
+ORD-10326,2024-09-02,Customer_138,Clothing,Sneakers,North,122.87,7,29.87
+ORD-10503,2024-07-02,Customer_182,Furniture,Sofa,South,1339.6,5,326.45
+ORD-11279,2023-09-20,Customer_12,Technology,Monitor,North,1959.87,2,-31.09
+ORD-10409,2023-11-17,Customer_53,Office Supplies,Folder,North,1106.98,13,-44.68
+ORD-11670,2023-07-23,Customer_170,Office Supplies,Stapler,South,1262.69,10,13.79
+ORD-10297,2023-04-18,Customer_295,Office Supplies,Folder,East,1279.86,8,295.09
+ORD-11039,2023-06-14,Customer_113,Office Supplies,Printer Paper,East,686.06,9,75.13
+ORD-11319,2024-10-08,Customer_265,Electronics,Headphones,EAST,1749.64,2,25.7
+ORD-10769,2024-02-14,Customer_23,Electronics,Headphones,North,435.6,11,-8.51
+ORD-11178,2023-01-23,Customer_268,Technology,Laptop,North,948.7,11,96.97
+ORD-10721,2024-04-25,Customer_42,Office Supplies,Notebook,West,552.22,7,-27.99
+ORD-11376,2023-03-30,Customer_96,Clothing,Sneakers,East,1727.42,3,-14.28
+ORD-10671,2024-09-01,Customer_11,Office Supplies,Stapler,East,1006.3,14,195.88
+ORD-10648,2024-10-17,Customer_182,Technology,Keyboard,West,30.7,4,-4.58
+ORD-10275,2023-04-02,Customer_155,Electronics,Tablet,North,973.64,13,-59.93
+ORD-11698,2023-01-17,Customer_10,Technology,Webcam,East,1766.46,13,127.53
+ORD-11555,2024-09-20,Customer_290,Technology,Laptop,North,854.33,2,210.95
+ORD-11985,2023-11-11,Customer_96,Clothing,Hat,East,316.35,14,-11.65
+ORD-10725,2023-09-18,Customer_247,Furniture,Sofa,West,1137.89,2,206.54
+ORD-11814,2023-01-01,Customer_53,Technology,Keyboard,East,973.24,4,-124.38
+ORD-10531,2023-02-17,Customer_207,Technology,Webcam,South,151.6,10,35.36
+ORD-10407,2024-01-15,Customer_162,Technology,Laptop,North,1420.03,2,-177.34
+ORD-10199,2024-01-30,Customer_72,Electronics,Smartwatch,East,1969.02,5,-148.09
+ORD-10473,2024-07-14,Customer_63,Clothing,Hat,North,1459.57,7,191.26
+ORD-10754,2024-11-30,Customer_228,Clothing,Jacket,WEST,1988.77,7,-66.89
+ORD-11636,2024-10-28,Customer_133,Clothing,Jeans,East,101.61,1,14.44
+ORD-10758,2023-12-29,Customer_52,Technology,Laptop,South,548.81,9,64.39
+ORD-10216,2024-06-03,Customer_282,Electronics,Headphones,North,822.51,10,124.14
+ORD-10253,2023-04-12,Customer_218,Clothing,Jeans,South,1165.21,14,-15.05
+ORD-10152,2024-11-23,Customer_193,Technology,Mouse,East,1214.24,5,-33.18
+ORD-11287,2024-04-08,Customer_292,Clothing,T-Shirt,East,906.93,7,104.51
+ORD-11580,2024-02-24,Customer_48,Technology,Laptop,West,,2,-162.49
+ORD-11958,2023-09-17,Customer_236,Clothing,Sneakers,North,1203.81,14,289.02
+ORD-11267,2023-02-24,Customer_133,Clothing,Hat,South,564.29,10,-75.39
+ORD-11455,2024-01-05,Customer_69,Clothing,Jacket,East,,8,59.45
+ORD-10981,2023-05-21,Customer_151,Electronics,Charger,South,1779.72,8,-212.08
+ORD-10728,2024-05-22,Customer_74,Electronics,Charger,West,1520.92,2,349.82
+ORD-11627,2024-08-13,Customer_114,Clothing,T-Shirt,West,1364.31,8,289.98
+ORD-11350,2024-01-25,Customer_115,Electronics,Tablet,North,209.24,12,-29.03
+ORD-10530,2023-03-03,Customer_235,Office Supplies,Pen Set,East,1687.8,12,61.81
+ORD-11152,2024-06-19,Customer_2,Technology,Laptop,North,1563.51,4,-216.98
+ORD-11485,2024-10-01,Customer_285,Furniture,Bookshelf,North,785.26,12,-34.84
+ORD-10240,2023-12-02,Customer_107,Office Supplies,Folder,West,1302.0,9,389.32
+ORD-11453,2023-05-13,Customer_68,Clothing,T-Shirt,West,1385.42,10,262.71
+ORD-11989,2024-02-06,Customer_22,Office Supplies,Stapler,North,455.11,3,-53.53
+ORD-10187,2024-04-28,Customer_196,Electronics,Smartwatch,East,154.32,1,0.07
+ORD-10246,2023-05-21,Customer_47,Clothing,Hat,East,1211.19,6,314.42
+ORD-11022,2023-03-27,Customer_96,Electronics,Speaker,,1474.83,9,-35.29
+ORD-11732,2024-07-21,Customer_78,Technology,Webcam,South,749.87,1,-87.79
+ORD-11509,2024-05-25,Customer_296,Furniture,Sofa,,606.21,13,124.4
+ORD-10912,2024-06-17,Customer_169,Technology,Monitor,South,474.2,12,-19.37
+ORD-10692,2024-01-13,Customer_95,Furniture,Sofa,North,893.48,4,-44.94
+ORD-10302,2023-05-12,Customer_186,Office Supplies,Pen Set,West,783.04,10,134.43
+ORD-10283,2024-12-26,,Clothing,Jeans,North,1280.61,12,201.01
+ORD-11710,2024-10-12,Customer_269,Office Supplies,Stapler,West,307.32,13,29.51
+ORD-10505,2024-06-13,Customer_92,Clothing,Jeans,West,1652.99,11,-6.3
+ORD-11945,2023-03-22,Customer_245,Electronics,Smartwatch,South,44.93,2,13.44
+ORD-10321,2023-03-23,Customer_21,Furniture,Filing Cabinet,East,307.03,5,65.27
+ORD-11489,2024-10-23,Customer_187,Electronics,Speaker,West,,11,331.0
+ORD-11391,2024-01-03,Customer_165,Office Supplies,Notebook,South,1001.52,5,6.64
+ORD-10860,2023-06-07,Customer_220,Office Supplies,Pen Set,East,1793.2,9,597.69
+ORD-10621,2024-01-17,Customer_171,Electronics,Charger,East,309.94,6,82.59
+ORD-11123,2023-12-11,Customer_186,Technology,Laptop,East,1887.75,12,207.87
+ORD-11347,2023-05-15,Customer_82,Furniture,Office Chair,South,1795.02,3,301.76
+ORD-10122,2023-09-11,Customer_289,Electronics,Tablet,North,425.0,5,87.99
+ORD-10833,2023-03-31,Customer_170,Office Supplies,Pen Set,East,1203.66,6,219.51
+ORD-10510,2023-11-15,Customer_61,Technology,Laptop,West,171.74,13,49.17
+ORD-10280,2024-03-11,Customer_227,Clothing,Jacket,South,1721.94,10,79.55
+ORD-11266,2023-07-09,Customer_171,Office Supplies,Stapler,North,1760.18,4,13.14
+ORD-11256,2023-06-12,Customer_241,Technology,Webcam,South,894.24,12,85.23
+ORD-11399,2024-11-16,Customer_73,Electronics, Speaker  ,West,1550.29,10,30.21
+ORD-11666,2023-05-22,Customer_191,Furniture,Filing Cabinet,West,60.57,8,-8.58
+ORD-11118,2024-02-21,Customer_196,Office Supplies,Printer Paper,East,25.77,9,-3.74
+ORD-11064,2023-09-10,Customer_56,Technology,Monitor,North,1621.54,14,-4.3
+ORD-10756,2023-07-08,Customer_295,Furniture,Filing Cabinet,North,1027.61,7,288.47
+ORD-10677,2023-11-30,Customer_270,Office Supplies,Notebook,South,140.99,3,14.05
+ORD-10518,2023-12-29,Customer_72,Office Supplies,Printer Paper,South,1122.62,14,64.99
+ORD-11941,2024-09-18,Customer_214,Clothing,Hat,East,1215.62,3,83.5
+ORD-11523,2023-03-06,Customer_55,Technology,Laptop,North,121.64,6,4.87
+ORD-10067,2023-03-10,Customer_144,Office Supplies,Stapler,North,,11,8.61
+ORD-10332,2024-01-21,Customer_268,Technology,Monitor,South,647.19,3,180.3
+ORD-10568,2023-03-30,Customer_226,Technology,Webcam,South,1157.09,8,212.45
+ORD-10875,2023-02-09,Customer_57,Electronics,Speaker,WEST,873.8,3,117.66
+ORD-10231,2024-12-04,Customer_220,Electronics,Headphones,East,115.46,9,39.09
+ORD-11444,2023-10-17,Customer_152,Office Supplies,Pen Set,South,1572.69,1,364.3
+ORD-11042,2024-08-20,Customer_145,Furniture,Filing Cabinet,South,1223.57,6,63.24
+ORD-10472,2024-04-21,Customer_169,Furniture,Standing Desk,NORTH,301.5,4,-13.06
+ORD-11898,2024-07-23,Customer_62,Office Supplies,Printer Paper,West,278.05,5,-25.75
+ORD-10511,2023-12-28,Customer_177,Electronics,Charger,East,557.57,1,-19.02
+ORD-10477,2024-08-14,Customer_204,Electronics,Tablet,North,280.8,4,79.37
+ORD-10915,2023-10-24,Customer_2,Technology,Monitor,North,1565.78,4,477.72
+ORD-11412,2023-01-03,Customer_85,Clothing,Jeans,East,915.05,2,179.28
+ORD-10318,2024-07-09,Customer_70,Technology,Laptop,West,329.64,11,91.16
+ORD-11996,2024-11-15,Customer_41,Electronics,Headphones,South,126.32,13,0.85
+ORD-11733,2023-03-24,Customer_69,Clothing,Jacket,East,1670.41,14,87.78
+ORD-11171,2023-03-22,Customer_122,Furniture,Sofa,North,1892.63,10,-97.37
+ORD-10581,2023-01-13,Customer_286,Technology,Monitor,North,1543.51,14,75.53
+ORD-10132,2023-06-28,Customer_128,Technology,Keyboard,West,511.49,4,71.0
+ORD-11739,2024-10-15,Customer_13,Electronics,Smartwatch,West,1617.66,14,-4.92
+ORD-10856,2023-07-30,Customer_214,Clothing,Hat,North,689.2,5,139.73
+ORD-11343,2024-08-30,Customer_252,Electronics,Charger,East,1817.59,10,108.23
+ORD-11095,2024-01-31,Customer_38,Technology,Keyboard,East,729.27,2,-54.91
+ORD-11966,2023-08-14,Customer_63,Office Supplies,Printer Paper,West,1590.59,9,-119.17
+ORD-10368,2023-10-28,Customer_240,Electronics,Charger,West,1442.49,5,471.72
+ORD-10732,2024-04-11,Customer_214,Clothing,Hat,North,1056.35,8,328.27
+ORD-11375,2023-04-17,Customer_60,Electronics,Smartwatch,West,1173.07,2,402.4
+ORD-10125,2023-10-10,Customer_282,Office Supplies,Printer Paper,South,704.48,10,-41.71
+ORD-11950,2023-11-20,Customer_139,Office Supplies,Printer Paper,West,1548.18,1,463.08
+ORD-11051,2024-10-26,Customer_88,Furniture,Standing Desk,East,755.12,3,76.15
+ORD-10256,2024-01-16,Customer_300,Technology,Keyboard,East,924.58,2,-50.7
+ORD-11983,2023-07-28,Customer_279,Technology,Webcam,East,1240.26,12,-89.82
+ORD-11121,2023-01-14,Customer_177,Furniture,Bookshelf,South,426.27,8,39.87
+ORD-10289,2024-11-06,Customer_149,Technology,Monitor,East,599.79,6,203.92
+ORD-11294,2024-09-03,Customer_61,Electronics,Tablet,East,482.55,2,115.42
+ORD-10777,2023-08-03,Customer_89,Technology,Webcam,North,836.49,10,-95.24
+ORD-10081,2024-12-04,Customer_41,Technology,Mouse,South,917.42,9,-122.79
+ORD-10053,2024-10-17,Customer_154,Electronics,Tablet,South,334.12,13,-30.04
+ORD-10970,2024-07-20,Customer_103,Office Supplies,Printer Paper,East,1136.2,2,-53.98
+ORD-11988,2024-07-06,Customer_274,Electronics,Smartwatch,North,1369.4,9,33.86
+ORD-10557,2023-10-23,Customer_29,Office Supplies,Printer Paper,South,,4,146.83
+ORD-10040,2024-08-29,Customer_181,Electronics,Headphones,East,1927.97,13,533.09
+ORD-11446,2023-01-05,Customer_118,Electronics,Headphones,West,1608.87,8,-208.05
+ORD-10261,2024-04-04,Customer_272,Technology,Laptop,West,1568.42,14,320.54
+ORD-11005,2023-01-09,Customer_221,Furniture,Sofa,East,697.53,13,-36.81
+ORD-11943,2024-06-17,Customer_177,Furniture,Standing Desk,East,1185.81,14,6.64
+ORD-10083,2023-08-30,Customer_10,Electronics,Headphones,East,1112.14,8,-75.16
+ORD-11132,2023-04-11,Customer_213,Technology,Keyboard,North,1818.01,9,458.48
+ORD-11225,2024-09-18,Customer_143,Office Supplies,Printer Paper,North,1692.69,1,505.74
+ORD-11566,2023-06-23,Customer_186,Furniture,Bookshelf,North,602.2,12,123.52
+ORD-11499,2023-11-01,Customer_32,Electronics,Smartwatch,South,1968.7,12,-265.44
+ORD-10030,2024-02-19,Customer_151,Furniture,Office Chair,East,1757.13,12,-36.95
+ORD-10513,2024-04-15,Customer_76,Electronics,Speaker,NORTH,934.45,6,53.5
+ORD-11008,2023-06-13,Customer_118,Furniture,Office Chair,North,1027.24,7,-29.21
+ORD-11308,2024-02-05,Customer_12,Electronics,Smartwatch,,746.66,3,-72.38
+ORD-11790,2023-11-03,Customer_195,Furniture,Filing Cabinet,North,1030.23,11,118.01
+ORD-11085,2024-08-08,Customer_43,Clothing,Jacket,East,1932.23,2,-81.86
+ORD-11232,2024-09-23,Customer_223,Clothing,Hat,South,1979.68,2,76.6
+ORD-11316,2023-06-25,Customer_140,Electronics,Tablet,East,88.79,10,0.88
+ORD-11606,2024-04-09,Customer_276,Clothing,T-Shirt,East,1307.5,12,8.16
+ORD-11802,2023-04-16,Customer_296,Electronics,Smartwatch,South,302.26,3,81.35
+ORD-11056,2023-05-18,Customer_92,Office Supplies,Folder,South,395.32,2,117.06
+ORD-11995,2024-09-03,Customer_133,Electronics,Tablet,North,52.02,7,7.59
+ORD-11888,2023-01-13,Customer_82,Technology,Mouse,North,826.52,11,109.24
+ORD-10048,2023-01-05,,Electronics,Charger,South,925.39,4,250.79
+ORD-11595,2023-01-08,Customer_136,Technology,Monitor,North,1191.37,11,-171.52
+ORD-11869,2023-06-29,Customer_84,Electronics,Charger,North,1147.48,5,63.39
+ORD-10467,2023-09-29,Customer_149,Clothing,Hat,East,175.34,10,21.44
+ORD-10153,2023-04-23,Customer_164,Office Supplies,Pen Set,South,1448.64,6,224.83
+ORD-11582,2023-04-26,Customer_280,Clothing,Hat,South,176.23,8,-18.38
+ORD-11889,2024-03-25,Customer_217,Furniture,Filing Cabinet,West,1622.02,8,517.8
+ORD-10394,2023-01-20,Customer_184,Clothing,Hat,West,944.23,6,-125.36
+ORD-10123,2023-06-08,Customer_118,Office Supplies,Stapler,West,770.07,4,60.45
+ORD-10355,2024-11-14,Customer_276,Electronics,Smartwatch,West,247.57,13,-25.52
+ORD-10134,2023-12-27,Customer_84,Electronics,Headphones,North,314.35,12,18.02
+ORD-10268,2024-01-16,Customer_238,Clothing,T-Shirt,East,648.71,6,211.74
+ORD-10385,2024-07-02,Customer_125,Technology, Webcam  ,,1912.72,7,13.36
+ORD-10609,2024-03-01,Customer_182,Furniture,Office Chair,North,1650.63,6,429.74
+ORD-10220,2023-12-27,Customer_266,Office Supplies,Stapler,West,873.16,11,-22.39
+ORD-10041,2023-01-18,Customer_128,Electronics,Headphones,South,1122.47,10,357.03
+ORD-10219,2023-10-28,Customer_164,Office Supplies,Folder,West,489.32,10,-15.98
+ORD-10597,2024-04-04,Customer_163,Office Supplies,Notebook,North,1732.63,2,-43.79
+ORD-11269,2023-12-28,Customer_297,Office Supplies,Folder,West,555.63,5,140.22
+ORD-11858,2024-08-15,Customer_223,Electronics,Speaker,West,1997.53,12,71.77
+ORD-10680,2023-11-26,Customer_169,Technology,Laptop,East,965.28,13,145.66
+ORD-11117,2023-02-20,Customer_191,Furniture,Sofa,West,1589.47,13,241.44
+ORD-11922,2023-04-25,Customer_73,Office Supplies,Stapler,North,1862.51,12,119.52
+ORD-10868,2023-08-19,Customer_138,Electronics,Speaker,South,1436.42,3,-20.73
+ORD-10541,2024-08-13,Customer_163,Electronics,Smartwatch,South,1123.53,2,-146.63
+ORD-11633,2024-01-21,Customer_9,Furniture,Filing Cabinet,South,486.58,14,144.64
+ORD-10862,2023-08-05,Customer_88,Electronics,Charger,North,719.88,12,5.63
+ORD-11379,2023-04-30,Customer_98,Electronics,Charger,West,891.44,12,-93.09
+ORD-11896,2024-09-28,Customer_266,Technology,Keyboard,South,846.56,3,170.04
+ORD-11089,2024-03-20,Customer_68,Office Supplies,Stapler,North,1206.04,10,-137.65
+ORD-10930,2023-12-20,Customer_11,Furniture,Standing Desk,South,846.42,8,-65.89
+ORD-11303,2023-04-03,Customer_83,Furniture,Office Chair,North,1991.69,1,-11.14
+ORD-11010,2024-07-23,Customer_225,Clothing,Hat,North,1425.28,12,-208.55
+ORD-11102,2024-07-04,Customer_106,Electronics,Speaker,East,865.68,3,-74.12
+ORD-11591,2023-10-22,Customer_189,Furniture,Office Chair,East,759.81,5,12.5
+ORD-11837,2024-03-02,Customer_232,Technology,Laptop,East,1679.91,1,214.62
+ORD-11801,2024-10-21,Customer_142,Technology,Keyboard,South,605.29,12,195.21
+ORD-11241,2023-03-11,Customer_227,Office Supplies,Printer Paper,West,1714.53,7,326.55
+ORD-11836,2024-04-15,Customer_228,Electronics,Headphones,East,55.4,2,-2.32
+ORD-11757,2023-05-10,Customer_53,Furniture,Sofa,North,1688.07,1,140.06
+ORD-11165,2024-12-13,Customer_88,Technology,Laptop,South,507.08,9,58.84
+ORD-10927,2023-02-27,Customer_69,Technology,Webcam,East,145.1,8,22.57
+ORD-10336,2024-05-20,Customer_102,Electronics,Speaker,South,866.43,11,-59.68
+ORD-10232,2024-08-11,Customer_245,Furniture,Filing Cabinet,West,591.6,2,-56.47
+ORD-11980,2023-08-09,Customer_24,Electronics,Smartwatch,West,544.88,10,73.71
+ORD-11706,2024-01-05,Customer_230,Technology,Keyboard,West,1528.9,14,514.1
+ORD-10158,2023-11-26,Customer_17,Electronics,Charger,NORTH,1387.31,12,153.51
+ORD-10468,2024-06-04,Customer_254,Office Supplies,Stapler,North,552.32,6,90.7
+ORD-11616,2023-01-28,Customer_72,Electronics,Charger,South,845.77,3,-29.98
+ORD-10872,2024-08-11,Customer_258,Office Supplies,Notebook,West,830.18,11,12.2
+ORD-11632,2023-01-13,Customer_155,Clothing,Jacket,West,1681.32,5,530.81
+ORD-11044,2024-04-12,Customer_167,Furniture,Standing Desk,North,915.66,1,-59.78
+ORD-11062,2024-06-24,Customer_299,Office Supplies,Pen Set,North,1394.38,7,-197.92
+ORD-11137,2023-04-06,Customer_163,Clothing,Jacket,South,453.74,1,32.45
+ORD-10585,2023-05-20,Customer_271,Technology,Laptop,South,1454.7,9,-137.04
+ORD-10205,2023-03-14,Customer_9,Electronics,Tablet,North,122.9,2,14.83
+ORD-10003,2024-05-25,Customer_59,Furniture,Office Chair,North,296.2,14,-1.16
+ORD-10898,2023-12-08,Customer_37,Clothing,Hat,East,1896.64,13,91.6
+ORD-10925,2023-05-21,Customer_179,Office Supplies,Printer Paper,West,1814.08,7,-147.18
+ORD-11414,2023-10-30,Customer_234,Office Supplies,Pen Set,North,759.66,1,-32.55
+ORD-11916,2024-06-09,Customer_134,Electronics,Charger,North,1503.25,11,199.31
+ORD-11231,2024-04-13,Customer_95,Office Supplies,Notebook,,1042.56,8,222.58
+ORD-11593,2023-05-12,Customer_22,Clothing,T-Shirt,North,1203.86,2,114.3
+ORD-10693,2024-03-25,Customer_22,Furniture,Standing Desk,West,1655.35,9,274.34
+ORD-11687,2024-04-22,Customer_231,Office Supplies,Printer Paper,North,1558.0,3,253.83
+ORD-11667,2023-10-17,Customer_19,Office Supplies,Notebook,South,883.36,14,142.73
+ORD-10714,2023-10-30,Customer_88,Electronics,Headphones,North,69.89,2,1.92
+ORD-11490,2024-06-19,Customer_152,Office Supplies,Notebook,East,584.01,2,59.91
+ORD-11146,2024-09-05,Customer_138,Office Supplies,Stapler,North,242.97,14,77.02
+ORD-10654,2024-09-04,Customer_12,Technology,Webcam,North,1162.22,8,153.37
+ORD-10883,2023-06-30,Customer_92,Technology,Webcam,West,,13,60.95
+ORD-11027,2023-04-18,Customer_45,Furniture,Bookshelf,East,,1,-14.01
+ORD-11070,2023-02-06,Customer_132,Office Supplies,Notebook,East,1135.07,2,365.36
+ORD-11124,2023-03-15,Customer_283,Electronics, Tablet  ,South,382.19,12,12.43
+ORD-11810,2023-08-23,Customer_132,Technology,Monitor,East,,6,-21.14
+ORD-11072,2024-01-29,Customer_125,Office Supplies, Notebook  ,North,1989.24,12,377.13
+ORD-10157,2024-03-10,Customer_172,Technology,Webcam,South,558.85,3,81.1
+ORD-11805,2024-02-17,Customer_112,Office Supplies,Notebook,East,1848.9,12,36.82
+ORD-10523,2024-01-15,Customer_282,Office Supplies,Folder,West,1765.5,9,380.74
+ORD-10462,2023-10-06,Customer_116,Furniture,Filing Cabinet,South,1863.4,5,85.55
+ORD-10652,2024-06-05,Customer_201,Furniture,Sofa,East,181.57,4,-3.76
+ORD-10160,2024-07-24,Customer_143,Technology,Laptop,South,1975.58,10,636.2
+ORD-10305,2023-02-24,Customer_186,Office Supplies,Folder,South,1411.83,8,-174.5
+ORD-10656,2023-07-25,Customer_22,Clothing,Hat,South,1573.84,8,546.45
+ORD-10547,2023-07-27,Customer_3,Office Supplies,Stapler,North,841.33,3,43.05
+ORD-10713,2024-08-11,Customer_158,Office Supplies,Pen Set,North,1195.69,1,164.76
+ORD-10395,2023-10-31,Customer_154,Furniture,Bookshelf,North,205.47,6,46.71
+ORD-10783,2023-04-17,Customer_47,Technology,Keyboard,South,127.93,11,0.9
+ORD-10399,2023-05-27,Customer_225,Clothing,Hat,West,,5,-14.01
+ORD-10798,2024-06-18,Customer_69,Office Supplies,Pen Set,EAST,1582.27,3,-143.11
+ORD-10618,2023-07-13,Customer_237,Electronics,Speaker,South,1122.94,8,-38.53
+ORD-11556,2024-03-03,Customer_209,Clothing,Hat,South,101.68,9,6.69
+ORD-10508,2023-01-21,Customer_202,Electronics,Smartwatch,West,1498.62,4,315.13
+ORD-11386,2023-10-23,,Technology,Laptop,South,1585.59,12,-228.41
+ORD-10736,2024-07-01,Customer_34,Electronics,Tablet,East,310.46,7,60.59
+ORD-11156,2023-07-24,Customer_198,Office Supplies,Notebook,East,667.01,5,148.36
+ORD-11690,2023-01-19,Customer_63,Electronics,Smartwatch,North,297.33,11,7.18
+ORD-11510,2024-01-21,Customer_295,Clothing,Jeans,East,166.74,8,13.73
+ORD-10867,2024-05-23,Customer_67,Office Supplies,Stapler,North,414.2,7,9.9
+ORD-10459,2024-07-06,Customer_221,Technology,Mouse,West,605.48,14,88.95
+ORD-11502,2024-09-08,Customer_44,Technology,Mouse,West,1134.01,14,-93.72
+ORD-10062,2024-02-17,Customer_75,Electronics,Speaker,West,97.59,13,5.76
+ORD-11845,2023-02-08,Customer_211,Technology,Laptop,South,92.82,10,28.05
+ORD-10871,2024-10-28,Customer_141,Furniture,Filing Cabinet,South,1296.08,1,-75.91
+ORD-10986,2023-01-24,Customer_246,Technology,Keyboard,East,502.02,9,136.1
+ORD-11598,2023-10-13,Customer_212,Office Supplies,Folder,West,1736.19,1,190.31
+ORD-10457,2023-04-09,Customer_149,Electronics, Tablet  ,South,666.15,13,179.75
+ORD-11653,2024-10-18,Customer_258,Technology,Keyboard,South,1713.08,6,306.78
+ORD-10478,2024-01-11,Customer_2,Clothing,Sneakers,North,1636.49,8,164.89
+ORD-11426,2024-05-16,Customer_178,Technology,Webcam,South,,9,59.69
+ORD-11904,2024-04-14,Customer_117,Electronics,Charger,South,1986.88,14,-167.32
+ORD-10870,2024-11-18,Customer_168,Office Supplies,Pen Set,North,647.47,12,-10.75
+ORD-10790,2024-07-28,Customer_212,Furniture,Standing Desk,West,230.13,10,26.62
+ORD-10617,2023-07-06,Customer_239,Technology,Webcam,South,,4,23.6
+ORD-11873,2024-01-23,Customer_288,Furniture,Sofa,South,1513.85,9,214.29
+ORD-11708,2023-08-04,Customer_123,Clothing,Jacket,East,801.37,8,29.04
+ORD-11432,2023-06-17,Customer_109,Clothing,Hat,West,233.69,5,73.84
+ORD-11158,2024-02-01,Customer_60,Technology,Monitor,East,1521.6,6,232.82
+ORD-11926,2023-08-22,Customer_262,Electronics,Headphones,East,1701.16,3,269.19
+ORD-10347,2024-06-30,Customer_190,Clothing,Hat,South,837.27,11,210.3
+ORD-11902,2023-07-21,Customer_159,Clothing,Jacket,East,979.0,11,-102.38
+ORD-11476,2023-09-05,Customer_48,Electronics,Headphones,South,570.18,13,198.61
+ORD-10972,2023-09-30,Customer_224,Office Supplies,Folder,East,1048.03,10,-34.39
+ORD-10760,2024-01-19,Customer_24,Furniture,Office Chair,West,155.01,9,-8.75
+ORD-10954,2023-04-11,Customer_2,Furniture,Bookshelf,North,1648.86,13,-236.38
+ORD-10446,2024-09-11,Customer_260,Technology,Monitor,East,1589.34,2,483.08
+ORD-10650,2024-12-20,Customer_246,Furniture,Standing Desk,North,440.42,2,-39.2
+ORD-11249,2024-10-19,Customer_144,Electronics,Tablet,East,254.55,14,-36.45
+ORD-11812,2024-10-13,Customer_220,Technology,Webcam,East,559.9,3,-30.58
+ORD-10379,2023-10-17,Customer_167,Furniture,Sofa,South,350.38,4,22.87
+ORD-10564,2023-01-13,Customer_125,Technology,Mouse,West,143.88,6,-6.44
+ORD-11348,2024-06-10,Customer_56,Electronics,Headphones,South,,1,52.99
+ORD-11756,2023-05-31,Customer_47,Electronics,Speaker,West,1411.51,4,-182.08
+ORD-11295,2024-03-18,Customer_133,Electronics,Smartwatch,South,804.57,6,267.04
+ORD-10956,2023-11-19,Customer_169,Furniture,Standing Desk,East,1303.55,13,-83.18
+ORD-11936,2024-09-16,Customer_70,Furniture,Office Chair,South,858.21,7,267.45
+ORD-11180,2024-06-16,Customer_257,Clothing,Hat,South,623.58,11,120.95
+ORD-10920,2023-03-03,Customer_114,Office Supplies,Pen Set,North,364.44,10,-46.25
+ORD-10231,2024-12-04,Customer_220,Electronics,Headphones,East,115.46,9,39.09
+ORD-11423,2024-06-29,Customer_104,Clothing,Hat,South,1516.47,9,503.76
+ORD-10382,2024-04-30,Customer_204,Technology,Mouse,South,918.92,13,178.4
+ORD-11189,2023-11-21,Customer_161,Clothing,Jeans,East,95.96,9,27.39
+ORD-11226,2024-04-29,Customer_5,Clothing,Hat,West,86.42,8,11.25
+ORD-10072,2024-05-25,Customer_145,Electronics,Headphones,East,1817.23,4,265.21
+ORD-10070,2023-08-18,Customer_253,Furniture,Standing Desk,East,186.53,10,37.4
+ORD-11346,2024-09-08,Customer_45,Clothing,Jeans,West,1094.99,12,-21.87
+ORD-11534,2023-07-13,Customer_172,Furniture,Standing Desk,East,1351.08,1,325.88
+ORD-10171,2023-06-02,Customer_226,Clothing,Jeans,EAST,1491.84,8,-175.3
+ORD-11050,2023-06-04,Customer_23,Clothing,Jeans,North,1532.91,6,-40.0
+ORD-10168,2024-11-19,Customer_65,Clothing,T-Shirt,East,238.74,14,6.52
+ORD-10493,2024-03-24,Customer_284,Technology,Laptop,West,50.48,1,7.14
+ORD-11263,2023-01-29,Customer_205,Furniture,Bookshelf,North,1996.48,8,587.81
+ORD-11041,2024-12-07,Customer_52,Furniture,Office Chair,West,1526.79,11,315.29
+ORD-11723,2024-11-05,Customer_291,Office Supplies,Stapler,,1669.75,11,338.64
+ORD-10893,2023-05-03,Customer_271,Technology,Webcam,East,223.01,3,-32.12
+ORD-10272,2023-05-29,Customer_99,Furniture, Bookshelf  ,West,260.34,3,0.43
+ORD-11307,2023-02-03,Customer_217,Furniture,Office Chair,North,,7,447.58
+ORD-10420,2024-05-16,,Clothing,Hat,East,1914.46,9,191.83
+ORD-10094,2023-02-22,Customer_262,Clothing,Hat,East,707.88,11,-32.16
+ORD-11380,2024-11-28,Customer_44,Technology,Mouse,West,471.0,2,66.85
+ORD-11713,2024-03-12,Customer_282,Furniture,Office Chair,East,580.96,5,57.7
+ORD-11264,2024-11-15,Customer_236,Technology,Laptop,West,1257.39,7,269.63
+ORD-10042,2024-09-30,Customer_151,Office Supplies,Stapler,South,1046.29,1,302.05
+ORD-10056,2024-10-20,Customer_223,Clothing,Jacket,South,1016.21,5,282.76
+ORD-11614,2023-07-02,Customer_136,Clothing,Jacket,West,1738.21,4,60.97
+ORD-11122,2023-10-06,Customer_147,Electronics,Smartwatch,West,560.13,1,45.81
+ORD-11186,2023-06-20,Customer_229,Furniture,Sofa,West,406.32,10,120.39
+ORD-11693,2024-07-29,Customer_214,Technology,Laptop,South,987.69,5,137.84
+ORD-10888,2023-12-04,Customer_111,Technology,Keyboard,South,1761.06,3,188.63
+ORD-10574,2024-04-30,Customer_187,Furniture,Filing Cabinet,South,280.67,5,77.84
+ORD-10038,2024-05-30,Customer_147,Clothing,T-Shirt,West,68.15,1,11.77
+ORD-10306,2023-07-07,Customer_159,Technology,Monitor,North,1653.6,14,163.92
+ORD-10668,2023-07-07,Customer_141,Office Supplies,Folder,North,1539.65,5,5.8
+ORD-10006,2024-01-02,Customer_92,Electronics,Speaker,South,1372.86,8,212.79
+ORD-11078,2023-10-04,Customer_295,Technology,Monitor,West,1016.2,13,8.1
+ORD-10782,2024-06-12,Customer_82,Clothing,Hat,West,756.72,4,173.98
+ORD-10408,2024-05-22,Customer_111,Technology,Webcam,South,,7,87.61
+ORD-11011,2023-03-31,Customer_240,Office Supplies,Stapler,East,1090.29,13,86.24
+ORD-10781,2023-06-01,Customer_183,Office Supplies,Folder,West,180.29,10,51.98
+ORD-10166,2024-02-18,Customer_34,Technology,Keyboard,East,20.47,2,-1.17
+ORD-10534,2024-07-29,Customer_215,Electronics,Speaker,West,1553.12,5,429.12
+ORD-10583,2023-12-30,Customer_202,Clothing,T-Shirt,South,1012.53,4,-126.44
+ORD-11676,2023-01-30,Customer_85,Office Supplies,Printer Paper,North,1533.21,12,216.61
+ORD-11924,2023-07-01,Customer_40,Clothing,Jacket,South,1170.21,7,190.5
+ORD-11825,2024-08-02,Customer_232,Furniture,Filing Cabinet,South,741.3,12,-25.74
+ORD-11953,2023-10-04,Customer_103,Furniture,Bookshelf,West,1079.45,6,268.51
+ORD-11871,2023-10-02,Customer_21,Electronics,Smartwatch,East,1422.99,13,230.12
+ORD-11274,2024-05-28,Customer_276,Technology,Laptop,North,1393.15,9,-181.31
+ORD-11912,2024-12-05,Customer_118,Technology,Laptop,South,1551.89,9,177.45
+ORD-11125,2023-11-17,Customer_93,Clothing,Hat,East,135.39,1,42.05
+ORD-11134,2024-11-03,Customer_222,Office Supplies,Stapler,East,159.51,14,-1.74
+ORD-11087,2023-11-21,Customer_46,Electronics,Charger,South,329.93,11,10.99
+ORD-10813,2023-05-19,Customer_177,Clothing,Hat,East,1739.74,1,230.2
+ORD-10316,2024-06-26,Customer_57,Clothing,Sneakers,South,1846.79,5,158.88
+ORD-11626,2023-03-03,Customer_77,Furniture,Standing Desk,East,1572.44,5,253.57
+ORD-11742,2024-01-06,Customer_227,Technology,Laptop,East,526.84,3,-70.59
+ORD-10516,2024-02-20,Customer_235,Furniture,Office Chair,East,1783.89,10,-52.15
+ORD-11688,2024-03-18,Customer_13,Technology,Laptop,West,682.75,4,-39.64
+ORD-10533,2024-08-05,,Office Supplies,Printer Paper,West,1331.72,6,31.27
+ORD-11058,2023-10-17,Customer_65,Technology,Monitor,West,730.82,5,185.76
+ORD-10271,2023-12-11,Customer_266,Office Supplies,Folder,North,135.16,13,46.96
+ORD-10548,2024-01-18,Customer_29,Furniture,Sofa,West,1471.35,13,276.71
+ORD-10964,2024-02-02,Customer_186,Furniture,Bookshelf,West,1067.95,5,151.86
+ORD-11717,2023-04-05,Customer_46,Clothing,Hat,South,638.0,9,57.98
+ORD-11649,2023-04-12,Customer_131,Furniture,Sofa,West,1312.46,6,308.03
+ORD-10598,2023-03-28,Customer_132,Technology,Mouse,South,611.74,6,-59.02
+ORD-11622,2024-01-03,Customer_146,Furniture,Office Chair,West,1049.64,4,199.42
+ORD-10570,2024-12-20,Customer_82,Technology,Keyboard,West,1318.99,6,171.19
+ORD-10074,2023-08-08,Customer_242,Office Supplies,Folder,West,1151.52,8,253.9
+ORD-10061,2024-02-22,Customer_90,Electronics,Speaker,East,536.18,10,52.56
+ORD-10447,2024-03-25,Customer_245,Furniture,Bookshelf,North,1934.76,10,89.77
+ORD-10809,2023-04-20,Customer_74,Clothing,Jacket,North,1659.39,10,64.71
+ORD-10244,2023-06-08,Customer_39,Office Supplies,Printer Paper,East,1423.91,10,-137.49
+ORD-11360,2024-10-16,Customer_25,Electronics,Smartwatch,South,55.7,9,7.16
+ORD-11459,2023-11-24,Customer_107,Technology,Laptop,North,556.51,7,-4.0
+ORD-10105,2023-05-26,Customer_109,Technology,Keyboard,West,192.1,2,22.77
+ORD-10673,2024-10-13,Customer_154,Office Supplies,Folder,South,730.07,14,223.16
+ORD-10642,2024-08-11,Customer_300,Technology,Mouse,West,1985.31,7,-142.74
+ORD-11442,2024-12-04,Customer_53,Technology,Keyboard,North,1488.83,8,325.31
+ORD-10665,2023-05-09,Customer_111,Furniture,Standing Desk,West,817.35,6,152.23
+ORD-10509,2023-05-09,Customer_69,Office Supplies,Pen Set,South,633.42,8,-15.85
+ORD-10131,2023-03-16,Customer_90,Office Supplies,Printer Paper,West,1847.46,11,153.06
+ORD-10444,2023-09-29,,Clothing,Sneakers,East,1280.35,8,126.91
+ORD-10866,2023-03-19,Customer_271,Office Supplies, Stapler  ,South,1633.29,3,95.87
+ORD-10631,2023-02-23,Customer_121,Furniture,Standing Desk,South,443.12,3,26.59
+ORD-11792,2023-02-07,Customer_253,Clothing,Jeans,West,959.26,14,24.53
+ORD-10057,2023-12-02,Customer_280,Electronics,Charger,South,1291.99,11,-176.67
+ORD-11890,2023-10-12,Customer_279,Office Supplies,Printer Paper,South,1264.92,4,208.5
+ORD-11081,2024-01-04,Customer_145,Clothing,Hat,North,215.4,12,30.14
+ORD-11179,2023-08-04,Customer_259,Clothing,Jeans,South,367.92,10,54.66
+ORD-10086,2024-03-12,Customer_133,Clothing,T-Shirt,West,1178.6,10,251.11
+ORD-11866,2024-04-10,Customer_132,Technology,Webcam,South,158.18,2,-3.49
+ORD-10771,2024-08-21,Customer_97,Electronics,Speaker,NORTH,1248.08,13,110.92
+ORD-11369,2023-11-07,Customer_63,Clothing,T-Shirt,West,1749.68,5,404.88
+ORD-10708,2024-10-24,Customer_214,Furniture,Bookshelf,North,53.02,12,-2.79
+ORD-11571,2023-10-08,Customer_215,Technology, Mouse  ,WEST,848.38,8,203.0
+ORD-11351,2024-08-27,Customer_232,Clothing,Hat,South,1360.67,10,151.42
+ORD-11576,2023-02-01,Customer_185,Clothing,Hat,East,795.13,6,216.65
+ORD-10538,2023-03-02,Customer_222,Furniture,Bookshelf,East,,12,-10.1
+ORD-11448,2024-03-27,Customer_150,Furniture,Bookshelf,South,1547.71,3,172.33
+ORD-11468,2024-08-04,Customer_11,Office Supplies,Pen Set,South,907.77,9,-19.93
+ORD-11567,2024-10-01,Customer_81,Clothing,T-Shirt,West,1253.49,12,-183.77
+ORD-11318,2023-11-26,Customer_176,Electronics,Speaker,West,1029.28,9,63.02
+ORD-10418,2024-12-25,Customer_23,Furniture,Standing Desk,North,1431.83,1,262.3
+ORD-11861,2024-11-20,Customer_145,Office Supplies,Notebook,West,843.78,11,-53.87
+ORD-11073,2024-05-20,Customer_105,Office Supplies,Notebook,WEST,1124.6,7,2.42
+ORD-11718,2024-05-20,Customer_298,Office Supplies,Pen Set,West,455.58,5,-66.33
+ORD-11610,2023-01-15,Customer_222,Furniture,Filing Cabinet,North,994.39,7,-102.3
+ORD-10851,2023-11-25,Customer_276,Technology,Monitor,North,48.11,14,-1.02
+ORD-11763,2023-05-05,Customer_230,Furniture,Office Chair,South,1629.95,2,-217.27
+ORD-11740,2023-12-04,Customer_236,Technology,Keyboard,South,139.24,12,-15.21
+ORD-11704,2024-02-16,Customer_220,Electronics,Charger,South,284.04,4,-23.72
+ORD-11776,2023-06-21,Customer_105,Electronics,Headphones,East,48.17,9,11.61
+ORD-11482,2023-06-29,Customer_298,Office Supplies,Notebook,West,1212.29,1,117.0
+ORD-11743,2023-08-08,Customer_258,Office Supplies,Folder,North,1719.45,13,155.39
+ORD-11809,2023-03-20,Customer_215,Office Supplies,Printer Paper,South,1568.43,8,523.83
+ORD-10304,2023-09-30,Customer_20,Clothing,Sneakers,West,1184.64,14,107.19
+ORD-11528,2024-01-24,Customer_61,Electronics,Speaker,North,1659.1,4,-230.11
+ORD-10335,2023-05-09,Customer_16,Office Supplies,Notebook,South,847.17,5,289.78
+ORD-10995,2023-04-29,Customer_39,Clothing,Sneakers,West,588.59,10,8.17
+ORD-10569,2024-06-08,Customer_167,Furniture,Standing Desk,North,1979.11,4,583.36
+ORD-10088,2023-02-03,Customer_288,Electronics,Charger,East,729.16,10,-67.97
+ORD-10874,2023-01-13,Customer_39,Electronics,Charger,North,465.82,12,84.39
+ORD-11162,2023-05-25,Customer_2,Clothing,Jeans,West,872.03,1,-11.03
+ORD-11535,2023-12-19,Customer_279,Electronics,Smartwatch,West,340.55,10,-8.63
+ORD-10712,2023-03-26,Customer_232,Clothing,Hat,East,1983.23,7,-90.92
+ORD-11760,2023-04-30,Customer_189,Office Supplies,Stapler,South,1885.96,9,151.95
+ORD-11863,2023-12-24,Customer_281,Clothing,Hat,WEST,,7,29.28
+ORD-11529,2023-12-10,Customer_45,Technology,Monitor,South,820.36,11,61.31
+ORD-10221,2023-10-11,Customer_64,Clothing,T-Shirt,West,92.61,5,20.21
+ORD-10319,2023-07-15,Customer_21,Clothing,Jacket,East,644.08,6,151.96
+ORD-11933,2023-09-21,Customer_66,Clothing,T-Shirt,East,1759.93,11,471.43
+ORD-10878,2024-07-04,,Technology,Monitor,South,,13,527.09
+ORD-11815,2024-05-07,Customer_95,Technology,Keyboard,West,1231.92,4,300.51
+ORD-10825,2024-11-24,Customer_244,Clothing,Hat,East,1249.95,2,-112.03
+ORD-11699,2023-07-21,Customer_176,Office Supplies,Notebook,North,505.67,7,102.29
+ORD-11478,2023-09-12,Customer_42,Clothing,Sneakers,South,458.57,14,48.61
+ORD-10138,2024-04-02,Customer_131,Furniture,Filing Cabinet,North,1796.91,1,203.57
+ORD-10163,2023-09-30,Customer_103,Office Supplies,Stapler,North,1307.33,12,42.29
+ORD-11795,2023-11-07,Customer_36,Clothing,Jeans,North,431.94,5,5.15
+ORD-11461,2024-02-19,Customer_73,Electronics,Tablet,West,351.26,8,-20.87
+ORD-10960,2024-08-11,Customer_178,Furniture,Sofa,West,1922.44,4,579.49
+ORD-11754,2023-03-03,Customer_67,Technology,Keyboard,,1358.59,4,38.71
+ORD-11309,2023-11-13,Customer_298,Technology,Mouse,West,1745.13,7,-93.73
+ORD-11190,2024-04-16,Customer_138,Furniture,Filing Cabinet,South,45.28,3,12.94
+ORD-11944,2023-08-06,Customer_45,Electronics,Smartwatch,South,1939.56,13,196.45
+ORD-11932,2024-11-23,Customer_83,Office Supplies,Printer Paper,East,429.67,6,106.48
+ORD-11818,2024-06-19,Customer_230,Furniture,Sofa,East,1649.07,13,309.58
+ORD-10633,2024-10-03,Customer_246,Clothing,Sneakers,West,,8,16.77
+ORD-11199,2024-02-21,Customer_203,Office Supplies,Notebook,North,1684.08,7,337.91
+ORD-10655,2024-12-28,Customer_146,Electronics,Speaker,East,,12,214.53
+ORD-10016,2024-07-28,Customer_179,Technology,Monitor,South,1793.61,13,157.27
+ORD-11643,2023-09-02,Customer_108,Office Supplies,Stapler,South,1417.08,6,-77.37
+ORD-11611,2024-02-28,Customer_277,Furniture,Standing Desk,South,40.84,7,14.1
+ORD-10137,2023-04-24,Customer_113,Office Supplies,Stapler,East,1004.08,4,233.63
+ORD-11236,2024-12-11,Customer_57,Electronics,Tablet,South,1256.91,7,-10.97
+ORD-10697,2023-10-21,Customer_111,Electronics,Tablet,East,1033.18,8,94.69
+ORD-11097,2023-07-29,Customer_128,Technology,Monitor,,855.11,3,-30.05
+ORD-11628,2023-01-02,Customer_285,Electronics,Smartwatch,South,1419.45,13,348.05
+ORD-10448,2024-08-15,Customer_39,Clothing,T-Shirt,North,342.15,6,45.35
+ORD-11909,2024-04-01,Customer_85,Electronics,Charger,West,1333.84,4,-99.13
+ORD-10327,2023-08-02,Customer_68,Electronics,Charger,East,55.53,6,-4.82
+ORD-10317,2023-06-12,Customer_220,Clothing,Jacket,East,565.71,10,137.79
+ORD-11753,2023-12-03,Customer_92,Office Supplies, Pen Set  ,West,1190.66,11,8.8
+ORD-10526,2023-07-13,Customer_48,Furniture,Standing Desk,North,152.61,12,44.05
+ORD-10087,2023-03-19,Customer_85,Technology,Keyboard,West,425.99,13,-10.34
+ORD-11285,2024-07-31,Customer_282,Office Supplies,Stapler,West,1378.04,6,367.43
+ORD-10148,2023-05-08,Customer_146,Electronics,Tablet,East,253.15,6,35.0
+ORD-11635,2024-09-04,Customer_191,Clothing,Jeans,South,807.95,14,4.1
+ORD-11544,2024-10-25,Customer_10,Clothing,T-Shirt,East,1118.72,9,-62.63
+ORD-11473,2024-08-17,Customer_38,Office Supplies,Stapler,South,1979.25,4,-37.04
+ORD-10365,2024-07-06,Customer_37,Office Supplies,Notebook,West,1640.05,11,189.92
+ORD-10589,2023-04-25,Customer_149,Office Supplies, Pen Set  ,South,601.68,7,-77.77
+ORD-11524,2023-10-13,,Technology,Monitor,North,120.69,5,-4.76
+ORD-10198,2024-06-04,Customer_236,Furniture,Office Chair,East,417.04,6,39.95
+ORD-11910,2023-01-07,Customer_259,Office Supplies,Folder,West,57.82,11,-7.69
+ORD-10192,2023-05-10,Customer_288,Electronics,Tablet,South,1550.19,11,-54.22
+ORD-10404,2023-05-07,Customer_201,Electronics,Charger,South,1771.16,8,354.26
+ORD-11587,2023-02-28,Customer_202,Electronics,Speaker,North,1914.84,5,-229.36
+ORD-11282,2023-07-15,Customer_136,Electronics,Charger,West,1292.69,7,17.95
+ORD-10483,2023-08-03,Customer_79,Electronics,Charger,East,414.0,6,24.5
+ORD-11761,2023-09-21,Customer_160,Clothing,Hat,West,1539.64,1,345.99
+ORD-10791,2023-10-13,Customer_108,Office Supplies,Stapler,East,613.34,1,203.05
+ORD-10799,2023-09-24,Customer_149,Electronics,Headphones,East,1414.58,13,444.6
+ORD-10384,2023-09-19,Customer_51,Office Supplies,Pen Set,East,,14,120.26
+ORD-10750,2024-10-21,Customer_69,Furniture,Office Chair,West,23.25,5,0.89
+ORD-10422,2023-01-31,Customer_100,Technology,Webcam,West,1444.91,6,51.41
+ORD-10314,2023-03-15,Customer_49,Electronics,Smartwatch,South,1875.96,10,380.84
+ORD-11021,2023-06-12,Customer_116,Technology,Mouse,North,685.96,9,98.35
+ORD-10543,2024-07-03,Customer_256,Office Supplies,Notebook,East,207.94,11,72.66
+ORD-10913,2023-12-02,Customer_273,Electronics,Speaker,West,1030.83,14,-82.16
+ORD-10662,2024-10-06,Customer_291,Electronics,Tablet,South,1038.63,9,-111.62
+ORD-10902,2024-11-24,Customer_153,Technology,Monitor,South,670.57,10,101.34
+ORD-11409,2024-02-06,Customer_100,Electronics,Headphones,East,387.12,14,41.04
+ORD-10685,2024-05-03,Customer_39,Electronics,Headphones,North,1660.31,11,-182.48
+ORD-11691,2023-01-28,Customer_216,Clothing,Sneakers,West,1751.11,9,-144.88
+ORD-10159,2024-04-29,Customer_215,Office Supplies,Folder,West,1390.71,9,381.89
+ORD-10999,2023-08-24,Customer_226,Electronics,Headphones,,1312.4,12,-29.09
+ORD-11312,2024-03-21,Customer_69,Electronics,Tablet,East,1265.65,1,-93.24
+ORD-11791,2024-07-27,Customer_67,Technology,Keyboard,East,1751.02,3,-112.93
+ORD-10202,2024-12-14,Customer_161,Furniture,Sofa,South,1556.09,1,498.91
+ORD-11023,2023-05-13,Customer_70,Clothing,Hat,South,769.77,13,251.88
+ORD-11962,2023-11-05,Customer_41,Office Supplies,Printer Paper,South,53.96,7,14.03
+ORD-11200,2024-04-17,Customer_9,Clothing,Jacket,West,1752.3,4,413.35
+ORD-10112,2024-05-25,Customer_139,Technology,Webcam,East,972.66,1,113.12
+ORD-11891,2023-10-06,Customer_58,Office Supplies,Notebook,West,1874.81,1,471.63
+ORD-11970,2024-02-08,Customer_105,Furniture,Standing Desk,East,1273.55,8,-159.06
+ORD-10980,2023-01-21,Customer_281,Clothing,Jeans,North,1496.34,6,520.44
+ORD-10922,2024-06-03,Customer_52,Clothing,T-Shirt,SOUTH,1015.69,6,251.44
+ORD-11496,2024-08-25,Customer_259,Clothing,Jeans,East,1686.2,10,-243.63
+ORD-11602,2023-07-02,Customer_146,Technology,Keyboard,West,1174.73,13,-41.14
+ORD-11429,2023-03-18,Customer_252,Furniture,Sofa,South,1294.67,11,21.24
+ORD-11824,2023-03-20,Customer_89,Office Supplies,Folder,North,1726.31,7,-108.52
+ORD-10815,2024-06-29,Customer_280,Office Supplies,Notebook,South,131.32,9,12.19
+ORD-11377,2023-05-08,Customer_166,Technology,Webcam,West,1957.32,3,499.13
+ORD-11302,2023-01-08,Customer_129,Clothing,T-Shirt,East,412.1,8,-34.18
+ORD-10679,2023-09-01,Customer_246,Office Supplies,Folder,South,805.96,9,62.62
+ORD-11093,2024-04-26,Customer_182,Electronics,Smartwatch,South,1714.73,2,115.47
+ORD-10080,2023-12-14,Customer_122,Clothing,Hat,,1300.76,12,57.41
+ORD-11774,2023-01-06,Customer_190,Technology,Keyboard,North,1135.13,2,-78.19
+ORD-11355,2023-11-03,Customer_259,Clothing,Hat,West,632.46,10,-6.12
+ORD-11545,2023-01-06,Customer_178,Furniture,Standing Desk,West,445.87,4,-6.27
+ORD-10752,2024-08-31,Customer_251,Technology,Webcam,East,1453.58,1,457.01
+ORD-11330,2024-01-03,Customer_31,Technology,Webcam,West,1626.1,7,-217.23
+ORD-11054,2024-10-25,Customer_184,Electronics,Speaker,West,923.7,13,143.03
+ORD-10242,2024-05-08,Customer_52,Electronics,Charger,South,628.43,3,158.06
+ORD-11352,2024-06-04,Customer_77,Electronics,Smartwatch,East,850.64,11,7.02
+ORD-10641,2024-05-31,Customer_50,Clothing,T-Shirt,South,329.51,5,72.15
+ORD-10696,2023-05-03,Customer_295,Office Supplies,Stapler,North,343.47,12,-19.84
+ORD-10209,2023-12-22,Customer_238,Technology, Keyboard  ,North,1493.67,5,427.06
+ORD-11960,2023-08-07,Customer_273,Office Supplies,Stapler,North,1206.37,8,-123.25
+ORD-10770,2024-09-12,Customer_36,Technology,Laptop,North,1708.79,5,-157.36
+ORD-11768,2024-10-16,Customer_142,Furniture,Sofa,West,951.68,4,6.91
+ORD-10435,2024-01-28,Customer_104,Technology,Mouse,East,,4,56.94
+ORD-11063,2023-07-06,Customer_138,Technology,Mouse,West,1610.01,10,92.79
+ORD-10974,2023-11-16,Customer_227,Technology,Laptop,South,95.34,6,20.43
+ORD-10551,2024-12-15,Customer_14,Technology,Mouse,East,1899.42,11,506.04
+ORD-10808,2024-03-18,Customer_39,Electronics,Smartwatch,,1570.34,4,353.45
+ORD-11957,2024-01-03,Customer_215,Furniture,Bookshelf,South,985.87,4,340.06
+ORD-11013,2023-08-11,Customer_143,Technology,Mouse,South,1016.96,10,-121.98
+ORD-11900,2024-03-15,Customer_49,Electronics,Speaker,North,1716.17,2,251.95
+ORD-10466,2023-07-04,Customer_206,Electronics,Headphones,South,754.46,6,227.07
+ORD-11487,2023-06-20,Customer_176,Furniture,Bookshelf,East,1216.33,9,352.65
+ORD-11317,2023-11-23,Customer_233,Clothing,Sneakers,West,144.19,11,37.16
+ORD-10277,2023-08-01,Customer_13,Technology,Webcam,West,1671.92,5,275.28
+ORD-11069,2024-07-31,Customer_161,Technology,Webcam,West,1618.38,2,129.17
+ORD-11017,2023-07-23,Customer_298,Clothing,Jeans,West,570.22,8,56.51
+ORD-11333,2024-02-25,Customer_134,Furniture,Sofa,South,1043.9,6,241.98
+ORD-10722,2024-10-07,Customer_45,Technology,Monitor,West,1187.51,9,-138.12
+ORD-11967,2023-09-12,Customer_161,Electronics,Tablet,West,944.66,11,241.85
+ORD-10786,2024-11-26,Customer_177,Clothing,T-Shirt,South,696.86,7,46.58
+ORD-11558,2024-07-10,Customer_32,Furniture,Office Chair,West,986.43,12,203.22
+ORD-11320,2024-07-26,Customer_204,Office Supplies,Pen Set,West,55.56,5,-6.26
+ORD-11381,2023-04-19,Customer_144,Furniture,Filing Cabinet,South,980.56,3,330.34
+ORD-11549,2024-01-22,Customer_255,Office Supplies,Folder,West,1282.89,4,-186.44
+ORD-10906,2023-09-28,Customer_207,Office Supplies,Notebook,North,1373.19,10,201.64
+ORD-10563,2023-07-11,Customer_110,Furniture,Sofa,South,612.78,12,-20.68
+ORD-10388,2023-12-20,Customer_42,Electronics,Speaker,West,533.48,1,-28.11
+ORD-10022,2024-11-14,Customer_234,Electronics,Headphones,North,503.37,8,-33.15
+ORD-11233,2024-07-31,Customer_189,Furniture,Sofa,South,1844.41,12,-158.04
+ORD-10124,2023-11-20,Customer_47,Electronics,Smartwatch,West,1450.06,3,304.54
+ORD-11257,2023-06-12,Customer_21,Electronics,Headphones,South,1162.5,7,-45.83
+ORD-10773,2024-08-16,Customer_287,Office Supplies,Stapler,South,1849.66,13,481.21
+ORD-10880,2024-09-17,Customer_289,Electronics,Headphones,South,1066.84,6,-141.69
+ORD-11144,2024-12-12,Customer_198,Technology,Laptop,West,1128.58,6,105.19
+ORD-11166,2024-06-22,Customer_94,Clothing,Hat,North,1490.81,11,269.53
+ORD-10050,2024-04-18,Customer_229,Office Supplies,Printer Paper,East,1926.04,9,516.16
+ORD-11588,2024-04-15,Customer_162,Clothing,Jacket,North,265.99,7,37.17
+ORD-11469,2023-06-05,Customer_84,Technology,Keyboard,North,462.59,8,-56.51
+ORD-11105,2024-10-17,Customer_112,Electronics,Tablet,North,1510.4,8,131.23
+ORD-10703,2023-06-28,Customer_92,Technology,Keyboard,South,675.67,9,157.42
+ORD-10482,2024-03-25,Customer_197,Furniture,Bookshelf,,426.69,1,17.38
+ORD-11145,2024-11-07,Customer_196,Furniture,Filing Cabinet,South,1536.99,2,486.03
+ORD-11925,2023-06-10,Customer_92,Technology,Monitor,North,1141.05,14,178.09
+ORD-10066,2023-03-17,Customer_233,Clothing,Sneakers,West,722.71,4,237.34
+ORD-11734,2024-08-27,Customer_18,Clothing,Hat,North,1120.56,4,58.92
+ORD-10733,2024-05-06,Customer_217,Furniture,Sofa,North,1796.05,1,490.43
+ORD-11798,2023-07-26,Customer_50,Electronics,Speaker,East,1233.19,5,-45.89
+ORD-10801,2024-05-30,Customer_223,Technology,Laptop,West,365.69,5,74.5
+ORD-11559,2023-03-04,Customer_261,Furniture,Sofa,WEST,288.95,9,-9.11
+ORD-11481,2024-06-12,Customer_278,Technology,Monitor,South,806.54,5,-12.62
+ORD-10907,2024-04-26,Customer_75,Office Supplies,Printer Paper,North,603.74,7,16.47
+ORD-10031,2023-01-02,Customer_60,Technology,Laptop,South,1992.58,5,662.95
+ORD-10417,2024-04-15,Customer_186,Clothing,Jeans,West,997.75,11,43.73
+ORD-10881,2024-04-23,Customer_243,Electronics,Smartwatch,East,607.14,11,-10.59
+ORD-10632,2024-10-17,Customer_187,Technology,Keyboard,West,42.38,10,10.33
+ORD-11574,2024-11-22,Customer_80,Technology,Keyboard,South,218.48,9,45.64
+ORD-11450,2024-09-15,Customer_103,Technology,Webcam,South,665.26,14,58.43
+ORD-10064,2024-06-08,Customer_183,Electronics,Charger,West,1485.02,14,-45.86
+ORD-11634,2023-01-16,Customer_13,Office Supplies,Pen Set,West,1344.78,6,431.9
+ORD-11619,2023-04-04,Customer_198,Furniture,Office Chair,WEST,,2,-45.27
+ORD-10077,2023-07-22,Customer_213,Electronics,Smartwatch,South,1839.85,3,-43.25
+ORD-10491,2024-02-17,Customer_258,Clothing,Jeans,South,364.68,9,-33.36
+ORD-11421,2023-09-29,Customer_25,Furniture,Bookshelf,West,1014.5,10,213.8
+ORD-11537,2024-12-28,Customer_233,Furniture,Standing Desk,South,624.78,13,138.89
+ORD-10532,2024-04-24,Customer_295,Technology,Webcam,South,1045.66,5,-83.48
+ORD-10065,2024-12-29,Customer_84,Furniture,Office Chair,East,653.7,1,194.65
+ORD-11703,2024-12-06,Customer_258,Clothing,Sneakers,East,464.78,5,118.78
+ORD-10296,2024-02-25,Customer_171,Clothing,Hat,EAST,1188.89,6,123.86
+ORD-10591,2024-12-26,Customer_68,Electronics,Tablet,South,569.38,10,-5.23
+ORD-10767,2023-03-22,Customer_125,Office Supplies,Stapler,East,1016.62,9,252.35
+ORD-10724,2023-06-03,Customer_137,Clothing,T-Shirt,West,1866.85,3,-261.23
+ORD-11436,2024-04-20,Customer_51,Office Supplies,Stapler,North,980.28,10,2.73
+ORD-10626,2024-01-28,Customer_3,Office Supplies,Folder,North,1214.99,1,218.4
+ORD-11419,2024-07-06,,Office Supplies,Folder,South,312.54,7,20.02
+ORD-11961,2024-03-06,Customer_15,Electronics,Tablet,South,1258.82,2,384.2
+ORD-11212,2023-12-11,,Clothing,T-Shirt,West,395.19,12,74.37
+ORD-11624,2024-09-07,Customer_99,Technology,Keyboard,North,624.75,5,6.7
+ORD-10251,2023-03-18,Customer_78,Clothing,Jeans,East,1197.06,2,117.77
+ORD-11833,2023-02-05,Customer_143,Furniture,Office Chair,North,1761.77,10,48.68
+ORD-11625,2023-08-19,Customer_139,Clothing,T-Shirt,South,1462.14,4,130.2
+ORD-11917,2023-09-11,Customer_161,Office Supplies,Stapler,North,79.72,5,26.23
+ORD-10982,2024-10-22,Customer_101,Furniture,Office Chair,North,301.52,3,-37.26
+ORD-11903,2023-02-21,Customer_126,Furniture,Filing Cabinet,West,752.71,11,-47.65
+ORD-10706,2024-08-10,Customer_175,Technology,Webcam,East,164.02,9,-1.59
+ORD-10487,2024-05-28,Customer_208,Technology,Laptop,North,589.17,6,105.09
+ORD-10273,2024-09-06,Customer_260,Clothing,T-Shirt,South,473.21,12,-15.94
+ORD-11517,2023-08-09,Customer_67,Furniture,Office Chair,North,389.73,7,8.95
+ORD-11682,2024-11-20,Customer_223,Office Supplies,Stapler,West,253.36,10,83.39
+ORD-10963,2024-03-08,Customer_79,Electronics,Smartwatch,East,176.28,7,-9.55
+ORD-10877,2023-03-11,Customer_66,Office Supplies,Pen Set,West,379.89,9,38.77
+ORD-11413,2023-04-24,Customer_175,Office Supplies,Folder,South,28.63,11,8.94
+ORD-11826,2023-10-11,Customer_167,Technology,Webcam,North,652.13,12,30.15
+ORD-10411,2024-07-17,Customer_54,Technology,Monitor,South,1281.44,2,144.98
+ORD-10667,2024-11-09,Customer_73,Clothing,Hat,South,1748.26,6,174.79
+ORD-11262,2024-04-15,Customer_197,Furniture,Sofa,East,1201.51,6,22.35
+ORD-10149,2024-01-13,Customer_153,Technology, Laptop  ,West,1446.0,6,-139.84
+ORD-10644,2023-05-10,Customer_138,Electronics,Speaker,North,1245.17,14,227.47
+ORD-11617,2024-04-10,Customer_99,Furniture,Office Chair,West,959.16,11,43.96
+ORD-10218,2023-05-25,Customer_231,Furniture,Sofa,East,,2,265.87
+ORD-10239,2023-12-09,Customer_43,Clothing,Sneakers,North,1629.71,11,340.71
+ORD-11131,2023-10-22,Customer_253,Technology,Monitor,South,1453.5,3,-63.92
+ORD-11216,2024-07-06,Customer_272,Office Supplies,Stapler,West,887.83,13,-16.56
+ORD-10792,2024-10-22,Customer_282,Electronics,Speaker,South,427.84,2,-63.97
+ORD-10191,2024-02-01,Customer_99,Technology,Webcam,South,1711.34,13,194.26
+ORD-10333,2024-04-30,Customer_40,Office Supplies,Stapler,North,298.61,8,-14.63
+ORD-11332,2023-06-30,Customer_41,Clothing,Jeans,North,951.54,9,108.38
+ORD-11353,2024-04-29,Customer_200,Clothing,Hat,North,55.72,4,17.67
+ORD-10962,2023-11-07,Customer_60,Clothing,Jacket,West,866.53,2,-60.28
+ORD-11331,2024-11-13,Customer_272,Technology,Mouse,West,1671.59,1,158.55
+ORD-11965,2023-02-21,Customer_97,Technology,Webcam,West,274.6,1,-28.64
+ORD-11766,2024-11-16,Customer_207,Electronics,Tablet,North,1022.62,6,41.36
+ORD-11744,2024-04-03,Customer_9,Technology,Webcam,East,1932.67,2,591.18
+ORD-10582,2024-10-22,Customer_94,Technology,Webcam,North,110.0,3,19.06
+ORD-11923,2024-11-09,Customer_115,Office Supplies,Stapler,SOUTH,1916.48,12,99.96
+ORD-11445,2024-01-05,Customer_96,Furniture,Filing Cabinet,North,1500.53,13,105.87
+ORD-10839,2024-02-24,Customer_62,Electronics,Speaker,East,609.76,13,146.36
+ORD-10627,2024-12-14,Customer_233,Technology,Laptop,North,1253.05,4,-48.45
+ORD-10323,2024-07-26,Customer_61,Furniture,Office Chair,South,1723.08,9,364.27
+ORD-11927,2023-02-05,Customer_202,Electronics,Headphones,North,118.58,2,2.98
+ORD-11160,2024-07-30,Customer_56,Furniture,Office Chair,North,695.22,6,230.07
+ORD-10778,2023-04-11,Customer_25,Furniture,Bookshelf,East,,9,-78.1
+ORD-11076,2024-10-27,Customer_8,Clothing,Sneakers,West,588.74,4,62.21
+ORD-10939,2024-03-21,Customer_273,Furniture,Sofa,East,506.72,6,155.78
+ORD-10437,2023-01-25,Customer_26,Clothing,Jacket,West,1567.02,11,218.05
+ORD-10119,2023-08-13,Customer_145,Furniture,Office Chair,West,795.13,5,92.18
+ORD-11470,2023-10-04,Customer_155,Office Supplies,Printer Paper,North,840.67,6,-119.88
+ORD-11575,2024-05-23,Customer_77,Technology,Mouse,West,65.76,3,2.4
+ORD-11026,2024-02-22,Customer_212,Furniture,Filing Cabinet,North,1964.16,14,384.1
+ORD-11253,2023-10-23,Customer_41,Technology, Keyboard  ,North,1786.31,14,210.36
+ORD-11389,2024-12-04,Customer_91,Clothing,Hat,West,1016.37,8,-118.0
+ORD-10076,2023-05-14,Customer_117,Furniture,Office Chair,South,1608.18,13,545.09
+ORD-11053,2024-03-30,Customer_39,Office Supplies,Printer Paper,East,835.8,1,-67.53
+ORD-10900,2024-12-27,Customer_220,Electronics,Tablet,West,1380.14,10,409.29
+ORD-10371,2024-10-16,Customer_243,Clothing,T-Shirt,West,1504.7,13,84.77
+ORD-11877,2024-02-14,Customer_176,Technology,Webcam,South,780.55,13,-31.51
+ORD-11830,2023-08-14,Customer_132,Electronics,Tablet,South,699.99,13,35.32
+ORD-11992,2023-04-22,Customer_204,Electronics,Charger,North,1341.82,7,271.99
+ORD-10941,2024-01-29,Customer_233,Furniture,Filing Cabinet,West,1560.41,4,-62.05
+ORD-10577,2023-10-14,Customer_127,Electronics,Charger,West,452.05,7,129.75
+ORD-10819,2024-02-01,Customer_32,Clothing,Sneakers,West,1304.39,13,390.83
+ORD-11479,2024-05-23,Customer_69,Technology,Laptop,West,55.31,12,6.67
+ORD-11532,2023-03-05,Customer_173,Office Supplies,Notebook,North,1396.8,11,-135.68
+ORD-11746,2024-12-09,Customer_129,Furniture,Sofa,South,1410.74,4,181.33
+ORD-11390,2024-04-26,Customer_60,Electronics,Speaker,South,1334.97,10,84.5
+ORD-10886,2023-02-08,Customer_179,Electronics,Smartwatch,East,1995.39,13,-36.36
+ORD-10968,2023-01-21,Customer_12,Office Supplies,Stapler,South,1931.73,1,74.71
+ORD-11609,2023-04-15,Customer_23,Furniture,Sofa,East,1356.88,14,226.13
+ORD-10785,2023-05-11,Customer_181,Furniture,Standing Desk,South,716.27,1,218.3
+ORD-11553,2024-01-28,Customer_59,Furniture,Filing Cabinet,West,1942.29,2,628.79
+ORD-11834,2023-10-06,Customer_251,Furniture,Standing Desk,West,103.25,6,15.4
+ORD-11621,2023-02-08,Customer_232,Clothing,T-Shirt,North,999.69,4,274.48
+ORD-10301,2024-09-24,Customer_14,Technology,Mouse,West,1916.99,11,65.12
+ORD-10689,2024-02-27,Customer_155,Electronics,Charger,East,1965.39,7,-210.17
+ORD-10812,2024-02-06,Customer_246,Office Supplies,Stapler,West,678.2,13,5.27
+ORD-11061,2024-12-06,Customer_26,Electronics,Smartwatch,South,1064.61,1,189.2
+ORD-10236,2023-04-12,Customer_291,Furniture,Office Chair,South,164.93,14,25.02
+ORD-11115,2024-10-04,Customer_20,Electronics,Charger,East,50.69,10,-3.38
+ORD-11405,2024-02-24,Customer_33,Office Supplies,Printer Paper,West,641.81,7,51.22
+ORD-10499,2023-10-23,Customer_290,Furniture,Filing Cabinet,North,722.62,14,45.08
+ORD-11681,2023-08-07,Customer_87,Office Supplies,Folder,North,1306.03,7,-148.2
+ORD-11079,2024-06-29,Customer_105,Clothing,Jacket,North,1614.08,2,444.34
+ORD-11326,2023-03-13,Customer_280,Technology,Mouse,North,1096.21,5,225.64
+ORD-10794,2024-07-11,Customer_187,Technology, Mouse  ,South,1208.5,2,260.58
+ORD-11938,2023-09-27,Customer_131,Technology,Monitor,West,477.73,13,10.47
+ORD-11542,2024-02-14,Customer_213,Office Supplies,Pen Set,West,1113.0,4,-38.43
+ORD-11946,2023-01-07,Customer_31,Office Supplies,Printer Paper,West,1027.82,3,355.42
+ORD-10990,2023-01-07,Customer_226,Technology,Laptop,West,1420.31,14,-77.85
+ORD-11382,2023-09-21,Customer_243,Office Supplies,Folder,South,1922.82,13,-275.85
+ORD-10934,2023-08-17,Customer_289,Electronics,Charger,West,1469.79,7,-49.22
+ORD-10387,2023-10-05,Customer_224,Clothing,T-Shirt,West,1091.99,1,-79.64
+ORD-11480,2023-05-29,Customer_159,Clothing,T-Shirt,South,1696.14,5,173.99
+ORD-10390,2023-05-19,Customer_111,Electronics,Tablet,West,430.47,3,103.83
+ORD-10743,2023-01-24,Customer_95,Clothing,Hat,West,295.71,6,46.13
+ORD-10352,2023-02-10,Customer_222,Office Supplies,Folder,North,115.32,8,34.76
+ORD-11217,2023-09-15,Customer_201,Furniture,Sofa,West,1562.43,11,-218.7
+ORD-10235,2023-05-23,Customer_199,Furniture,Sofa,East,1397.03,9,61.86
+ORD-11720,2024-09-06,Customer_182,Technology,Laptop,East,56.75,6,11.33
+ORD-10480,2024-07-18,Customer_126,Furniture,Office Chair,South,,1,16.61
+ORD-10567,2023-03-06,Customer_145,Office Supplies,Printer Paper,South,929.98,9,3.01
+ORD-11140,2024-12-10,Customer_187,Office Supplies,Folder,South,1517.34,13,-18.26
+ORD-11695,2024-05-27,Customer_221,Clothing,Jeans,West,960.89,12,309.94
+ORD-11878,2024-09-11,Customer_92,Furniture,Office Chair,South,1339.75,1,382.37
+ORD-11578,2024-06-17,Customer_78,Furniture,Standing Desk,East,1896.72,2,63.67
+ORD-10120,2024-08-01,Customer_134,Office Supplies,Pen Set,East,1262.86,4,22.04
+ORD-11741,2023-11-29,Customer_236,Technology,Monitor,North,840.61,7,-81.24
+ORD-11024,2023-10-20,Customer_39,Office Supplies,Printer Paper,North,1087.6,8,363.7
+ORD-11086,2023-01-01,Customer_204,Technology,Monitor,South,821.9,13,259.53
+ORD-11272,2024-04-26,Customer_194,Office Supplies,Stapler,East,1262.25,7,-25.53
+ORD-10926,2023-06-21,Customer_246,Furniture,Standing Desk,West,258.35,2,36.27
+ORD-10515,2024-08-19,Customer_104,Electronics,Headphones,North,1443.1,2,312.0
+ORD-10223,2024-05-25,Customer_130,Clothing,Jeans,West,477.64,1,-59.3
+ORD-11488,2024-09-07,Customer_218,Electronics,Tablet,South,1755.31,12,-86.31
+ORD-10613,2023-01-26,Customer_217,Electronics,Speaker,West,1875.48,6,11.07
+ORD-10843,2023-03-10,Customer_145,Electronics,Headphones,West,58.51,4,-3.25
+ORD-11245,2024-11-09,Customer_18,Office Supplies,Pen Set,North,1436.23,3,184.36
+ORD-10052,2023-07-08,,Furniture,Filing Cabinet,West,1481.04,6,188.35
+ORD-11857,2023-06-22,Customer_238,Furniture,Standing Desk,North,166.45,4,-10.4
+ORD-10485,2023-11-18,Customer_17,Technology,Webcam,,1941.94,14,-181.28
+ORD-11929,2023-09-14,Customer_298,Clothing,T-Shirt,North,1909.23,4,451.8
+ORD-10818,2024-09-30,Customer_258,Electronics,Smartwatch,East,1372.57,8,434.12
+ORD-10155,2023-06-03,Customer_201,Office Supplies,Notebook,East,958.99,8,21.28
+ORD-11366,2023-07-16,Customer_260,Office Supplies,Pen Set,North,642.87,12,-31.47
+ORD-10600,2023-05-23,Customer_253,Furniture, Sofa  ,East,1900.8,14,-154.83
+ORD-11615,2023-10-08,Customer_120,Clothing,Jacket,North,1693.26,7,152.61
+ORD-10248,2024-08-02,Customer_293,Furniture,Standing Desk,North,564.12,12,147.41
+ORD-10761,2024-06-17,Customer_286,Clothing,Jeans,East,1955.44,3,496.55
+ORD-11841,2023-10-09,Customer_262,Electronics,Tablet,,1907.29,7,-114.16
+ORD-11130,2023-10-03,Customer_54,Clothing,Hat,East,639.23,9,59.46
+ORD-10542,2024-03-30,Customer_232,Furniture,Bookshelf,South,1992.39,2,523.42
+ORD-10793,2023-07-24,Customer_79,Technology,Laptop,North,1333.36,12,359.41
+ORD-11141,2023-05-29,,Electronics,Tablet,South,1504.46,10,-152.84
+ORD-11466,2024-04-03,Customer_288,Clothing,Hat,East,672.24,3,79.62
+ORD-10628,2023-09-05,Customer_237,Furniture,Sofa,,847.93,14,193.87
+ORD-10150,2024-10-07,Customer_287,Electronics,Tablet,West,1469.73,13,-36.21
+ORD-11654,2024-02-23,Customer_15,Furniture,Bookshelf,West,1653.93,5,-130.06
+ORD-10291,2024-09-17,Customer_124,Technology,Laptop,West,1887.29,5,-55.97
+ORD-10381,2024-01-30,,Clothing,Jeans,North,636.21,5,119.96
+ORD-10686,2024-06-13,Customer_222,Technology,Mouse,South,627.81,13,-32.9
+ORD-11367,2024-12-07,Customer_2,Furniture,Sofa,North,1998.65,5,-31.97
+ORD-11224,2024-03-24,Customer_296,Office Supplies,Pen Set,West,1147.65,3,251.54
+ORD-10897,2024-10-27,Customer_94,Electronics,Headphones,North,1511.18,4,322.98
+ORD-10854,2024-12-23,Customer_57,Electronics,Speaker,East,1230.46,8,43.67
+ORD-11071,2023-06-25,Customer_194,Electronics,Tablet,South,358.75,12,-33.5
+ORD-10442,2023-01-03,Customer_223,Technology,Monitor,East,348.18,12,25.34
+ORD-11539,2023-08-16,Customer_21,Office Supplies,Stapler,East,1168.34,14,378.57
+ORD-11701,2024-10-08,Customer_296,Office Supplies,Printer Paper,South,1203.64,13,-171.6
+ORD-10891,2023-02-18,Customer_85,Technology,Mouse,South,689.7,3,211.7
+ORD-11770,2024-08-01,Customer_157,Furniture,Bookshelf,North,1275.47,2,-175.94
+ORD-10858,2024-06-13,Customer_27,Clothing,Jacket,South,1315.61,2,376.61
+ORD-11364,2023-10-25,Customer_14,Furniture,Filing Cabinet,North,1365.51,4,-159.02
+ORD-10615,2024-11-05,Customer_100,Office Supplies,Pen Set,North,818.35,8,218.35
+ORD-10154,2024-07-01,Customer_289,Technology,Webcam,South,1088.89,4,-75.13
+ORD-11193,2023-04-23,Customer_97,Technology,Webcam,North,441.44,4,81.39
+ORD-11997,2024-11-15,,Clothing,Hat,West,525.36,7,-55.36
+ORD-11682,2024-11-20,Customer_223,Office Supplies,Stapler,West,253.36,10,83.39
+ORD-11794,2024-08-03,Customer_249,Electronics,Headphones,West,87.41,3,22.77
+ORD-10322,2023-06-27,Customer_161,Furniture,Bookshelf,North,1445.62,9,85.28
+ORD-11726,2023-05-07,Customer_117,Electronics,Headphones,East,260.81,5,8.27
+ORD-11282,2023-07-15,Customer_136,Electronics,Charger,West,1292.69,7,17.95
+ORD-10082,2024-07-11,Customer_220,Furniture,Filing Cabinet,South,170.88,3,54.73
+ORD-10512,2023-04-19,Customer_6,Electronics,Smartwatch,West,1016.2,6,-53.93
+ORD-11538,2024-04-11,Customer_93,Clothing,Jeans,West,921.53,13,183.42
+ORD-11497,2024-04-04,Customer_230,Furniture,Office Chair,West,331.61,1,61.51
+ORD-10929,2024-02-12,Customer_126,Electronics,Tablet,East,875.49,10,217.29
+ORD-11645,2024-10-22,Customer_244,Technology,Monitor,West,594.38,13,93.15
+ORD-11357,2023-06-19,Customer_139,Electronics,Tablet,East,115.82,13,-8.77
+ORD-10010,2024-01-15,Customer_188,Technology,Laptop,South,566.48,13,-1.06
+ORD-10831,2024-03-04,Customer_255,Clothing,Hat,West,500.24,12,-2.08
+ORD-10032,2023-08-21,Customer_9,Electronics,Tablet,North,711.43,3,151.52
+ORD-11527,2024-10-14,Customer_107,Electronics,Speaker,West,1820.73,8,200.28
+ORD-10413,2023-12-20,Customer_290,Technology,Mouse,North,1449.01,1,-20.61
+ORD-10580,2023-08-17,Customer_187,Office Supplies,Stapler,North,943.27,7,217.22
+ORD-11406,2023-10-15,Customer_203,Electronics,Speaker,South,671.43,1,30.7
+ORD-11563,2023-12-15,Customer_96,Technology,Mouse,North,1507.52,3,285.31
+ORD-11680,2023-09-12,Customer_259,Furniture,Office Chair,East,1907.08,6,539.16
+ORD-11920,2024-12-02,Customer_296,Technology,Webcam,North,1518.85,7,341.38
+ORD-10614,2023-09-06,Customer_273,Office Supplies,Stapler,East,1435.21,12,-166.16
+ORD-11045,2024-06-03,Customer_220,Electronics,Charger,West,1146.46,1,333.45
+ORD-11402,2024-09-23,Customer_112,Technology,Mouse,South,291.19,1,30.1
+ORD-11014,2023-09-27,Customer_23,Clothing,Hat,West,434.51,5,-56.61
+ORD-10089,2023-11-02,Customer_118,Technology,Monitor,East,,5,215.04
+ORD-11714,2023-07-11,Customer_104,Furniture,Filing Cabinet,West,469.2,7,116.19
+ORD-10601,2024-09-16,Customer_70,Furniture,Filing Cabinet,South,109.59,7,-4.5
+ORD-11237,2024-03-13,Customer_87,Office Supplies,Notebook,West,1423.36,5,-36.34
+ORD-11852,2024-02-27,Customer_216,Furniture,Bookshelf,East,656.31,2,-86.14
+ORD-10133,2023-03-04,Customer_285,Electronics,Headphones,West,569.62,2,-22.76
+ORD-11370,2024-09-05,Customer_259,Office Supplies,Pen Set,South,,11,248.28
+ORD-10555,2023-10-23,Customer_268,Office Supplies,Pen Set,North,1609.57,3,531.9
+ORD-11031,2023-10-20,Customer_164,Technology,Laptop,WEST,1784.8,7,99.35
+ORD-11596,2023-08-07,Customer_204,Furniture,Filing Cabinet,North,420.51,13,-6.26
+ORD-10320,2023-07-18,Customer_143,Technology,Keyboard,South,799.03,8,210.89
+ORD-11785,2023-03-27,Customer_1,Electronics,Smartwatch,East,1976.19,6,-288.44
+ORD-11211,2024-07-03,Customer_160,Furniture,Bookshelf,WEST,956.3,13,-124.76
+ORD-11752,2024-01-06,Customer_224,Furniture,Office Chair,North,1403.34,6,-30.05
+ORD-10634,2024-07-08,Customer_254,Clothing,Sneakers,West,1615.18,8,-61.12
+ORD-10552,2023-12-09,Customer_133,Technology,Keyboard,West,1387.95,9,275.6
+ORD-11328,2024-11-20,Customer_170,Electronics,Smartwatch,West,808.83,8,-6.23
+ORD-11055,2023-09-28,Customer_230,Furniture,Standing Desk,South,1592.39,3,154.94
+ORD-11747,2024-01-24,Customer_243,Technology,Monitor,West,981.04,14,26.44
+ORD-10796,2023-09-03,Customer_123,Technology,Mouse,South,1202.68,7,56.31
+ORD-11675,2023-08-24,Customer_9,Furniture,Filing Cabinet,South,1725.35,12,-65.64
+ORD-11264,2024-11-15,Customer_236,Technology,Laptop,West,1257.39,7,269.63
+ORD-11725,2023-06-03,Customer_80,Clothing,Jacket,West,1022.34,11,-140.25
+ORD-10174,2024-07-26,Customer_241,Furniture,Bookshelf,South,535.26,2,57.61
+ORD-10766,2023-06-11,Customer_108,Office Supplies,Printer Paper,West,766.57,14,35.77
+ORD-10245,2023-03-25,Customer_36,Electronics,Speaker,South,977.42,1,247.28
+ORD-11080,2023-11-29,Customer_65,Electronics,Speaker,East,647.49,1,54.19
+ORD-11751,2024-09-18,Customer_69,Clothing,Jeans,East,1236.99,4,339.69
+ORD-10145,2024-08-15,Customer_280,Furniture,Standing Desk,WEST,1739.57,14,163.02
+ORD-10090,2023-10-30,Customer_112,Office Supplies,Notebook,West,852.66,14,206.63
+ORD-11416,2023-11-16,Customer_260,Clothing,T-Shirt,North,559.49,8,148.76
+ORD-10682,2023-09-17,Customer_218,Furniture,Sofa,North,1113.68,9,164.4
+ORD-10310,2024-10-21,Customer_260,Furniture,Office Chair,East,1575.59,6,-143.11
+ORD-11383,2023-09-23,Customer_26,Technology,Keyboard,South,1034.63,3,127.21
+ORD-10093,2023-05-18,Customer_133,Technology,Keyboard,West,1854.64,12,178.15
+ORD-11581,2023-03-21,Customer_45,Clothing,Jacket,East,1751.52,1,393.41
+ORD-10924,2023-09-10,Customer_185,Clothing,Hat,North,195.03,14,4.12
+ORD-11700,2024-08-18,Customer_81,Furniture,Bookshelf,South,461.04,12,103.4
+ORD-11035,2023-11-09,Customer_15,Electronics,Speaker,North,328.27,11,-12.2
+ORD-11400,2024-06-24,Customer_53,Clothing,Sneakers,East,,5,98.04
+ORD-10243,2023-01-02,Customer_146,Technology,Mouse,East,559.8,9,31.78
+ORD-11500,2024-01-24,Customer_276,Office Supplies,Folder,SOUTH,1649.32,9,-91.64
+ORD-11111,2024-06-03,Customer_61,Furniture,Filing Cabinet,North,331.6,4,-44.59
+ORD-10214,2024-07-31,Customer_228,Clothing,Jacket,West,1203.49,7,296.63
+ORD-11999,2023-01-20,Customer_223,Furniture,Filing Cabinet,South,1472.45,5,86.66
+ORD-11197,2024-10-10,Customer_218,Office Supplies,Printer Paper,North,1322.42,2,435.81
+ORD-10998,2024-01-14,Customer_221,Office Supplies,Pen Set,South,713.01,2,224.02
+ORD-10853,2023-07-15,Customer_204,Furniture,Filing Cabinet,East,,3,-44.17
+ORD-10425,2023-08-23,Customer_252,Furniture,Sofa,West,748.22,6,-90.5
+ORD-11777,2023-02-16,Customer_172,Electronics,Charger,North,843.01,5,224.26
+ORD-11142,2024-05-06,Customer_82,Electronics,Charger,East,807.59,4,9.98
+ORD-11143,2023-12-15,Customer_123,Clothing,Hat,West,981.29,3,87.33
+ORD-10226,2023-07-03,Customer_223,Electronics,Headphones,North,1040.88,12,98.28
+ORD-11640,2023-09-28,Customer_102,Clothing,Sneakers,East,1824.24,3,474.87
+ORD-10000,2023-03-13,Customer_107,Clothing,Hat,North,1205.34,3,-86.77
+ORD-11418,2024-09-29,Customer_141,Clothing,T-Shirt,East,1565.43,3,356.48
+ORD-10401,2023-10-04,Customer_126,Office Supplies,Stapler,East,730.26,8,184.19
+ORD-11428,2023-11-17,Customer_221,Office Supplies,Notebook,,800.08,1,-13.88
+ORD-11103,2023-09-02,Customer_28,Furniture,Filing Cabinet,West,777.8,13,177.8
+ORD-10084,2023-08-27,Customer_224,Furniture,Office Chair,East,317.83,9,46.74
+ORD-10162,2024-04-21,Customer_215,Furniture,Bookshelf,South,958.94,7,269.48
+ORD-10114,2024-07-03,Customer_273,Furniture,Filing Cabinet,West,835.45,1,20.41
+ORD-10670,2024-07-04,Customer_211,Furniture,Sofa,South,1951.44,7,169.94
+ORD-11174,2024-10-31,Customer_195,Furniture,Office Chair,North,817.52,9,118.05
+ORD-11543,2023-02-21,Customer_116,Office Supplies,Pen Set,West,1350.35,14,412.95
+ORD-11779,2023-03-27,Customer_102,Office Supplies,Stapler,South,1169.06,3,-43.57
+ORD-11392,2023-07-23,Customer_286,Technology,Mouse,West,1667.74,1,269.67
+ORD-10889,2024-04-30,Customer_43,Clothing,T-Shirt,West,1184.96,2,-51.74
+ORD-11501,2024-01-03,Customer_209,Furniture,Bookshelf,East,606.77,12,129.11
+ORD-10625,2024-05-18,Customer_214,Furniture,Bookshelf,,1614.75,4,522.17
+ORD-11976,2023-04-29,Customer_35,Technology,Webcam,West,834.23,4,-13.02
+ORD-10952,2023-03-10,Customer_267,Electronics,Headphones,West,118.72,8,-8.91
+ORD-10807,2023-10-21,Customer_242,Technology,Laptop,North,980.34,8,-105.19
+ORD-10258,2023-10-30,Customer_287,Clothing,Jacket,,417.85,14,49.27
+ORD-10624,2024-02-05,Customer_299,Office Supplies,Stapler,North,1399.46,1,17.04
+ORD-10826,2023-12-31,Customer_106,Technology,Webcam,North,1359.7,10,43.11
+ORD-10234,2023-12-10,Customer_129,Office Supplies,Folder,North,607.8,5,106.08
+ORD-10135,2023-05-21,Customer_257,Electronics,Headphones,North,806.69,8,51.14
+ORD-10616,2023-03-06,Customer_50,Electronics,Smartwatch,West,899.35,6,202.37
+ORD-11942,2023-04-29,Customer_33,Office Supplies,Notebook,West,1030.32,7,68.92
+ORD-11977,2024-08-03,Customer_42,Clothing,Jeans,NORTH,1377.24,4,-123.68
+ORD-10836,2023-08-02,Customer_195,Office Supplies,Printer Paper,South,1384.46,2,390.17
+ORD-10842,2024-08-26,Customer_193,Clothing,Jeans,West,1923.6,14,323.08
+ORD-10959,2024-05-12,Customer_16,Technology,Mouse,South,536.14,10,-0.83
+ORD-10592,2023-04-15,Customer_288,Electronics,Charger,East,706.83,3,47.94
+ORD-11314,2024-11-22,Customer_291,Office Supplies,Folder,West,1585.88,14,398.85
+ORD-11525,2024-06-13,,Office Supplies,Notebook,North,853.85,11,-98.83
+ORD-11291,2024-06-09,Customer_245,Clothing,Jacket,East,268.37,10,65.28
+ORD-10343,2024-10-21,Customer_201,Office Supplies,Printer Paper,North,469.82,7,126.16
+ORD-11663,2023-08-18,Customer_122,Clothing,Hat,South,1254.41,8,27.38
+ORD-11589,2024-11-05,Customer_176,Clothing,T-Shirt,North,663.1,14,-2.19
+ORD-10293,2023-05-29,Customer_18,Clothing,T-Shirt,North,1514.98,8,121.61
+ORD-10364,2023-12-07,Customer_295,Clothing,T-Shirt,East,888.31,10,-36.19
+ORD-10178,2023-02-07,Customer_124,Office Supplies,Stapler,South,534.31,10,113.12
+ORD-10659,2023-05-22,Customer_87,Clothing,T-Shirt,West,272.19,12,-23.64
+ORD-10996,2023-10-11,Customer_255,Clothing,Jeans,North,1333.71,1,357.63
+ORD-10014,2024-06-30,Customer_214,Electronics,Tablet,South,954.99,14,-86.14
+ORD-11110,2023-02-02,Customer_20,Office Supplies,Stapler,East,1870.95,2,500.44
+ORD-11394,2024-06-03,Customer_43,Furniture,Sofa,East,863.71,3,-5.38
+ORD-10165,2023-06-10,Customer_210,Furniture,Sofa,West,1774.24,14,280.21
+ORD-11895,2023-05-11,Customer_141,Furniture,Filing Cabinet,South,971.63,7,126.66
+ORD-11359,2024-05-04,Customer_26,Electronics,Smartwatch,East,64.56,4,4.65
+ORD-10059,2024-02-21,Customer_65,Electronics,Charger,North,1309.94,13,-61.12
+ORD-10709,2023-10-16,Customer_187,Clothing,Sneakers,South,1668.57,13,420.62
+ORD-10676,2024-01-02,Customer_235,Electronics,Speaker,South,704.34,13,181.64
+ORD-11378,2024-01-30,Customer_143,Office Supplies,Stapler,North,1216.43,13,320.63
+ORD-10780,2023-04-27,Customer_273,Furniture, Sofa  ,West,1149.41,10,161.82
+ORD-10424,2023-11-22,Customer_28,Clothing,Jacket,North,1296.77,8,61.68
+ORD-10292,2023-05-02,Customer_113,Clothing,Jeans,East,1635.57,1,459.08
+ORD-11065,2023-04-20,Customer_22,Clothing,Jeans,West,1639.57,5,516.4
+ORD-11806,2023-12-17,Customer_18,Technology,Monitor,South,1491.14,10,459.92
+ORD-10329,2023-04-07,Customer_44,Furniture,Bookshelf,South,793.64,7,197.75
+ORD-10429,2024-11-17,Customer_156,Furniture,Sofa,North,455.21,12,-38.35
+ORD-11012,2024-03-03,Customer_152,Electronics, Charger  ,West,495.69,13,42.09
+ORD-10079,2023-11-26,Customer_12,Electronics,Tablet,South,1901.81,12,561.28
+ORD-11052,2023-11-12,Customer_193,Electronics,Tablet,East,1945.92,6,-13.78
+ORD-10937,2024-07-04,Customer_205,Electronics,Speaker,South,1024.63,1,72.49
+ORD-10834,2023-08-03,Customer_199,Clothing,T-Shirt,North,34.56,7,6.77
+ORD-10749,2023-05-12,Customer_130,Furniture,Bookshelf,West,1035.49,6,10.8
+ORD-10890,2023-09-15,Customer_69,Technology,Mouse,West,937.97,10,227.12
+ORD-10254,2023-03-14,Customer_164,Clothing,Hat,West,660.28,9,-24.21
+ORD-11749,2023-05-02,Customer_96,Office Supplies,Pen Set,West,907.29,4,289.21
+ORD-11482,2023-06-29,Customer_298,Office Supplies,Notebook,West,1212.29,1,117.0
+ORD-11974,2023-08-06,Customer_65,Clothing,Sneakers,South,1922.26,10,-173.05
+ORD-11407,2023-01-27,Customer_184,Electronics,Tablet,South,36.37,13,8.73
+ORD-11337,2023-03-18,Customer_192,Clothing,Sneakers,South,1198.19,7,-125.69
+ORD-11108,2023-09-28,Customer_199,Clothing,T-Shirt,West,413.88,6,62.43
+ORD-10136,2023-05-24,Customer_286,Office Supplies,Folder,West,1138.39,14,-133.36
+ORD-11135,2024-08-24,Customer_242,Technology,Keyboard,East,1117.17,7,126.88
+ORD-11218,2024-12-05,Customer_59,Office Supplies,Folder,South,1511.56,13,314.65
+ORD-10852,2023-03-22,Customer_246,Clothing,Jeans,West,1767.58,4,-179.43
+ORD-11202,2024-03-15,Customer_154,Clothing,Jeans,North,1330.7,5,109.69
+ORD-11901,2024-02-12,Customer_160,Office Supplies,Notebook,West,342.0,5,15.06
+ORD-10723,2023-10-01,Customer_30,Office Supplies,Stapler,East,580.9,9,29.14
+ORD-10859,2024-05-25,Customer_38,Clothing,Jacket,North,1170.81,8,244.8
+ORD-10969,2023-03-07,Customer_153,Furniture,Bookshelf,South,171.71,6,31.25
+ORD-10496,2024-10-05,Customer_271,Furniture,Sofa,,880.12,10,186.34
+ORD-10950,2023-12-22,Customer_44,Technology,Keyboard,East,179.73,11,33.46
+ORD-10805,2023-08-24,Customer_149,Electronics,Speaker,West,707.06,8,223.74
+ORD-10129,2024-02-24,Customer_110,Electronics,Smartwatch,East,266.83,6,82.83
+ORD-10337,2024-10-27,Customer_196,Electronics,Headphones,North,177.23,13,38.24
+ORD-11149,2023-12-08,Customer_90,Furniture,Filing Cabinet,North,525.26,10,146.67
+ORD-10608,2024-03-14,Customer_76,Technology,Mouse,West,452.15,1,155.86
+ORD-11148,2023-11-21,Customer_203,Furniture,Sofa,North,1435.11,11,457.59
+ORD-10195,2024-06-07,Customer_281,Technology,Webcam,North,1134.25,11,97.28
+ORD-11250,2023-03-01,Customer_271,Technology,Laptop,North,605.59,2,59.24
+ORD-11292,2023-06-16,Customer_66,Furniture,Sofa,North,639.27,6,168.39
+ORD-11994,2023-03-26,Customer_50,Office Supplies,Folder,South,862.11,6,131.07
+ORD-10909,2024-11-06,Customer_117,Furniture,Sofa,South,396.65,12,43.81
+ORD-10584,2024-11-24,Customer_137,Furniture,Office Chair,South,1992.87,11,494.24
+ORD-10103,2024-09-22,Customer_192,Office Supplies,Pen Set,North,767.02,9,-107.36
+ORD-11864,2023-11-28,Customer_37,Clothing,Jacket,West,1732.24,7,506.78
+ORD-11883,2023-08-01,Customer_249,Clothing,Jacket,West,1551.15,13,209.76
+ORD-10719,2023-02-04,Customer_237,Technology,Laptop,South,1795.22,13,-93.09
+ORD-10884,2024-06-02,Customer_128,Office Supplies,Stapler,West,288.61,6,-5.77
+ORD-10776,2024-05-08,Customer_209,Furniture,Bookshelf,South,953.19,4,82.22
+ORD-11569,2023-09-01,,Technology,Webcam,North,1957.08,5,419.19
+ORD-10849,2023-02-24,Customer_237,Office Supplies,Notebook,NORTH,167.18,2,-15.43
+ORD-10894,2023-11-07,Customer_208,Clothing,Hat,South,998.08,11,284.13
+ORD-10227,2024-01-10,Customer_234,Clothing,Hat,South,341.52,7,-19.07
+ORD-11897,2024-01-11,Customer_214,Office Supplies,Printer Paper,South,41.84,5,13.11
+ORD-11325,2023-09-09,Customer_122,Electronics,Speaker,East,611.37,11,173.31
+ORD-11299,2023-06-20,Customer_70,Office Supplies,Stapler,East,1362.23,3,185.3
+ORD-10126,2023-05-21,Customer_218,Technology,Keyboard,South,,1,-29.43
+ORD-10405,2024-02-18,Customer_260,Furniture,Standing Desk,East,68.51,8,0.21
+ORD-10775,2023-07-10,Customer_115,Furniture,Office Chair,East,,12,174.82
+ORD-10821,2024-12-10,Customer_143,Clothing,Jeans,North,958.83,10,-35.58
+ORD-10711,2024-06-11,Customer_150,Electronics,Charger,East,1272.95,13,298.46
+ORD-11905,2023-03-09,Customer_3,Office Supplies,Folder,East,671.9,13,-71.24
+ORD-11060,2023-09-27,Customer_280,Technology, Laptop  ,East,1749.16,12,-225.95
+ORD-11163,2024-07-08,Customer_131,Furniture,Sofa,South,609.19,2,149.04
+ORD-10303,2024-04-13,Customer_230,Office Supplies,Stapler,West,23.72,10,-1.44
+ORD-10267,2024-06-20,Customer_266,Clothing,Jacket,South,1158.82,1,103.92
+ORD-11557,2024-02-24,Customer_105,Clothing,Jacket,South,1301.28,1,-173.69
+ORD-10545,2024-05-13,Customer_187,Electronics,Headphones,North,823.9,12,-117.94
+ORD-10212,2023-06-08,Customer_213,Clothing,T-Shirt,East,843.5,5,230.38
+ORD-10896,2023-09-21,Customer_248,Electronics,Tablet,East,1690.58,9,116.69
+ORD-11492,2023-04-20,Customer_43,Clothing,Jacket,South,1846.79,1,-224.64
+ORD-11222,2023-09-18,Customer_157,Technology,Monitor,North,165.66,3,-20.42
+ORD-10916,2023-01-12,Customer_270,Clothing,Hat,North,634.53,10,146.62
+ORD-11551,2023-08-30,Customer_165,Electronics,Headphones,North,230.83,12,22.14
+ORD-10675,2024-01-01,Customer_7,Clothing,Jeans,South,628.33,9,22.0
+ORD-11289,2024-09-28,Customer_74,Office Supplies,Folder,North,1501.5,4,-140.04
+ORD-10814,2023-07-29,Customer_42,Electronics,Headphones,South,922.19,7,83.93
+ORD-11265,2024-10-20,Customer_164,Office Supplies,Folder,East,145.26,8,22.01
+ORD-10342,2023-10-16,Customer_271,Clothing,Jeans,East,270.0,2,50.78
+ORD-10549,2023-07-30,Customer_48,Office Supplies,Notebook,South,1739.45,2,68.82
+ORD-11410,2024-11-19,Customer_37,Furniture,Filing Cabinet,East,951.19,9,-128.89
+ORD-11214,2023-02-08,Customer_29,Furniture,Standing Desk,East,1162.23,8,-150.54
+ORD-10966,2024-09-04,Customer_120,Furniture,Bookshelf,North,1064.97,10,137.08
+ORD-11230,2024-03-10,Customer_183,Technology,Keyboard,,1093.93,4,124.41
+ORD-10295,2023-08-01,Customer_29,Electronics,Speaker,East,1457.44,3,377.32
+ORD-10695,2024-02-20,Customer_150,Office Supplies,Notebook,West,1653.21,5,403.17
+ORD-11452,2023-07-24,Customer_166,Furniture,Filing Cabinet,South,1443.97,10,205.76
+ORD-10073,2023-06-16,Customer_182,Clothing,Jeans,West,859.96,7,260.72
+ORD-10605,2024-03-24,Customer_2,Furniture,Bookshelf,South,1405.42,11,222.72
+ORD-10104,2024-06-20,Customer_300,Furniture,Standing Desk,East,1783.24,4,261.77
+ORD-10645,2023-12-07,Customer_129,Electronics,Tablet,South,1563.44,2,-221.85
+ORD-11404,2023-02-03,Customer_296,Clothing,Hat,West,263.36,7,-12.76
+ORD-11981,2024-09-29,Customer_215,Electronics,Charger,West,1298.91,2,445.51
+ORD-11040,2024-09-18,Customer_193,Furniture,Office Chair,North,496.55,11,110.14
+ORD-10439,2024-05-03,Customer_159,Clothing,T-Shirt,North,1386.2,2,270.38
+ORD-11019,2024-09-03,Customer_105,Office Supplies,Folder,West,114.61,12,2.99
+ORD-10091,2024-02-26,Customer_103,Technology,Keyboard,North,1242.18,2,422.63
+ORD-11112,2023-04-12,Customer_131,Electronics,Headphones,East,336.07,9,100.2
+ORD-11772,2024-12-16,Customer_149,Furniture,Filing Cabinet,West,,5,126.12
+ORD-10908,2023-02-18,Customer_7,Office Supplies,Pen Set,South,,2,-176.26
+ORD-11474,2024-04-07,Customer_266,Electronics, Tablet  ,North,373.75,3,86.96
+ORD-10102,2023-12-29,Customer_238,Office Supplies,Pen Set,North,1073.58,10,-103.51
+ORD-10238,2024-10-26,Customer_154,Clothing,Hat,West,772.79,5,38.18
+ORD-11719,2024-07-29,Customer_61,Technology,Webcam,North,1642.28,5,-139.02
+ORD-10942,2023-02-20,Customer_226,Technology,Laptop,West,1866.55,3,-163.11
+ORD-11270,2024-06-27,Customer_8,Electronics,Tablet,North,888.57,13,214.15
+ORD-10938,2023-02-19,Customer_46,Technology,Laptop,East,913.24,11,191.19
+ORD-11709,2024-10-10,Customer_71,Furniture,Office Chair,South,69.53,7,10.56
+ORD-11181,2023-10-27,Customer_113,Clothing,Jeans,West,250.04,5,39.54
+ORD-11503,2023-06-17,Customer_264,Clothing,T-Shirt,South,580.37,8,40.04
+ORD-11669,2024-10-30,Customer_7,Furniture,Bookshelf,West,841.1,1,-91.54
+ORD-10005,2023-11-12,Customer_89,Furniture,Standing Desk,South,1135.31,10,48.49
+ORD-11832,2023-11-03,Customer_30,Technology,Laptop,South,809.23,5,-11.84
+ORD-10965,2024-05-02,Customer_238,Electronics,Speaker,,818.97,13,13.64
+ORD-10018,2024-07-31,Customer_284,Office Supplies,Pen Set,East,1256.22,5,-2.74
+ORD-11430,2024-08-08,Customer_208,Furniture,Office Chair,SOUTH,1115.79,12,-161.01
+ORD-10121,2024-02-24,Customer_231,Electronics,Headphones,South,1995.43,13,451.37
+ORD-10661,2023-10-14,Customer_245,Office Supplies,Pen Set,West,659.0,14,83.81
+ORD-11699,2023-07-21,Customer_176,Office Supplies,Notebook,North,505.67,7,102.29
+ORD-10274,2024-02-26,Customer_124,Clothing,Hat,South,863.65,4,-73.1
+ORD-10433,2023-08-02,Customer_45,Furniture,Office Chair,South,321.61,13,96.4
+ORD-10811,2024-11-17,Customer_18,Furniture,Filing Cabinet,,854.99,3,-111.18
+ORD-11300,2024-08-15,Customer_297,Technology,Laptop,North,765.1,7,24.17
+ORD-11335,2023-06-07,Customer_242,Furniture,Standing Desk,North,601.65,8,-6.81
+ORD-11884,2023-03-28,Customer_112,Clothing,Jeans,South,393.21,10,99.47
+ORD-11907,2023-06-26,Customer_216,Clothing,Sneakers,South,898.75,2,-24.22
+ORD-11570,2023-04-17,Customer_296,Electronics,Smartwatch,West,586.4,3,63.58
+ORD-10181,2023-04-02,Customer_168,Furniture,Bookshelf,South,1704.15,9,483.38
+ORD-10184,2024-12-18,Customer_258,Electronics, Speaker  ,South,1518.14,2,-31.36
+ORD-10406,2023-10-17,Customer_173,Office Supplies,Printer Paper,,32.06,6,-3.19
+ORD-10865,2024-11-04,Customer_119,Clothing,Jeans,North,146.91,10,21.75
+ORD-11630,2024-10-19,Customer_83,Office Supplies,Printer Paper,West,849.77,7,-120.28
+ORD-10520,2023-07-24,Customer_239,Furniture,Standing Desk,West,1399.32,13,136.93
+ORD-11003,2023-08-23,Customer_8,Technology,Keyboard,South,1269.75,8,-86.59
+ORD-10380,2023-05-28,Customer_47,Electronics,Headphones,West,692.74,2,75.25
+ORD-11434,2024-12-27,Customer_69,Furniture,Sofa,West,1526.15,1,478.83
+ORD-11658,2024-04-05,Customer_20,Technology,Laptop,North,489.89,8,-2.78
+ORD-11393,2024-08-25,Customer_13,Clothing,Jacket,South,1491.8,4,-35.75
+ORD-11424,2024-08-20,Customer_179,Office Supplies,Folder,North,1654.25,10,568.3
+ORD-11612,2023-07-13,Customer_184,Office Supplies,Folder,East,1696.63,12,255.12
+ORD-10427,2024-11-05,Customer_138,Technology,Laptop,South,995.87,1,51.93
+ORD-10078,2023-08-21,Customer_47,Clothing,T-Shirt,East,449.28,1,-1.24
+ORD-11597,2024-09-12,Customer_258,Furniture,Bookshelf,South,1873.57,3,617.7
+ORD-11009,2023-06-29,Customer_286,Furniture,Sofa,West,1308.92,4,343.28
+ORD-11990,2023-07-16,Customer_253,Technology,Keyboard,East,660.39,14,71.4
+ORD-11661,2024-05-31,Customer_114,Clothing,Jeans,North,607.31,9,178.99
+ORD-10607,2024-04-01,Customer_94,Electronics,Charger,East,82.92,8,19.99
+ORD-11800,2024-05-28,Customer_65,Furniture,Office Chair,East,877.05,2,-44.87
+ORD-11496,2024-08-25,Customer_259,Clothing,Jeans,East,1686.2,10,-243.63
+ORD-11839,2024-02-27,Customer_242,Technology,Mouse,SOUTH,1196.33,10,244.14
+ORD-11057,2024-08-22,Customer_105,Technology,Monitor,South,869.26,11,124.11
+ORD-11440,2024-04-13,Customer_26,Furniture,Bookshelf,East,1151.21,2,375.94
+ORD-11514,2023-12-25,Customer_47,Clothing,Jacket,West,1667.83,10,-12.83
+ORD-11585,2024-05-07,Customer_211,Electronics,Headphones,South,1577.6,10,370.68
+ORD-11091,2023-12-11,Customer_278,Office Supplies,Stapler,South,1916.38,9,-212.99
+ORD-11560,2023-07-15,Customer_217,Clothing,Jacket,East,869.8,7,2.09
+ORD-11101,2023-07-24,Customer_139,Electronics,Charger,South,1319.23,9,54.24
+ORD-11129,2024-03-06,Customer_210,Technology,Webcam,East,488.53,8,144.06
+ORD-11235,2023-12-04,Customer_70,Furniture,Filing Cabinet,East,408.95,8,64.17
+ORD-11782,2023-01-08,Customer_246,Office Supplies,Notebook,South,665.14,14,-20.75
+ORD-10958,2024-04-16,Customer_69,Electronics,Headphones,North,1475.35,8,417.86
+ORD-11662,2024-01-11,Customer_214,Office Supplies,Folder,East,588.56,11,59.07
+ORD-10559,2023-08-22,Customer_212,Furniture,Bookshelf,North,1388.6,9,210.4
+ORD-10846,2023-04-02,Customer_21,Furniture,Standing Desk,North,1855.28,7,614.15
+ORD-11868,2024-08-27,Customer_117,Furniture,Standing Desk,East,1540.79,10,-104.54
+ORD-10690,2023-04-27,Customer_190,Electronics,Headphones,North,890.91,5,153.22
+ORD-11519,2024-06-14,Customer_296,Technology,Monitor,South,249.04,2,80.47
+ORD-11955,2023-11-17,Customer_65,Clothing,Hat,South,353.84,1,86.92
+ORD-11882,2024-01-14,Customer_70,Office Supplies,Pen Set,West,614.38,12,140.22
+ORD-10436,2024-06-23,Customer_288,Technology,Keyboard,,1558.32,10,-74.03
+ORD-10490,2024-04-25,Customer_73,Office Supplies,Pen Set,East,1350.67,11,191.5
+ORD-11813,2023-02-13,Customer_82,Electronics,Charger,South,779.26,10,5.23
+ORD-11854,2023-01-18,Customer_16,Technology,Laptop,South,577.52,8,-64.22
+ORD-11629,2024-12-25,Customer_180,Furniture,Sofa,South,674.59,11,189.06
+ORD-11387,2024-03-30,Customer_67,Technology,Laptop,East,1187.15,3,101.6
+ORD-10069,2023-08-03,Customer_163,Technology,Monitor,West,1100.91,12,223.39
+ORD-11572,2023-04-12,Customer_34,Technology,Laptop,South,743.59,8,236.52
+ORD-10808,2024-03-18,Customer_39,Electronics,Smartwatch,,1570.34,4,353.45
+ORD-11184,2024-10-04,Customer_1,Technology,Keyboard,South,1050.5,9,294.57
+ORD-10011,2023-12-10,Customer_9,Furniture,Office Chair,North,801.87,11,-2.61
+ORD-10144,2024-04-15,Customer_195,Clothing,Jeans,,87.77,5,23.29
+ORD-10917,2023-12-28,Customer_69,Technology,Keyboard,West,1480.11,4,-34.9
+ORD-11541,2023-06-24,Customer_224,Clothing,Hat,North,778.54,1,208.48
+ORD-11451,2024-07-20,Customer_136,Clothing,Jeans,North,1727.06,14,508.73
+ORD-10639,2024-10-14,Customer_34,Electronics,Tablet,North,508.11,4,171.75
+ORD-10176,2023-11-19,Customer_105,Electronics,Speaker,North,560.46,3,49.51
+ORD-10994,2023-07-29,Customer_115,Technology,Laptop,South,355.02,9,-19.97
+ORD-10440,2024-07-19,Customer_248,Electronics,Charger,South,842.97,2,0.81
+ORD-10521,2023-09-26,Customer_71,Electronics,Speaker,West,795.88,7,237.04
+ORD-11998,2023-12-16,Customer_288,Office Supplies,Folder,East,841.99,5,210.2
+ORD-11959,2024-09-25,Customer_202,Office Supplies,Notebook,North,1256.97,10,370.33
+ORD-11712,2023-02-11,Customer_249,Clothing,T-Shirt,West,1220.26,13,157.27
+ORD-11004,2024-06-29,Customer_296,Electronics,Tablet,South,1061.37,1,270.01
+ORD-11255,2023-07-24,Customer_31,Furniture,Sofa,North,1648.84,11,-74.16
+ORD-11234,2024-04-20,Customer_255,Furniture,Sofa,West,1048.41,14,138.93
+ORD-11664,2024-03-05,Customer_120,Office Supplies,Pen Set,WEST,962.44,2,333.86
+ORD-10143,2023-10-12,Customer_36,Office Supplies,Folder,North,854.42,5,253.2
+ORD-10753,2023-03-23,Customer_125,Furniture, Sofa  ,South,164.55,1,36.53
+ORD-10519,2024-03-24,Customer_175,Furniture,Bookshelf,North,423.26,13,5.83
+ORD-11821,2024-09-27,Customer_190,Clothing,Hat,West,1262.2,2,428.78
+ORD-11322,2024-07-19,Customer_168,Clothing,Jacket,North,76.11,7,20.11
+ORD-10822,2024-05-10,Customer_221,Electronics,Smartwatch,North,520.01,7,37.14
+ORD-10428,2023-06-20,Customer_29,Clothing,Sneakers,South,1757.74,10,-227.05
+ORD-10612,2024-02-19,Customer_269,Electronics,Smartwatch,North,620.51,6,196.25
+ORD-11505,2023-05-12,Customer_36,Technology,Monitor,East,984.29,9,252.56
+ORD-11032,2023-11-23,Customer_94,Technology,Laptop,West,178.53,11,15.57
+ORD-10156,2024-09-07,Customer_61,Furniture,Office Chair,West,880.96,3,-23.61
+ORD-10539,2024-08-08,Customer_269,Electronics,Speaker,East,1330.7,4,342.62
+ORD-11530,2023-03-03,Customer_62,Furniture,Standing Desk,West,1878.72,7,396.7
+ORD-11460,2023-08-17,Customer_273,Electronics,Charger,East,1210.69,3,148.95
+ORD-11290,2024-10-29,Customer_72,Office Supplies,Stapler,East,1216.67,10,-61.72
+ORD-10461,2024-06-19,Customer_24,Electronics,Charger,East,1316.21,9,-97.67
+ORD-10576,2024-11-29,Customer_256,Furniture,Bookshelf,East,688.21,13,147.78
+ORD-11362,2024-04-30,Customer_197,Clothing,T-Shirt,South,1612.44,7,289.56
+ORD-10255,2024-05-31,Customer_130,Clothing,Hat,West,158.46,8,26.95
+ORD-10979,2024-04-04,Customer_191,Technology,Monitor,North,363.32,8,77.17
+ORD-11185,2024-02-21,Customer_241,Furniture,Sofa,West,692.53,5,141.26
+ORD-11006,2023-04-25,Customer_197,Electronics, Speaker  ,West,1028.83,9,126.42
+ORD-11521,2024-06-03,Customer_212,Electronics,Speaker,North,1172.72,14,-30.01
+ORD-11689,2023-11-29,Customer_193,Technology,Monitor,South,663.94,11,206.95
+ORD-10560,2023-11-05,Customer_231,Electronics,Charger,South,1951.18,10,504.35
+ORD-10208,2023-03-28,Customer_12,Technology,Keyboard,East,1307.58,3,117.21
+ORD-10910,2024-08-14,Customer_217,Office Supplies,Printer Paper,West,857.43,3,212.46
+ORD-11311,2024-08-05,Customer_149,Office Supplies,Printer Paper,North,1597.96,14,232.04
+ORD-10001,2024-10-25,Customer_100,Office Supplies,Pen Set,South,1308.76,8,-159.4
+ORD-11365,2023-11-15,Customer_52,Office Supplies,Folder,West,1931.51,4,370.7
+ORD-10269,2023-03-20,Customer_25,Furniture,Filing Cabinet,West,1926.97,12,240.42
+ORD-10265,2023-08-04,Customer_158,Technology,Webcam,North,1074.31,3,226.37
+ORD-10914,2023-06-25,Customer_244,Furniture,Filing Cabinet,East,1355.1,3,460.7
+ORD-10230,2023-01-01,Customer_289,Clothing,Jeans,South,447.04,5,80.22
+ORD-11993,2024-01-06,Customer_280,Office Supplies,Folder,East,1979.34,5,-140.84
+ORD-11119,2024-12-02,Customer_140,Technology,Mouse,South,544.63,5,40.47
+ORD-11987,2023-11-28,Customer_263,Technology,Laptop,North,1218.69,11,247.09
+ORD-10864,2023-07-15,Customer_17,Technology, Mouse  ,East,,3,-122.2
+ORD-11066,2024-07-10,Customer_168,Office Supplies,Printer Paper,South,215.12,6,-7.31
+ORD-10873,2024-03-14,Customer_107,Office Supplies,Stapler,East,1727.18,12,445.69
+ORD-10674,2024-01-16,Customer_89,Electronics,Headphones,West,1410.17,6,22.11
+ORD-10398,2023-12-31,Customer_239,Clothing,Jeans,North,963.44,8,335.34
+ORD-11842,2024-09-15,Customer_270,Furniture,Filing Cabinet,South,1221.71,2,161.76
+ORD-11652,2024-07-12,Customer_299,Furniture,Sofa,,1273.34,4,-157.24
+ORD-10045,2023-04-02,Customer_143,Furniture,Sofa,North,1166.15,6,80.74
+ORD-10161,2023-09-07,Customer_86,Furniture,Standing Desk,West,639.45,7,-57.38
+ORD-10991,2024-05-04,Customer_132,Clothing,Hat,East,1565.75,7,70.65
+ORD-10727,2024-04-29,Customer_99,Furniture,Filing Cabinet,North,293.49,8,82.05
+ORD-10629,2024-01-10,Customer_94,Technology,Laptop,East,1613.83,3,-199.8
+ORD-10288,2024-01-17,Customer_49,Furniture,Office Chair,West,536.21,9,-61.86
+ORD-11613,2024-04-28,Customer_41,Technology,Laptop,North,983.16,8,159.87
+ORD-11059,2023-03-29,Customer_149,Clothing,Hat,North,164.23,4,51.95
+ORD-11971,2024-05-07,Customer_105,Clothing,Jacket,South,1534.7,5,502.2
+ORD-10575,2024-12-20,Customer_237,Office Supplies,Printer Paper,North,585.7,8,183.65
+ORD-10850,2023-07-20,Customer_87,Electronics,Tablet,West,32.24,3,8.23
+ORD-11339,2023-11-21,Customer_191,Office Supplies,Folder,South,1008.09,13,318.32
+ORD-10911,2023-12-22,Customer_181,Office Supplies,Folder,South,,5,109.27
+ORD-11254,2023-09-01,Customer_4,Electronics,Speaker,South,843.66,10,188.42
+ORD-11722,2023-12-02,Customer_108,Technology,Mouse,North,1557.25,5,230.42
+ORD-11906,2024-08-21,Customer_155,Technology,Mouse,North,1186.45,5,354.82
+ORD-11735,2023-04-30,Customer_19,Office Supplies,Printer Paper,North,583.39,14,151.46
+ORD-10932,2023-10-03,Customer_115,Clothing,Jacket,West,1440.4,11,262.4
+ORD-11100,2023-02-16,Customer_172,Clothing,Sneakers,North,1628.12,11,460.78
+ORD-11657,2023-12-17,Customer_241,Furniture,Sofa,West,1639.24,11,219.53
+ORD-11207,2023-09-30,Customer_283,Electronics,Headphones,West,988.68,2,41.0
+ORD-10247,2023-01-10,Customer_9,Clothing,T-Shirt,East,366.05,10,11.12
+ORD-10476,2023-12-05,Customer_168,Office Supplies,Folder,North,870.6,6,3.85
+ORD-11694,2023-12-14,Customer_244,Electronics,Speaker,South,1393.36,9,440.37
+ORD-10085,2023-04-15,Customer_98,Office Supplies,Pen Set,West,841.34,7,-11.19
+ORD-10469,2024-03-11,Customer_48,Furniture,Office Chair,South,1271.68,5,-108.13
+ORD-10225,2023-09-08,Customer_216,Clothing,Hat,East,29.78,2,9.71
+ORD-10774,2023-08-14,Customer_90,Clothing,Jacket,North,1383.84,12,174.32
+ORD-10331,2023-06-13,Customer_297,Clothing,Jacket,South,567.35,9,3.5
+ORD-10233,2024-03-29,Customer_19,Electronics,Charger,East,1804.72,7,521.47
+ORD-10588,2024-05-13,Customer_192,Technology,Webcam,West,1058.98,3,251.64
+ORD-10475,2023-09-27,Customer_78,Furniture,Bookshelf,North,1689.69,8,-171.07
+ORD-11284,2024-06-11,Customer_49,Technology,Keyboard,North,909.26,2,123.05
+ORD-11885,2024-02-06,Customer_106,Technology,Monitor,East,1840.67,10,214.62
+ORD-10599,2024-03-08,Customer_149,Furniture,Standing Desk,East,1648.54,13,-104.4
+ORD-10421,2023-08-24,Customer_227,Office Supplies,Stapler,South,25.7,13,7.18
+ORD-11711,2023-11-08,Customer_264,Office Supplies,Printer Paper,West,914.06,12,127.79
+ORD-10182,2023-06-19,Customer_181,Electronics,Tablet,West,229.55,12,45.79
+ORD-10988,2023-07-25,Customer_210,Electronics,Speaker,South,816.48,10,-101.56
+ORD-11000,2024-04-24,Customer_104,Furniture,Sofa,North,1529.13,1,316.23
+ORD-11641,2023-10-24,Customer_78,Technology,Monitor,West,1817.91,13,-58.46
+ORD-11356,2024-01-08,Customer_262,Electronics,Tablet,North,733.12,1,244.94
+ORD-11462,2024-09-18,Customer_120,Technology,Laptop,East,469.23,1,2.54
+ORD-10049,2024-01-05,Customer_269,Office Supplies,Printer Paper,South,1042.27,1,11.96
+ORD-11892,2023-06-18,Customer_186,Technology,Laptop,South,449.04,7,-29.25
+ORD-11029,2023-11-19,Customer_275,Clothing,Hat,South,975.34,3,157.31
+ORD-10529,2024-10-05,Customer_62,Office Supplies,Pen Set,North,939.19,10,198.52
+ORD-11258,2024-08-22,Customer_243,Electronics,Charger,West,598.76,12,153.01
+ORD-10486,2024-11-19,Customer_219,Furniture,Filing Cabinet,East,807.27,10,-14.42
+ORD-11968,2023-08-30,Customer_12,Clothing,Hat,West,1319.18,6,366.02
+ORD-10497,2024-01-12,Customer_43,Office Supplies,Printer Paper,West,1347.94,13,270.17
+ORD-11646,2023-02-19,Customer_108,Technology,Keyboard,North,1996.59,7,479.7
+ORD-10106,2024-02-29,Customer_42,Furniture,Sofa,North,688.14,2,206.32
+ORD-10443,2024-12-21,Customer_161,Electronics,Tablet,South,1962.76,11,483.96
+ORD-11512,2024-11-13,Customer_300,Technology,Laptop,East,1073.97,1,-120.35
+ORD-10646,2023-06-30,Customer_47,Clothing,T-Shirt,West,1535.42,8,-36.06
+ORD-11036,2024-02-27,Customer_16,Electronics,Speaker,West,151.99,12,53.09
+ORD-11762,2024-04-25,Customer_164,Electronics,Speaker,South,1875.55,8,-124.68
+ORD-10726,2023-11-26,Customer_109,Electronics,Smartwatch,South,432.63,3,-36.14
+ORD-10190,2024-04-03,Customer_79,Office Supplies,Notebook,East,1372.92,14,100.16
+ORD-11788,2023-12-09,Customer_90,Furniture,Filing Cabinet,East,1832.05,14,103.97
+ORD-11856,2024-08-08,Customer_103,Office Supplies,Stapler,North,817.89,11,-115.92
+ORD-10282,2023-08-30,Customer_10,Clothing,Hat,,96.08,5,28.91
+ORD-10029,2024-07-04,Customer_128,Clothing,T-Shirt,West,,12,-152.3
+ORD-10169,2024-10-26,Customer_293,Technology,Mouse,East,568.99,9,173.64
+ORD-11001,2024-07-22,Customer_264,Electronics,Headphones,East,188.58,7,0.28
+ORD-11204,2023-01-31,Customer_71,Office Supplies,Folder,SOUTH,1010.6,8,300.2
+ORD-10100,2023-09-14,Customer_26,Office Supplies,Folder,West,187.34,4,27.85
+ORD-10197,2024-06-19,Customer_181,Clothing,Jeans,West,1843.28,14,291.84
+ORD-10495,2023-02-23,Customer_283,Furniture,Standing Desk,East,667.55,5,196.95
+ORD-11745,2023-08-23,Customer_122,Office Supplies,Pen Set,EAST,1999.35,12,-128.44
+ORD-10647,2023-06-20,Customer_296,Clothing,Sneakers,North,1928.37,3,-159.01
+ORD-10987,2024-11-04,Customer_199,Office Supplies,Printer Paper,South,1052.99,4,-19.65
+ORD-10044,2024-05-20,Customer_13,Office Supplies,Stapler,West,30.27,4,4.96
+ORD-11952,2023-05-09,Customer_6,Clothing,Hat,North,226.92,8,-10.28
+ORD-10710,2024-09-01,Customer_99,Furniture,Filing Cabinet,East,1311.5,6,104.69
+ORD-10373,2024-09-20,Customer_155,Clothing,Jeans,South,1806.86,14,-211.0
+ORD-10678,2024-09-13,Customer_79,Clothing,Hat,West,1768.88,10,101.56
+ORD-10566,2023-07-09,Customer_96,Technology, Keyboard  ,South,291.55,8,40.92
+ORD-11672,2023-02-28,Customer_279,Technology,Webcam,East,1583.66,6,-67.13
+ORD-11821,2024-09-27,Customer_190,Clothing,Hat,West,1262.2,2,428.78
+ORD-10847,2023-01-25,Customer_182,Clothing,Sneakers,East,1918.57,2,-150.79
+ORD-10460,2024-02-25,Customer_271,Clothing,T-Shirt,North,930.8,11,-95.38
+ORD-11437,2024-11-08,Customer_196,Office Supplies,Notebook,East,748.81,7,-65.49
+ORD-11155,2024-12-30,Customer_111,Furniture,Sofa,South,1446.34,11,104.48
+ORD-10039,2024-01-08,Customer_46,Clothing,Sneakers,East,1769.32,5,396.08
+ORD-10434,2024-02-16,Customer_226,Furniture,Filing Cabinet,East,,12,-115.02
+ORD-10973,2023-10-15,Customer_187,Electronics,Tablet,West,88.61,5,-7.65
+ORD-11239,2023-08-16,Customer_198,Electronics,Speaker,East,1760.82,8,-252.67
+ORD-11007,2023-07-14,Customer_233,Technology,Laptop,West,1371.55,1,391.91
+ORD-11579,2023-09-10,Customer_168,Electronics,Smartwatch,West,1281.15,12,-42.08
+ORD-11590,2023-02-11,Customer_145,Furniture,Bookshelf,East,980.44,1,297.13
+ORD-11786,2023-11-06,Customer_16,Office Supplies,Notebook,West,300.27,2,61.61
+ORD-11498,2024-07-13,Customer_29,Furniture,Standing Desk,North,160.33,14,23.9
+ORD-10456,2023-12-20,Customer_278,Technology,Laptop,West,1365.51,4,-51.28
+ORD-11835,2024-01-15,Customer_110,Office Supplies,Folder,South,768.74,13,193.7
+ORD-10260,2023-12-30,Customer_248,Office Supplies,Folder,South,502.44,4,93.34
+ORD-11840,2024-05-09,Customer_186,Furniture,Sofa,North,935.27,9,0.75
+ORD-10035,2023-06-10,Customer_169,Technology,Keyboard,South,55.79,4,5.41
+ORD-10827,2024-07-21,Customer_71,Clothing,Hat,West,1262.39,3,393.65
+ORD-10309,2023-10-30,Customer_251,Furniture,Bookshelf,South,1996.73,13,632.08
+ORD-10276,2024-02-09,Customer_219,Electronics, Speaker  ,East,58.0,10,-1.17
+ORD-10636,2023-05-04,Customer_180,Electronics,Speaker,North,1522.99,4,325.56
+ORD-10654,2024-09-04,Customer_12,Technology,Webcam,North,1162.22,8,153.37
+ORD-10622,2023-01-04,Customer_108,Technology,Webcam,East,1540.89,10,154.46
+ORD-11859,2023-11-10,Customer_251,Clothing,Hat,South,1594.38,10,384.04
+ORD-10844,2024-04-28,Customer_147,Electronics,Tablet,NORTH,,8,-106.5
+ORD-10393,2024-07-12,Customer_173,Electronics,Speaker,North,1742.54,11,-147.55
+ORD-11769,2024-12-18,Customer_68,Electronics,Tablet,North,162.45,7,-20.63
+ORD-10107,2024-01-12,Customer_229,Office Supplies,Pen Set,West,489.71,6,-48.53
+ORD-10349,2024-12-13,Customer_275,Office Supplies,Pen Set,North,1682.13,14,573.44
+ORD-10524,2023-12-02,Customer_86,Furniture,Filing Cabinet,West,,6,-36.49
+ORD-10784,2024-06-21,Customer_19,Clothing,Hat,North,859.06,12,18.1
+ORD-10047,2023-02-23,Customer_271,Furniture,Sofa,East,1083.42,8,14.44
+ORD-10203,2024-08-11,Customer_233,Technology,Laptop,West,175.59,2,8.51
+ORD-10375,2023-05-07,Customer_49,Electronics,Smartwatch,East,699.47,9,150.1
+ORD-11655,2023-01-05,Customer_247,Clothing,Sneakers,South,1004.34,5,255.78
+ORD-10021,2023-12-25,Customer_259,Clothing,Hat,West,346.02,14,40.5
+ORD-10402,2023-01-19,Customer_163,Office Supplies,Notebook,East,417.29,8,144.93
+ORD-11107,2023-10-16,Customer_246,Furniture,Bookshelf,West,1938.56,2,613.63
+ORD-11154,2023-11-02,Customer_257,Clothing,Hat,West,1860.23,11,305.47
+ORD-11439,2023-09-21,Customer_10,Technology,Laptop,East,870.88,12,54.36
+ORD-11131,2023-10-22,Customer_253,Technology,Monitor,South,1453.5,3,-63.92
+ORD-10989,2023-09-18,Customer_100,Electronics,Smartwatch,South,227.57,8,-3.65
+ORD-11865,2024-11-05,Customer_283,Electronics,Tablet,South,1001.11,7,-96.8
+ORD-10741,2024-11-20,Customer_298,Clothing,T-Shirt,North,815.55,11,113.29
+ORD-11721,2023-08-28,Customer_160,Technology,Webcam,East,1895.39,7,279.76
+ORD-11310,2024-06-20,Customer_227,Electronics,Tablet,North,731.9,6,-63.75
+ORD-11147,2024-04-16,Customer_180,Electronics,Tablet,North,1807.02,13,516.95
+ORD-10033,2024-08-09,Customer_116,Clothing,T-Shirt,South,1872.56,8,454.41
+ORD-10787,2023-02-15,Customer_118,Technology,Keyboard,South,1488.42,13,375.9
+ORD-11540,2024-02-01,Customer_95,Office Supplies,Printer Paper,East,67.47,4,0.44
+ORD-10923,2023-02-01,Customer_234,Electronics,Smartwatch,West,1474.01,2,163.42
+ORD-11043,2024-05-14,Customer_6,Electronics,Charger,South,251.04,7,44.69
+ORD-11949,2023-12-11,Customer_209,Clothing,T-Shirt,South,557.11,9,87.73
+ORD-11243,2024-01-12,Customer_155,Clothing,Jacket,South,842.12,2,132.67
+ORD-11915,2024-07-05,Customer_294,Electronics,Speaker,East,1416.76,5,266.17
+ORD-10579,2023-02-27,Customer_273,Clothing,T-Shirt,West,489.43,7,158.7
+ORD-10481,2023-04-28,Customer_69,Furniture,Filing Cabinet,West,509.32,2,14.22
+ORD-10931,2024-11-29,Customer_181,Clothing,Sneakers,East,910.36,13,20.6
+ORD-10356,2024-04-24,Customer_216,Furniture,Sofa,North,1152.11,8,125.26
+ORD-11685,2023-03-25,Customer_198,Clothing,Sneakers,South,383.78,8,15.13
+ORD-11248,2023-09-07,Customer_291,Furniture,Office Chair,East,1465.39,8,-123.28
+ORD-10759,2024-11-21,Customer_184,Office Supplies,Printer Paper,East,56.18,11,16.97
+ORD-10092,2023-06-15,Customer_249,Technology, Monitor  ,East,912.8,14,278.62
+ORD-11175,2024-07-26,Customer_104,Office Supplies,Folder,East,1131.08,11,219.11
+ORD-11415,2023-04-07,Customer_289,Electronics,Speaker,West,652.91,10,166.63
+ORD-11341,2024-01-20,Customer_187,Technology,Mouse,East,701.27,3,244.44
+ORD-11472,2023-10-06,Customer_124,Furniture,Bookshelf,South,512.1,14,1.06
+ORD-10803,2023-01-02,Customer_140,Electronics,Tablet,North,1066.74,5,18.37
+ORD-10745,2023-09-13,Customer_189,Furniture,Standing Desk,South,41.22,1,5.03
+ORD-11546,2023-10-12,Customer_14,Furniture,Bookshelf,South,,8,250.77
+ORD-10279,2024-09-20,Customer_183,Electronics,Charger,South,986.72,4,-73.98
+ORD-11607,2023-04-07,Customer_180,Clothing,T-Shirt,North,844.2,1,-14.56
+ORD-10764,2023-08-07,Customer_179,Electronics,Smartwatch,East,1481.0,11,-119.22
+ORD-10604,2023-02-25,Customer_37,Technology,Webcam,West,202.49,5,28.86
+ORD-10613,2023-01-26,Customer_217,Electronics,Speaker,West,1875.48,6,11.07
+ORD-11373,2024-09-08,Customer_148,Office Supplies,Notebook,South,847.9,1,259.04
+ORD-11951,2024-04-28,Customer_263,Technology,Mouse,East,208.23,9,38.94
+ORD-11398,2024-04-23,Customer_213,Furniture,Office Chair,North,541.23,12,69.34
+ORD-10400,2023-04-24,Customer_208,Electronics,Smartwatch,North,964.15,11,186.91
+ORD-11728,2023-08-29,Customer_122,Technology,Laptop,South,597.32,4,-51.13
+ORD-10257,2023-12-20,Customer_209,Clothing,Jacket,East,903.78,6,15.17
+ORD-10944,2024-10-12,Customer_133,Furniture,Sofa,South,593.08,1,53.27
+ORD-11875,2023-11-24,Customer_51,Office Supplies,Folder,North,874.8,1,146.11
+ORD-11096,2023-10-01,Customer_285,Office Supplies,Folder,West,1673.1,1,381.37
+ORD-11219,2023-01-07,Customer_254,Electronics,Headphones,North,1457.86,5,394.95
+ORD-11507,2024-12-20,Customer_107,Furniture,Sofa,East,1298.11,1,62.54
+ORD-11879,2023-11-25,,Clothing,Sneakers,South,1640.06,14,-241.37
+ORD-11161,2024-11-02,Customer_257,Furniture,Office Chair,West,1183.62,3,352.6
+ORD-10494,2024-02-24,Customer_138,Furniture,Sofa,NORTH,1456.94,6,231.11
+ORD-10772,2024-02-17,Customer_67,Technology,Keyboard,North,309.12,7,98.62
+ORD-10550,2024-10-22,Customer_51,Clothing,Hat,North,1962.61,1,342.97
+ORD-11486,2024-03-02,Customer_110,Electronics,Speaker,East,1354.52,9,163.56
+ORD-10201,2023-08-02,Customer_267,Clothing,T-Shirt,South,1503.34,12,-115.82
+ORD-10312,2024-09-16,Customer_107,Technology,Monitor,North,1179.9,6,169.01
+ORD-10290,2023-10-15,Customer_288,Electronics,Smartwatch,South,1319.83,1,-113.44
+ORD-11984,2024-03-15,Customer_119,Furniture,Sofa,West,630.62,6,181.89
+ORD-11213,2024-01-12,Customer_33,Furniture,Bookshelf,North,1368.48,9,49.87
+ORD-10763,2024-04-26,Customer_57,Furniture,Bookshelf,South,1820.67,4,-100.02
+ORD-11136,2023-09-26,Customer_265,Technology,Keyboard,West,1553.02,5,276.6
+ORD-10949,2024-08-21,Customer_294,Furniture,Office Chair,West,285.37,11,-26.29
+ORD-10183,2023-01-31,Customer_249,Electronics,Tablet,West,1655.12,11,-141.62
+ORD-11176,2024-01-19,Customer_254,Furniture,Bookshelf,West,1449.16,14,-159.34
+ORD-11848,2023-12-31,Customer_157,Clothing,Jeans,South,655.35,5,58.83
+ORD-11349,2024-05-11,Customer_40,Electronics,Smartwatch,North,1074.72,5,182.02
+ORD-11727,2024-02-02,Customer_263,Technology,Laptop,North,808.46,8,190.78
+ORD-11068,2024-05-01,Customer_37,Electronics,Headphones,North,1658.61,1,105.88
+ORD-11468,2024-08-04,Customer_11,Office Supplies,Pen Set,South,907.77,9,-19.93
+ORD-11811,2023-01-26,Customer_241,Furniture,Office Chair,West,453.58,10,62.99
+ORD-11030,2023-10-22,Customer_171,Technology,Mouse,South,344.08,13,-3.96
+ORD-10250,2024-10-22,Customer_119,Clothing,Jacket,,209.51,3,-28.95
+ORD-10823,2023-09-12,Customer_189,Electronics,Tablet,South,862.5,5,114.46
+ORD-11099,2023-10-03,Customer_139,Electronics,Charger,West,446.41,11,-1.82
+ORD-11536,2023-10-22,Customer_234,Electronics,Speaker,North,1290.52,5,333.77
+ORD-10940,2024-07-16,Customer_278,Technology,Mouse,North,276.17,2,10.47
+ORD-10391,2024-10-25,Customer_214,Clothing,Jacket,South,1248.91,5,-61.63
+ORD-11919,2024-07-08,Customer_206,Technology,Webcam,,804.13,9,274.71
+ORD-11456,2023-08-24,Customer_258,Furniture,Filing Cabinet,West,1275.97,4,330.68
+ORD-11092,2023-05-24,,Clothing,Hat,West,321.53,9,-5.79
+ORD-11191,2024-09-12,Customer_87,Office Supplies,Stapler,South,819.22,1,155.1
+ORD-10904,2023-04-27,Customer_209,Clothing,T-Shirt,West,86.18,3,12.06
+ORD-10730,2023-07-28,Customer_183,Technology,Mouse,South,381.27,10,126.81
+ORD-10554,2024-03-09,Customer_142,Technology,Laptop,West,57.91,7,13.87
+ORD-10366,2024-05-08,Customer_267,Furniture,Filing Cabinet,South,1985.78,14,-167.31
+ORD-10345,2024-01-28,Customer_39,Electronics,Charger,East,1581.13,2,288.54
+ORD-11608,2023-04-26,Customer_210,Furniture,Sofa,West,1221.58,7,115.3
+ORD-10535,2023-09-24,Customer_269,Technology,Mouse,East,556.47,11,-27.2
+ORD-11422,2023-04-13,Customer_141,Furniture,Sofa,North,359.22,2,66.02
+ORD-11209,2024-01-22,Customer_136,Technology,Laptop,East,478.0,7,103.93
+ORD-11372,2023-01-30,Customer_282,Technology,Webcam,North,326.28,6,24.72
+ORD-11639,2024-03-25,Customer_268,Office Supplies,Pen Set,West,1645.4,1,396.96
+ORD-10919,2023-03-23,Customer_260,Technology,Webcam,North,926.33,7,-94.69
+ORD-10211,2023-02-04,Customer_243,Office Supplies,Printer Paper,East,456.71,1,27.04
+ORD-11603,2024-07-31,Customer_20,Electronics,Charger,West,1801.72,13,467.01
+ORD-10502,2023-03-14,Customer_209,Office Supplies,Pen Set,East,428.31,7,107.02
+ORD-10537,2024-10-19,Customer_279,Technology,Monitor,East,1917.83,14,125.7
+ORD-11220,2023-07-27,Customer_89,Furniture,Office Chair,East,1458.46,5,390.71
+ORD-10175,2023-04-30,Customer_227,Furniture,Bookshelf,South,1500.79,4,-198.96
