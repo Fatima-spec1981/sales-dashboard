@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-# ============================================
-# Page config (must be the first Streamlit command)
+
 # ============================================
 st.set_page_config(
     page_title="Sales Dashboard",
